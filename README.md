@@ -1,4 +1,4 @@
-# Adoption and Dog Breed Data for Prospective Dog Owners
+# Adoption and Breed Data for Prospective Dog Owners
 
 ## Team Name: The Woof Team 
 
