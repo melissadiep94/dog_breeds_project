@@ -1,0 +1,188 @@
+Breed,Breed_clean,BreedID,Weight Male,Weight Female
+Affenpinschers,Affenpinscher,1,7-10 pounds,7-10 pounds
+Afghan Hounds,Afghan Hound,2,50-60 pounds,50-60 pounds
+Airedale Terriers,Airedale Terrier,3,50-70 pounds,50-70 pounds
+Akitas,Akita,5,100-130 pounds,70-100 pounds
+Alaskan Malamutes,Alaskan Malamute,6,85 pounds,75 pounds
+American English Coonhounds,Coonhound,71,45-65 pounds,45-65 pounds
+American Eskimo Dogs,American Eskimo Dog,8,"6-10 pounds (toy), 10-20 pounds (miniature), 25-35 pounds (standard)","6-10 pounds (toy), 10-20 pounds (miniature), 25-35 pounds (standard)"
+American Foxhounds,Foxhound,99,65-70 pounds,60-65 pounds
+American Hairless Terriers,American Hairless Terrier,9,12-16 pounds,12-16 pounds
+American Staffordshire Terriers,American Staffordshire Terrier,10,55-70 pounds,40-55 pounds
+Anatolian Shepherd Dogs,Anatolian Shepherd,12,110-150 pounds,80-120 pounds
+Australian Cattle Dogs,Australian Cattle Dog/Blue Heeler,14,35-50 pounds,35-50 pounds
+Australian Shepherds,Australian Shepherd,16,50-65 pounds,40-55 pounds
+Australian Terriers,Australian Terrier,17,12-18 pounds,12-18 pounds
+Basenjis,Basenji,18,24 pounds,22 pounds
+Basset Hounds,Basset Hound,19,40-65 pounds,40-65 pounds
+Beagles,Beagle,20,"under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)","under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)"
+Bearded Collies,Bearded Collie,21,45-55 pounds,45-55 pounds
+Beaucerons,Beauceron,22,70-110 pounds,70-110 pounds
+Bedlington Terriers,Bedlington Terrier,23,17-23 pounds,17-23 pounds
+Belgian Malinois,Belgian Shepherd Malinois,26,60-80 pounds,40-60 pounds
+Belgian Sheepdogs,Belgian Shepherd Dog Sheepdog,24,55-75 pounds,45-60 pounds
+Belgian Tervuren,Belgian Shepherd Tervuren,27,55-75 pounds,45-60 pounds
+Bergamasco,Bergamasco,N/A,70-84 pounds,57-71 pounds
+Berger Picards,Berger Picard,N/A,50-70 pounds,50-70 pounds
+Bernese Mountain Dogs,Bernese Mountain Dog,28,80-115 pounds,70-95 pounds
+Bichons Frises,Bichon Frise,29,12-18 pounds,12-18 pounds
+Black and Tan Coonhounds,Black and Tan Coonhound,30,65-110 pounds,65-110 pounds
+Black Russian Terriers,Black Russian Terrier,33,80-130 pounds,80-130 pounds
+Bloodhounds,Bloodhound,34,90-110 pounds,80-100 pounds
+Bluetick Coonhounds,Bluetick Coonhound,36,55-80 pounds,45-65 pounds
+Boerboels,Boerboel,37,150-200 pounds,150-200 pounds
+Border Collies,Border Collie,39,30-55 pounds,30-55 pounds
+Border Terriers,Border Terrier,40,13-15.5 pounds,11.5-14 pounds
+Borzois,Borzoi,41,75-105 pounds,60-85 pounds
+Boston Terriers,Boston Terrier,42,12-25 pounds,12-25 pounds
+Bouviers des Flandres,Bouvier des Flanders,43,70-110 pounds,70-110 pounds
+Boxers,Boxer,44,65-80 pounds,15 pounds less than male
+Briards,Briard,46,55-100 pounds,55-100 pounds
+Brittanys,Brittany Spaniel,47,30-40 pounds,30-40 pounds
+Brussels Griffons,Brussels Griffon,48,8-10 pounds,8-10 pounds
+Bull Terriers,Bull Terrier,49,50-70 pounds,50-70 pounds
+Bulldogs,English Bulldog,82,50 pounds,40 pounds
+Bullmastiffs,Bullmastiff,50,110-130 pounds,100-120 pounds
+Cairn Terriers,Cairn Terrier,51,14 pounds,13 pounds
+Canaan Dogs,Canaan Dog,52,45-55 pounds,35-45 pounds
+Cane Corso,Cane Corso Mastiff,53,Proportionate to height,Proportionate to height
+Cardigan Welsh Corgis,Welsh Corgi,228,30-38 pounds,25-34 pounds
+Cavalier King Charles Spaniels,Cavalier King Charles Spaniel,58,13-18 pounds,13-18 pounds
+Cesky Terriers,Cesky Terrier,N/A,14-24 pounds,14-24 pounds
+Chihuahuas,Chihuahua,60,not exceeding 6 pounds,not exceeding 6 pounds
+Chinese Crested,Chinese Crested Dog,61,8-12 pounds,8-12 pounds
+Chinese Shar-Pei,Shar Pei,200,45-60 pounds,45-60 pounds
+Chinooks,Chinook,63,55-90 pounds,50-65 pounds
+Chow Chows,Chow Chow,65,45-70 pounds,45-70 pounds
+Cirnechi dell'Etna,Cirneco dell'Etna,66,22-26 pounds,17-22 pounds
+Collies,Collie,70,60-75 pounds,50-65 pounds
+Coton de Tulear,Coton de Tulear,73,9-15 pounds,8-13 pounds
+Dachshunds,Dachshund,75,"16-32 pounds (standard), 11 pounds & under (miniature)","16-32 pounds (standard), 11 pounds & under (miniature)"
+Dalmatians,Dalmatian,76,45-70 pounds,45-70 pounds
+Dandie Dinmont Terriers,Dandi Dinmont Terrier,77,18-24 pounds,18-24 pounds
+Doberman Pinschers,Doberman Pinscher,78,75-100 pounds,60-90 pounds
+Dogues de Bordeaux,Dogue de Bordeaux,80,110 pounds & up,99 pounds & up
+English Foxhounds,Foxhound,99,60-75 pounds,60-75 pounds
+English Toy Spaniels,English Toy Spaniel,89,8-14 pounds,8-14 pounds
+Entlebucher Mountain Dogs,Entlebucher,90,55-65 pounds,55-65 pounds
+Finnish Lapphunds,Finnish Lapphund,95,33-53 pounds,33-53 pounds
+Finnish Spitz,Finnish Spitz,96,25-33 pounds,20-28 pounds
+Fox Terriers (Wire),Fox Terrier,98,18 pounds in show condition,two pounds less than male
+French Bulldogs,French Bulldog,100,under 28 pounds,under 28 pounds
+German Pinschers,German Pinscher,102,25-45 pounds,25-45 pounds
+German Shepherd Dogs,German Shepherd Dog,103,65-90 pounds,50-70 pounds
+Giant Schnauzers,Giant Schnauzer,107,60-85 pounds,55-75 pounds
+Glen of Imaal Terriers,Glen of Imaal Terrier,108,32-40 pounds,32-40 pounds
+Great Danes,Great Dane,111,140-175 pounds,110-140 pounds
+Great Pyrenees,Great Pyrenees,112,100 pounds & up,85 pounds & up
+Greater Swiss Mountain Dogs,Greater Swiss Mountain Dog,113,115-140 pounds,85-110 pounds
+Greyhounds,Greyhound,114,65-70 pounds,60-65 pounds
+Harriers,Harrier,115,45-60 pounds,45-60 pounds
+Havanese,Havanese,116,7-13 pounds,7-13 pounds
+Ibizan Hounds,Ibizan Hound,120,50 pounds,45 pounds
+Icelandic Sheepdogs,Icelandic Sheepdog,N/A,30 pounds,25 pounds
+Irish Terriers,Irish Terrier,123,27 pounds,25 pounds
+Irish Wolfhounds,Irish Wolfhound,125,120 pounds,105 pounds
+Italian Greyhounds,Italian Greyhound,126,7-14 pounds,7-14 pounds
+Japanese Chin,Japanese Chin,130,7-11 pounds,7-11 pounds
+Keeshonden,Keeshond,134,35-45 pounds,35-45 pounds
+Kerry Blue Terriers,Kerry Blue Terrier,135,33-40 pounds,females weigh slightly less than males
+Komondorok,Komondor,138,100 pounds or more,80 pounds or more
+Kuvaszok,Kuvasz,139,100-115 pounds,70-90 pounds
+Lagotti Romagnoli,Lagotti Romagnoli,N/A,28.5-35 pounds,24-31 pounds
+Lakeland Terriers,Lakeland Terrier,142,17 pounds,slightly smaller
+Leonbergers,Leonberger,144,110-170 pounds,90-140 pounds
+Lhasa Apsos,Lhasa Apso,145,12-18 pounds,12-18 pounds
+Lowchen,Lowchen,146,15 pounds,15 pounds
+Maltese,Maltese,147,under 7 pounds,under 7 pounds
+Manchester Terriers,Manchester Terrier,148,"under 12 pounds (toy), 12-22 pounds (standard)","under 12 pounds (toy), 12-22 pounds (standard)"
+Mastiffs,Mastiff,150,160-230 pounds,120-170 pounds
+Miniature American Shepherds,Miniature American Shepherd,N/A,20-40 pounds,20-40 pounds
+Miniature Bull Terriers,Bull Terrier,49,18-28 pounds,18-28 pounds
+Miniature Pinschers,Miniature Pinscher,152,8-10 pounds,8-10 pounds
+Miniature Schnauzers,Schnauzer,195,11-20 pounds,11-20 pounds
+Neapolitan Mastiffs,Neapolitan Mastiff,156,150 pounds,110 pounds
+Newfoundlands,Newfoundland Dog,158,130-150 pounds,100-120 pounds
+Norfolk Terriers,Norfolk Terrier,159,11-12 pounds,11-12 pounds
+Norwegian Buhunds,Norwegian Buhund,160,31-40 pounds,26-35 pounds
+Norwegian Elkhounds,Norwegian Elkhound,161,55 pounds,48 pounds
+Norwegian Lundehunds,Norwegian Lundehund,162,20-30 pounds,20-30 pounds
+Norwich Terriers,Norwich Terrier,163,12 pounds,12 pounds
+Old English Sheepdogs,Old English Sheepdog,165,60-100 pounds,60-100 pounds
+Otterhounds,Otterhound,166,115 pounds,80 pounds
+Papillons,Papillon,167,5-10 pounds,5-10 pounds
+Parson Russell Terriers,Jack Russell Terrier (Parson Russell Terrier),129,13-17 pounds,13-17 pounds
+Pekingese,Pekingese,169,up to 14 pounds,up to 14 pounds
+Pembroke Welsh Corgis,Welsh Corgi,228,up to 30 pounds,up to 28 pounds
+Petits Bassets Griffons Vendeens,Petit Basset Griffon Vendeen,171,25-40 pounds,25-40 pounds
+Pharaoh Hounds,Pharaoh Hound,172,45-55 pounds,45-55 pounds
+Plotts,Plott Hound,174,50-60 pounds,40-55 pounds
+Pointers,Pointer,176,55-75 pounds,45-65 pounds
+Pointers (German Shorthaired),German Shorthaired Pointer,104,55-70 pounds,45-60 pounds
+Pointers (German Wirehaired),German Wirehaired Pointer,106,50-70 pounds,50-70 pounds
+Polish Lowland Sheepdogs,Polish Lowland Sheepdog,177,30-50 pounds,30-50 pounds
+Pomeranians,Pomeranian,178,3-7 pounds,3-7 pounds
+Poodles,Poodle,179,"4-6 pounds (toy), 10-15 pounds (miniature), 60-70 pounds (male standard)","4-6 pounds (toy), 10-15 pounds (miniature), 40-50 pounds (female standard)"
+Portuguese Podengo Pequenos,Podengo Portugueso,175,9-13 pounds,9-13 pounds
+Portuguese Water Dogs,Portuguese Water Dog,180,42-60 pounds,35-50 pounds
+Pugs,Pug,182,14-18 pounds,14-18 pounds
+Pulik,Puli,183,25-35 pounds,25-35 pounds
+Pumik,Pumi,184,27-29 pounds,22-24 pounds
+Pyrenean Shepherds,Pyrenean Shepherd,N/A,15-30 pounds,15-30 pounds
+Rat Terriers,Rat Terrier,185,10-25 pounds,10-25 pounds
+Redbone Coonhounds,Redbone Coonhound,186,45-70 pounds,45-70 pounds
+Retrievers (Chesapeake Bay),Chesapeake Bay Retriever,59,65-80 pounds,55-70 pounds
+Retrievers (Curly-Coated),Curly-Coated Retriever,74,60-95 pounds,60-95 pounds
+Retrievers (Flat-Coated),Flat-coated Retriever,97,60-70 pounds,60-70 pounds
+Retrievers (Golden),Golden Retriever,109,65-75 pounds,55-65 pounds
+Retrievers (Labrador),Labrador Retriever,141,65-80 pounds,55-70 pounds
+Retrievers (Nova Scotia Duck Tolling),Nova Scotia Duck-Tolling Retriever,164,35-50 pounds,35-50 pounds
+Rhodesian Ridgebacks,Rhodesian Ridgeback,188,85 pounds,70 pounds
+Rottweilers,Rottweiler,189,95-135 pounds,80-100 pounds
+Russell Terriers,Jack Russell Terrier,128,9-15 pounds,9-15 pounds
+Salukis,Saluki,191,40-65 pounds,40-65 pounds
+Samoyeds,Samoyed,192,45-65 pounds,35-50 pounds
+Schipperkes,Schipperke,194,10-16 pounds,10-16 pounds
+Scottish Deerhounds,Scottish Deerhound,196,85-110 pounds,75-95 pounds
+Scottish Terriers,Scottish Terrier Scottie,197,19-22 pounds,18-21 pounds
+Sealyham Terriers,Sealyham Terrier,198,23-24 pounds,slightly less
+Setters (English),English Setter,86,65-80 pounds,45-55 pounds
+Setters (Gordon),Gordon Setter,110,55-80 pounds,45-70 pounds
+Setters (Irish),Irish Setter,122,70 pounds,60 pounds
+Shetland Sheepdogs,Shetland Sheepdog Sheltie,203,15-25 pounds,15-25 pounds
+Shiba Inu,Shiba Inu,204,23 pounds,17 pounds
+Shih Tzu,Shih Tzu,205,9-16 pounds,9-16 pounds
+Siberian Huskies,Siberian Husky,206,45-60 pounds,35-50 pounds
+Silky Terriers,Silky Terrier,207,around 10 pounds,around 10 pounds
+Skye Terriers,Skye Terrier,208,35-45 pounds,slightly lighter
+Sloughis,Sloughi,209,35-50 pounds,35-50 pounds
+Soft Coated Wheaten Terriers,Wheaten Terrier,232,35-40 pounds,30-35 pounds
+Spaniels (American Water),American Water Spaniel,11,30-45 pounds,25-40 pounds
+Spaniels (Boykin),Boykin Spaniel,45,30-40 pounds,25-35 pounds
+Spaniels (Clumber),Clumber Spaniel,67,70-85 pounds,55-70 pounds
+Spaniels (English Cocker),English Cocker Spaniel,83,28-34 pounds,26-32 pounds
+Spaniels (English Springer),English Springer Spaniel,88,50 pounds,40 pounds
+Spaniels (Field),Field Spaniel,93,35-50 pounds,35-50 pounds
+Spaniels (Irish Water),Irish Water Spaniel,124,55-68 pounds,45-58 pounds
+Spaniels (Sussex),Sussex Spaniel,216,35-45 pounds,35-45 pounds
+Spaniels (Welsh Springer),Welsh Springer Spaniel,229,40-55 pounds,35-50 pounds
+Spanish Water Dogs,Portuguese Water Dog,180,40-49 pounds,31-40 pounds
+Spinoni Italiani,Italian Spinone,127,56 pounds,56 pounds
+St. Bernards,Saint Bernard,190,140-180 pounds,120-140 pounds
+Staffordshire Bull Terriers,Staffordshire Bull Terrier,214,28-38 pounds,24 to 34 pounds
+Standard Schnauzers,Standard Schnauzer,N/A,35-50 pounds,30-45 pounds
+Swedish Vallhunds,Swedish Vallhund,217,20-35 pounds,20-35 pounds
+Tibetan Mastiffs,Tibetan Mastiff,220,90-150 pounds,70-120 pounds
+Tibetan Terriers,Tibetan Terrier,222,18-30 pounds,slightly smaller
+Tibetan Spaniel,Tibetan Spaniel,221,9-15 pounds,9-15 pounds
+Toy Fox Terriers,Toy Fox Terrier,224,3.5-7 pounds,3.5-7 pounds
+Treeing Walker Coonhounds,Treeing Walker Coonhound,225,50-70 pounds,50-70 pounds
+Vizslas,Vizsla,226,55-60 pounds,44-55 pounds
+Weimaraners,Weimaraner,227,70-90 pounds,55-75 pounds
+Welsh Terriers,Welsh Terrier,230,20 pounds,proportionally smaller
+West Highland White Terriers,West Highland White Terrier Westie,231,15-20 pounds,15-20 pounds
+Whippets,Whippet,233,25-40 pounds,25-40 pounds
+Wirehaired Pointing Griffons,Wire-haired Pointing Griffon,236,50-70 pounds,35 and 50 pounds
+Wirehaired Vizslas,Vizsla,226,55-65 pounds,45-55 pounds
+Xoloitzcuintli,Xoloitzcuintle/Mexican Hairless,238,"10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)","10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)"
+Yorkshire Terriers,Yorkshire Terrier Yorkie,240,7 pounds,7 pounds
