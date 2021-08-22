@@ -1,0 +1,1784 @@
+{
+   "animals": [
+      {
+         "id": 52739193,
+         "organization_id": "CT309",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ethan-52739193\\/ct\\/unionville\\/double-dog-rescue-ct309\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Boxer",
+            "secondary": "Labrador Retriever",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ethan",
+         "description": "Breed: Boxer Lab Mix\nAge: 4 months\nWeight: 30 lbs\nGood with dogs: Absolutely!\nGood with cats: Unknown\nGood with...",
+         "organization_animal_id": "203",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739193\\/1\\/?bust=1629579529"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:58:51+0000",
+         "published_at": "2021-08-21T20:58:51+0000",
+         "distance": "",
+         "contact": {
+            "email": "kateS@doubledogrescue.org",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Unionville",
+               "state": "CT",
+               "postcode": "06085",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739193"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ct309"
+            }
+         }
+      },
+      {
+         "id": 52739192,
+         "organization_id": "GA978",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/fawn-52739192\\/ga\\/warner-robins\\/the-rescue-ranch-ga978\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Brown \\/ Chocolate)",
+            "secondary": "White",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Fawn",
+         "description": "All pets are spayed\\/neutered, combo tested, current on vaccinations, dewormed, and treated with a flea preventative.",
+         "organization_animal_id": "991003911285163",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739192\\/1\\/?bust=1629579517"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:58:38+0000",
+         "published_at": "2021-08-21T20:58:38+0000",
+         "distance": "",
+         "contact": {
+            "email": "kittycat6917@yahoo.com",
+            "phone": "",
+            "address": {
+               "address1": "2730 Watson Blvd",
+               "address2": "",
+               "city": "Warner Robins",
+               "state": "GA",
+               "postcode": "31093",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739192"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga978"
+            }
+         }
+      },
+      {
+         "id": 52739191,
+         "organization_id": "WA553",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/buddy-courtesy-posting-52739191\\/wa\\/gig-harbor\\/chew-dog-rescue-canine-health-education-and-welfare-wa553\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Buddy - courtesy posting",
+         "description": "(This is a courtesy posting, this do is not a CHEW Dog Rescue dog and we have not met him....",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/2\\/?bust=1629579510&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/2\\/?bust=1629579510&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/2\\/?bust=1629579510&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/2\\/?bust=1629579510"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/3\\/?bust=1629579510&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/3\\/?bust=1629579510&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/3\\/?bust=1629579510&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/3\\/?bust=1629579510"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/4\\/?bust=1629579511&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/4\\/?bust=1629579511&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/4\\/?bust=1629579511&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/4\\/?bust=1629579511"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739191\\/1\\/?bust=1629579509"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:58:32+0000",
+         "published_at": "2021-08-21T20:58:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "cswyman@comcast.net",
+            "phone": "253 208-0590",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Gig Harbor",
+               "state": "WA",
+               "postcode": "98335",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739191"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/wa553"
+            }
+         }
+      },
+      {
+         "id": 52739189,
+         "organization_id": "TX525",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/otter-52739189\\/tx\\/magnolia\\/abandoned-animal-rescue-tx525\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Otter",
+         "description": "Otter&amp;#39;s smile and joy will bring happiness to your home. Her rescuer describes her as very enthusiastic and loves to...",
+         "organization_animal_id": "D2021179",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/2\\/?bust=1629580026&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/2\\/?bust=1629580026&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/2\\/?bust=1629580026&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/2\\/?bust=1629580026"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/3\\/?bust=1629580028&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/3\\/?bust=1629580028&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/3\\/?bust=1629580028&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/3\\/?bust=1629580028"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/4\\/?bust=1629580027&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/4\\/?bust=1629580027&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/4\\/?bust=1629580027&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/4\\/?bust=1629580027"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/5\\/?bust=1629580029&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/5\\/?bust=1629580029&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/5\\/?bust=1629580029&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/5\\/?bust=1629580029"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739189\\/1\\/?bust=1629580026"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:56:48+0000",
+         "published_at": "2021-08-21T20:56:48+0000",
+         "distance": "",
+         "contact": {
+            "email": "dogadoptteam@aartexas.org",
+            "phone": "(281) 789-4142",
+            "address": {
+               "address1": "32632 Wright Rd",
+               "address2": "",
+               "city": "Magnolia",
+               "state": "TX",
+               "postcode": "77355",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739189"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx525"
+            }
+         }
+      },
+      {
+         "id": 52739188,
+         "organization_id": "TX525",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/bruce-wayne-52739188\\/tx\\/magnolia\\/abandoned-animal-rescue-tx525\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Bruce Wayne",
+         "description": "Bruce (Wayne) was adopted from a city shelter and lived happily in a rural setting with his best friend, Clark...",
+         "organization_animal_id": "D2021181",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/2\\/?bust=1629580029&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/2\\/?bust=1629580029&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/2\\/?bust=1629580029&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/2\\/?bust=1629580029"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/3\\/?bust=1629580026&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/3\\/?bust=1629580026&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/3\\/?bust=1629580026&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/3\\/?bust=1629580026"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/4\\/?bust=1629580028&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/4\\/?bust=1629580028&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/4\\/?bust=1629580028&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/4\\/?bust=1629580028"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/5\\/?bust=1629580027&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/5\\/?bust=1629580027&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/5\\/?bust=1629580027&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/5\\/?bust=1629580027"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/6\\/?bust=1629580025&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/6\\/?bust=1629580025&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/6\\/?bust=1629580025&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/6\\/?bust=1629580025"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739188\\/1\\/?bust=1629580029"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:56:48+0000",
+         "published_at": "2021-08-21T20:56:48+0000",
+         "distance": "",
+         "contact": {
+            "email": "dogadoptteam@aartexas.org",
+            "phone": "(281) 789-4142",
+            "address": {
+               "address1": "32632 Wright Rd",
+               "address2": "",
+               "city": "Magnolia",
+               "state": "TX",
+               "postcode": "77355",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739188"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx525"
+            }
+         }
+      },
+      {
+         "id": 52739165,
+         "organization_id": "NE04",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/fernand-52739165\\/ne\\/lincoln\\/the-cat-house-ne04\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Brown \\/ Chocolate)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Fernand",
+         "description": "Fernand is the consummate gentleman cat.  This kind little fur baby is ready to snuggle!  This young man is very...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739165\\/1\\/?bust=1629580355"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:56:42+0000",
+         "published_at": "2021-08-21T20:56:42+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@thecathouse.org",
+            "phone": "(402) 441-9593",
+            "address": {
+               "address1": "P O Box 23145",
+               "address2": "",
+               "city": "Lincoln",
+               "state": "NE",
+               "postcode": "68542",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739165"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ne04"
+            }
+         }
+      },
+      {
+         "id": 52739187,
+         "organization_id": "TX953",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/bishop-52739187\\/tx\\/manchaca\\/austin-dog-rescue-tx953\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Husky",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "Yellow \\/ Tan \\/ Blond \\/ Fawn",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "Medium",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Friendly",
+            "Affectionate",
+            "Loyal",
+            "Gentle",
+            "Playful",
+            "Smart",
+            "Brave",
+            "Curious",
+            "Funny",
+            "Athletic"
+         ],
+         "name": "Bishop",
+         "description": "Please visit our website at: www.austindog.org for full details about Bishop and the most current, up-to-date status of all of...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/2\\/?bust=1629579384&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/2\\/?bust=1629579384&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/2\\/?bust=1629579384&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/2\\/?bust=1629579384"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/3\\/?bust=1629579385&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/3\\/?bust=1629579385&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/3\\/?bust=1629579385&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/3\\/?bust=1629579385"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/4\\/?bust=1629579386&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/4\\/?bust=1629579386&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/4\\/?bust=1629579386&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/4\\/?bust=1629579386"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/5\\/?bust=1629579387&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/5\\/?bust=1629579387&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/5\\/?bust=1629579387&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/5\\/?bust=1629579387"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739187\\/1\\/?bust=1629579384"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:56:28+0000",
+         "published_at": "2021-08-21T20:56:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "Adoptions@austindog.org",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Manchaca",
+               "state": "TX",
+               "postcode": "78652",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739187"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx953"
+            }
+         }
+      },
+      {
+         "id": 52739186,
+         "organization_id": "NC675",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/bissell-owner-52739186\\/nc\\/apex\\/peak-lab-rescue-nc675\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Shepherd",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Crate Trained",
+            "Good with Kids",
+            "Good with Other Dogs",
+            "Vaccinated"
+         ],
+         "name": "Bissell Owner",
+         "description": "I am not sure what a &amp;#34;Bissel&amp;#34; is but I&amp;#39;ll be your best friend and love whatever name you decide...",
+         "organization_animal_id": "PLR-A-1551",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/2\\/?bust=1629580001&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/2\\/?bust=1629580001&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/2\\/?bust=1629580001&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/2\\/?bust=1629580001"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/3\\/?bust=1629579986&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/3\\/?bust=1629579986&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/3\\/?bust=1629579986&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/3\\/?bust=1629579986"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/4\\/?bust=1629579999&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/4\\/?bust=1629579999&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/4\\/?bust=1629579999&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/4\\/?bust=1629579999"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/5\\/?bust=1629579998&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/5\\/?bust=1629579998&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/5\\/?bust=1629579998&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/5\\/?bust=1629579998"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739186\\/1\\/?bust=1629579988"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:33+0000",
+         "published_at": "2021-08-21T20:55:33+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@peaklabrescue.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Apex",
+               "state": "NC",
+               "postcode": "27502",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739186"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nc675"
+            }
+         }
+      },
+      {
+         "id": 52739185,
+         "organization_id": "TX2447",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/duke-theodore-52739185\\/tx\\/brownwood\\/corinne-t-smith-animal-center-tx2447\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shepherd",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Duke (Theodore)",
+         "description": "",
+         "organization_animal_id": "CTSC-A-9121",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:22+0000",
+         "published_at": "2021-08-21T20:55:22+0000",
+         "distance": "",
+         "contact": {
+            "email": "Browncountyhumanesociety@gmail.com",
+            "phone": "(325) 646-0617",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Brownwood",
+               "state": "TX",
+               "postcode": "76801",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739185"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx2447"
+            }
+         }
+      },
+      {
+         "id": 52739184,
+         "organization_id": "GA170",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/mrs-stubbs-52739184\\/ga\\/cumming\\/furkids-animal-rescue-and-shelters-ga170\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mrs. Stubbs",
+         "description": "Hi there, I&amp;#39;m Mrs. Stubbs! I&amp;#39;m a black cat with big eyes and a big heart looking for someone to...",
+         "organization_animal_id": "FKDS-A-3341",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/2\\/?bust=1629579985&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/2\\/?bust=1629579985&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/2\\/?bust=1629579985&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/2\\/?bust=1629579985"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/3\\/?bust=1629579992&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/3\\/?bust=1629579992&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/3\\/?bust=1629579992&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/3\\/?bust=1629579992"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739184\\/1\\/?bust=1629579996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:20+0000",
+         "published_at": "2021-08-21T20:55:20+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@furkids.org",
+            "phone": "(770) 613-0880",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Cumming",
+               "state": "GA",
+               "postcode": "30040",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739184"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga170"
+            }
+         }
+      },
+      {
+         "id": 52739183,
+         "organization_id": "CA1902",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/twinkle-52739183\\/ca\\/westminster\\/wags-westminster-adoption-group-and-services-ca1902\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Lhasa Apso",
+            "secondary": "Schnauzer",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "Gray \\/ Blue \\/ Silver",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Twinkle",
+         "description": "Available 8-8-21",
+         "organization_animal_id": "WAGS-A-6858",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739183\\/1\\/?bust=1629579966"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:17+0000",
+         "published_at": "2021-08-21T20:55:17+0000",
+         "distance": "",
+         "contact": {
+            "email": "cortney@wagspetadoption.org",
+            "phone": "(714) 887-6156",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Westminster",
+               "state": "CA",
+               "postcode": "92683",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739183"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca1902"
+            }
+         }
+      },
+      {
+         "id": 52739182,
+         "organization_id": "TN850",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/craig-52739182\\/tn\\/memphis\\/memphis-animal-services-tn850\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Gray \\/ Blue \\/ Silver",
+            "secondary": "White",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Craig",
+         "description": "",
+         "organization_animal_id": "MAS-A-7354",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739182\\/1\\/?bust=1629579969"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:13+0000",
+         "published_at": "2021-08-21T20:55:13+0000",
+         "distance": "",
+         "contact": {
+            "email": "mas@memphistn.gov",
+            "phone": "(901) 636-1416",
+            "address": {
+               "address1": "2350 Appling City Cove",
+               "address2": "",
+               "city": "Memphis",
+               "state": "TN",
+               "postcode": "38133",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739182"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn850"
+            }
+         }
+      },
+      {
+         "id": 52739176,
+         "organization_id": "AZ180",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/zena-52739176\\/az\\/casa-grande\\/valley-humane-society-inc-az180\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shepherd",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "Yellow \\/ Tan \\/ Blond \\/ Fawn",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Zena",
+         "description": "Zena is a happy and playful Shepherd, just 5 months old.  She loves to play with humans and cuddle with...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739176\\/1\\/?bust=1629579311"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:13+0000",
+         "published_at": "2021-08-21T20:55:13+0000",
+         "distance": "",
+         "contact": {
+            "email": "vhsmail@valleyhumane.net",
+            "phone": "(520) 836-0904",
+            "address": {
+               "address1": "15699 W. Aniceto Rd.",
+               "address2": "PO Box 10480",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85230",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739176"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az180"
+            }
+         }
+      },
+      {
+         "id": 52739180,
+         "organization_id": "TN850",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/claire-52739180\\/tn\\/memphis\\/memphis-animal-services-tn850\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Gray \\/ Blue \\/ Silver",
+            "secondary": "Orange \\/ Red",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Claire",
+         "description": "",
+         "organization_animal_id": "MAS-A-7355",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739180\\/1\\/?bust=1629579953"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:12+0000",
+         "published_at": "2021-08-21T20:55:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "mas@memphistn.gov",
+            "phone": "(901) 636-1416",
+            "address": {
+               "address1": "2350 Appling City Cove",
+               "address2": "",
+               "city": "Memphis",
+               "state": "TN",
+               "postcode": "38133",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739180"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn850"
+            }
+         }
+      },
+      {
+         "id": 52739177,
+         "organization_id": "TX2326",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/millie-52739177\\/tx\\/san-antonio\\/footbridge-foundation-tx2326\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tortoiseshell",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Millie",
+         "description": "",
+         "organization_animal_id": "FBF-A-700",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/2\\/?bust=1629579950&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/2\\/?bust=1629579950&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/2\\/?bust=1629579950&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/2\\/?bust=1629579950"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/3\\/?bust=1629579962&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/3\\/?bust=1629579962&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/3\\/?bust=1629579962&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/3\\/?bust=1629579962"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/4\\/?bust=1629579951&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/4\\/?bust=1629579951&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/4\\/?bust=1629579951&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/4\\/?bust=1629579951"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/5\\/?bust=1629579956&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/5\\/?bust=1629579956&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/5\\/?bust=1629579956&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/5\\/?bust=1629579956"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739177\\/1\\/?bust=1629579951"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:12+0000",
+         "published_at": "2021-08-21T20:55:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@footbridgefoundation.org",
+            "phone": "(713) 303-1635",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78204",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739177"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx2326"
+            }
+         }
+      },
+      {
+         "id": 52739181,
+         "organization_id": "TN850",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cecile-52739181\\/tn\\/memphis\\/memphis-animal-services-tn850\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Gray \\/ Blue \\/ Silver",
+            "secondary": "White",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cecile",
+         "description": "",
+         "organization_animal_id": "MAS-A-7356",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739181\\/1\\/?bust=1629579956"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:12+0000",
+         "published_at": "2021-08-21T20:55:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "mas@memphistn.gov",
+            "phone": "(901) 636-1416",
+            "address": {
+               "address1": "2350 Appling City Cove",
+               "address2": "",
+               "city": "Memphis",
+               "state": "TN",
+               "postcode": "38133",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739181"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn850"
+            }
+         }
+      },
+      {
+         "id": 52739178,
+         "organization_id": "TN850",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/charlie-52739178\\/tn\\/memphis\\/memphis-animal-services-tn850\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "Yellow \\/ Tan \\/ Blond \\/ Fawn",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Heartworm Negative"
+         ],
+         "name": "Charlie",
+         "description": "",
+         "organization_animal_id": "MAS-A-7529",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:12+0000",
+         "published_at": "2021-08-21T20:55:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "mas@memphistn.gov",
+            "phone": "(901) 636-1416",
+            "address": {
+               "address1": "2350 Appling City Cove",
+               "address2": "",
+               "city": "Memphis",
+               "state": "TN",
+               "postcode": "38133",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739178"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn850"
+            }
+         }
+      },
+      {
+         "id": 52739179,
+         "organization_id": "TN850",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/clark-52739179\\/tn\\/memphis\\/memphis-animal-services-tn850\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "White",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Clark",
+         "description": "",
+         "organization_animal_id": "MAS-A-7357",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739179\\/1\\/?bust=1629579976"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:55:12+0000",
+         "published_at": "2021-08-21T20:55:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "mas@memphistn.gov",
+            "phone": "(901) 636-1416",
+            "address": {
+               "address1": "2350 Appling City Cove",
+               "address2": "",
+               "city": "Memphis",
+               "state": "TN",
+               "postcode": "38133",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739179"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn850"
+            }
+         }
+      },
+      {
+         "id": 52739175,
+         "organization_id": "ON79",
+         "url": "https:\\/\\/www.petfinder.com\\/rabbit\\/simon-52739175\\/on\\/cambridge\\/rabbit-rescue-inc-on79\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Rabbit",
+         "species": "Rabbit",
+         "breeds": {
+            "primary": "Bunny Rabbit",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Friendly",
+            "Gentle",
+            "Affectionate"
+         ],
+         "name": "Simon",
+         "description": "Meet Simon (pronounced with a French accent)!\n\nSimon was surrendered to Rabbit Rescue through no fault of his own. He...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/2\\/?bust=1629579293&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/2\\/?bust=1629579293&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/2\\/?bust=1629579293&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/2\\/?bust=1629579293"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/3\\/?bust=1629579293&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/3\\/?bust=1629579293&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/3\\/?bust=1629579293&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/3\\/?bust=1629579293"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739175\\/1\\/?bust=1629579292"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:54:54+0000",
+         "published_at": "2021-08-21T20:54:54+0000",
+         "distance": "",
+         "contact": {
+            "email": "haviva@rabbitrescue.ca",
+            "phone": "(519) 651-2345",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Cambridge",
+               "state": "ON",
+               "postcode": "N3C 0E6",
+               "country": "CA"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739175"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/rabbit"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/on79"
+            }
+         }
+      },
+      {
+         "id": 52739170,
+         "organization_id": "AZ103",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/olivander-52739170\\/az\\/youngtown\\/sun-cities-4-paws-rescue-inc-az103\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Olivander",
+         "description": "Please call either 623-876-8778 OR 623-773-2246 to inquire as to which location or which PetSmart a cat is located at....",
+         "organization_animal_id": "S2021218",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739170\\/1\\/?bust=1629579853"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:53:59+0000",
+         "published_at": "2021-08-21T20:53:59+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@4pawsrescue.org",
+            "phone": "(623) 876-8778",
+            "address": {
+               "address1": "11129 W. Michigan Ave.",
+               "address2": "",
+               "city": "Youngtown",
+               "state": "AZ",
+               "postcode": "85363",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739170"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az103"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224488,
+      "current_page": 10,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=9"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=11"
+         }
+      }
+   }
+}

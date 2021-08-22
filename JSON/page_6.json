@@ -1,0 +1,1492 @@
+{
+   "animals": [
+      {
+         "id": 52739297,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/sundance-52739297\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sundance",
+         "description": "",
+         "organization_animal_id": "48444141",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739297"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739293,
+         "organization_id": "GA423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/vera-52739293\\/ga\\/chamblee\\/dekalb-county-animal-services-ga423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Vera",
+         "description": "",
+         "organization_animal_id": "36608939",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:30+0000",
+         "published_at": "2021-08-21T21:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@dekalbanimalservices.com",
+            "phone": "(404) 294-2165",
+            "address": {
+               "address1": "3280 Chamblee Dunwoody Rd",
+               "address2": "",
+               "city": "Chamblee",
+               "state": "GA",
+               "postcode": "30341",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739293"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga423"
+            }
+         }
+      },
+      {
+         "id": 52739294,
+         "organization_id": "GA423",
+         "url": "https:\\/\\/www.petfinder.com\\/rabbit\\/maybelline-52739294\\/ga\\/chamblee\\/dekalb-county-animal-services-ga423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Rabbit",
+         "species": "Rabbit",
+         "breeds": {
+            "primary": "Bunny Rabbit",
+            "secondary": "American",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Maybelline",
+         "description": "",
+         "organization_animal_id": "48495664",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:30+0000",
+         "published_at": "2021-08-21T21:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@dekalbanimalservices.com",
+            "phone": "(404) 294-2165",
+            "address": {
+               "address1": "3280 Chamblee Dunwoody Rd",
+               "address2": "",
+               "city": "Chamblee",
+               "state": "GA",
+               "postcode": "30341",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739294"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/rabbit"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga423"
+            }
+         }
+      },
+      {
+         "id": 52739286,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48271996-52739286\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48271996",
+         "description": "",
+         "organization_animal_id": "48271996",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739286"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739287,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48271734-52739287\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48271734",
+         "description": "",
+         "organization_animal_id": "48271734",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739287"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739288,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48491231-52739288\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48491231",
+         "description": "",
+         "organization_animal_id": "48491231",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739288"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739289,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48271730-52739289\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48271730",
+         "description": "",
+         "organization_animal_id": "48271730",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739289"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739290,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/graydon-michael-52739290\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Graydon Michael",
+         "description": "",
+         "organization_animal_id": "48485376",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739290"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739291,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48271722-52739291\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48271722",
+         "description": "",
+         "organization_animal_id": "48271722",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739291"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739292,
+         "organization_id": "NY494",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/48271718-52739292\\/ny\\/fairport\\/lollypop-farm-humane-society-of-greater-rochester-ny494\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48271718",
+         "description": "",
+         "organization_animal_id": "48271718",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:26+0000",
+         "published_at": "2021-08-21T21:06:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@lollypop.org",
+            "phone": "(585) 223-1330",
+            "address": {
+               "address1": "99 Victor Road",
+               "address2": "",
+               "city": "Fairport",
+               "state": "NY",
+               "postcode": "14450",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739292"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ny494"
+            }
+         }
+      },
+      {
+         "id": 52739285,
+         "organization_id": "GA841",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/squirt-1102-21-52739285\\/ga\\/cumming\\/forsyth-county-animal-shelter-ga841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Squirt 1102-21",
+         "description": "",
+         "organization_animal_id": "48460233",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739285\\/1\\/?bust=1629580663"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:23+0000",
+         "published_at": "2021-08-21T21:06:23+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@forsythco.com",
+            "phone": "(678) 965-7185",
+            "address": {
+               "address1": "4065 County Way",
+               "address2": "",
+               "city": "Cumming",
+               "state": "GA",
+               "postcode": "30028",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739285"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga841"
+            }
+         }
+      },
+      {
+         "id": 52739284,
+         "organization_id": "GA829",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/giggles-52739284\\/ga\\/alpharetta\\/atlanta-humane-society-ga829\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Giggles",
+         "description": "Hi I&amp;#39;m Giggles!",
+         "organization_animal_id": "48360395",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739284\\/1\\/?bust=1629580647"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:22+0000",
+         "published_at": "2021-08-21T21:06:22+0000",
+         "distance": "",
+         "contact": {
+            "email": "mail@atlantahumane.org",
+            "phone": "(404) 875-5331",
+            "address": {
+               "address1": "1565 Mansell Road",
+               "address2": "",
+               "city": "Alpharetta",
+               "state": "GA",
+               "postcode": "30009",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739284"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga829"
+            }
+         }
+      },
+      {
+         "id": 52739283,
+         "organization_id": "IN42",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/dauphin-52739283\\/in\\/fort-wayne\\/humane-fort-wayne-in42\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dauphin",
+         "description": "Weight: 32.80 lbs.\n\nWANT TO TAKE ME HOME TODAY? SCHEDULE AND ADOPTION APPOINTMENT.\nTo Schedule An Adoption Appointment:\n1. Fill...",
+         "organization_animal_id": "48227267",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739283\\/1\\/?bust=1629580645"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:21+0000",
+         "published_at": "2021-08-21T21:06:21+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterinfo@humanefw.org",
+            "phone": "(260) 744-0454",
+            "address": {
+               "address1": "4914 Hanna St.",
+               "address2": "",
+               "city": "Fort Wayne",
+               "state": "IN",
+               "postcode": "46806",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739283"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in42"
+            }
+         }
+      },
+      {
+         "id": 52739282,
+         "organization_id": "IN42",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/dragonfly-52739282\\/in\\/fort-wayne\\/humane-fort-wayne-in42\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dragonfly",
+         "description": "Weight: 2.10 lbs.\n\nAdoption Fee: Name Your Own Adoption Fee!\n\nWANT TO TAKE ME HOME TODAY? SCHEDULE AND ADOPTION APPOINTMENT....",
+         "organization_animal_id": "48429772",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739282\\/1\\/?bust=1629580646"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:21+0000",
+         "published_at": "2021-08-21T21:06:21+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterinfo@humanefw.org",
+            "phone": "(260) 744-0454",
+            "address": {
+               "address1": "4914 Hanna St.",
+               "address2": "",
+               "city": "Fort Wayne",
+               "state": "IN",
+               "postcode": "46806",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739282"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in42"
+            }
+         }
+      },
+      {
+         "id": 52739281,
+         "organization_id": "IN02",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/magic-52739281\\/in\\/fishers\\/humane-society-for-hamilton-county-in02\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Magic",
+         "description": "Magic\nI certainly could use a little magic right about now. I was brought to the HSHC as an abandoned...",
+         "organization_animal_id": "48187377",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739281\\/1\\/?bust=1629580624"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:18+0000",
+         "published_at": "2021-08-21T21:06:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "hshc@hamiltonhumane.com",
+            "phone": "(317) 773-4974",
+            "address": {
+               "address1": "10501 Hague Rd.",
+               "address2": "",
+               "city": "Fishers",
+               "state": "IN",
+               "postcode": "46038",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739281"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in02"
+            }
+         }
+      },
+      {
+         "id": 52739280,
+         "organization_id": "IN02",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/blu-52739280\\/in\\/fishers\\/humane-society-for-hamilton-county-in02\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Blu",
+         "description": "",
+         "organization_animal_id": "48459696",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739280\\/1\\/?bust=1629580617"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:18+0000",
+         "published_at": "2021-08-21T21:06:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "hshc@hamiltonhumane.com",
+            "phone": "(317) 773-4974",
+            "address": {
+               "address1": "10501 Hague Rd.",
+               "address2": "",
+               "city": "Fishers",
+               "state": "IN",
+               "postcode": "46038",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739280"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in02"
+            }
+         }
+      },
+      {
+         "id": 52739275,
+         "organization_id": "GA133",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/euro-52739275\\/ga\\/thomasville\\/thomasville-thomas-county-humane-society-ga133\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Euro",
+         "description": "",
+         "organization_animal_id": "48497950",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:14+0000",
+         "published_at": "2021-08-21T21:06:14+0000",
+         "distance": "",
+         "contact": {
+            "email": "pets@rose.net",
+            "phone": "229-228-0613     ",
+            "address": {
+               "address1": "180 Big Star Drive",
+               "address2": "",
+               "city": "Thomasville",
+               "state": "GA",
+               "postcode": "31757",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739275"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga133"
+            }
+         }
+      },
+      {
+         "id": 52739273,
+         "organization_id": "FL110",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/ali-52739273\\/fl\\/largo\\/spca-tampa-bay-fl110\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ali",
+         "description": "",
+         "organization_animal_id": "48477569",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:13+0000",
+         "published_at": "2021-08-21T21:06:13+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@spcatampabay.org",
+            "phone": "(727) 586-3591",
+            "address": {
+               "address1": "9099 130th Ave N",
+               "address2": "",
+               "city": "Largo",
+               "state": "FL",
+               "postcode": "33773",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739273"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl110"
+            }
+         }
+      },
+      {
+         "id": 52739274,
+         "organization_id": "FL110",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/bella-52739274\\/fl\\/largo\\/spca-tampa-bay-fl110\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Bella",
+         "description": "",
+         "organization_animal_id": "48475315",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739274\\/1\\/?bust=1629580592"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:13+0000",
+         "published_at": "2021-08-21T21:06:13+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@spcatampabay.org",
+            "phone": "(727) 586-3591",
+            "address": {
+               "address1": "9099 130th Ave N",
+               "address2": "",
+               "city": "Largo",
+               "state": "FL",
+               "postcode": "33773",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739274"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl110"
+            }
+         }
+      },
+      {
+         "id": 52739271,
+         "organization_id": "FL1397",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/parker-52739271\\/fl\\/orlando\\/pet-alliance-of-greater-orlando-fl1397\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Parker",
+         "description": "",
+         "organization_animal_id": "47936295",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739271\\/1\\/?bust=1629580597"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:13+0000",
+         "published_at": "2021-08-21T21:06:13+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@petallianceorlando.org",
+            "phone": "(407) 351-7722",
+            "address": {
+               "address1": "2727 Conroy Road",
+               "address2": "",
+               "city": "Orlando",
+               "state": "FL",
+               "postcode": "32839",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739271"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl1397"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224488,
+      "current_page": 6,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=5"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=7"
+         }
+      }
+   }
+}

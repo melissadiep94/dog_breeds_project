@@ -1,0 +1,1576 @@
+{
+   "animals": [
+      {
+         "id": 52739315,
+         "organization_id": "NM25",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/oscar-g-52739315\\/nm\\/ruidoso\\/humane-society-of-lincoln-county-nm25\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Oscar G",
+         "description": "",
+         "organization_animal_id": "48230404",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:47+0000",
+         "published_at": "2021-08-21T21:06:47+0000",
+         "distance": "",
+         "contact": {
+            "email": "sheltermgr@hslcnm.org",
+            "phone": "(575) 257-9841",
+            "address": {
+               "address1": "422 Gavilan Canyon Road",
+               "address2": "",
+               "city": "Ruidoso",
+               "state": "NM",
+               "postcode": "88345",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739315"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm25"
+            }
+         }
+      },
+      {
+         "id": 52739311,
+         "organization_id": "KY18",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/wild-one-52739311\\/ky\\/bowling-green\\/bowling-green-warren-county-humane-society-ky18\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Australian Cattle Dog \\/ Blue Heeler",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Wild One",
+         "description": "",
+         "organization_animal_id": "48498171",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:44+0000",
+         "published_at": "2021-08-21T21:06:44+0000",
+         "distance": "",
+         "contact": {
+            "email": "LorriC143@aol.com",
+            "phone": "(270) 783-9404",
+            "address": {
+               "address1": "1924 Louisville Road",
+               "address2": "P. O. Box 1456",
+               "city": "Bowling Green",
+               "state": "KY",
+               "postcode": "42102",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739311"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky18"
+            }
+         }
+      },
+      {
+         "id": 52739310,
+         "organization_id": "WA06",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/chestnut-52739310\\/wa\\/bellevue\\/seattle-humane-the-humane-society-for-seattle-king-county-wa06\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Dachshund",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Chestnut",
+         "description": "What my friends at Seattle Humane say about me:\n I love to play fetch!\n I am treat motivated! You can...",
+         "organization_animal_id": "48437978",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/2\\/?bust=1629580675&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/2\\/?bust=1629580675&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/2\\/?bust=1629580675&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/2\\/?bust=1629580675"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/3\\/?bust=1629580679&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/3\\/?bust=1629580679&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/3\\/?bust=1629580679&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/3\\/?bust=1629580679"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739310\\/1\\/?bust=1629580652"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:43+0000",
+         "published_at": "2021-08-21T21:06:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "humane@seattlehumane.org",
+            "phone": "(425) 641-0080  ",
+            "address": {
+               "address1": "13212 SE Eastgate Way",
+               "address2": "",
+               "city": "Bellevue",
+               "state": "WA",
+               "postcode": "98005",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739310"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/wa06"
+            }
+         }
+      },
+      {
+         "id": 52739308,
+         "organization_id": "TX219",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/black-jack-52739308\\/tx\\/houston\\/houston-humane-society-tx219\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Border Collie",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BLACK JACK",
+         "description": "",
+         "organization_animal_id": "46372385",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:41+0000",
+         "published_at": "2021-08-21T21:06:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@houstonhumane.org",
+            "phone": "713-433-6421",
+            "address": {
+               "address1": "14700 Almeda Road",
+               "address2": "PO Box 450528",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77053",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739308"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx219"
+            }
+         }
+      },
+      {
+         "id": 52739306,
+         "organization_id": "TX38",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/48498213-52739306\\/tx\\/bryan\\/aggieland-humane-society-tx38\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "48498213",
+         "description": "",
+         "organization_animal_id": "48498213",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739306\\/1\\/?bust=1629580657"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:41+0000",
+         "published_at": "2021-08-21T21:06:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@aggielandhumane.org",
+            "phone": "(979) 775-5755",
+            "address": {
+               "address1": "5359 Leonard Road",
+               "address2": "",
+               "city": "Bryan",
+               "state": "TX",
+               "postcode": "77801",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739306"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx38"
+            }
+         }
+      },
+      {
+         "id": 52739307,
+         "organization_id": "TX219",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/stan-52739307\\/tx\\/houston\\/houston-humane-society-tx219\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Dachshund",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "STAN",
+         "description": "",
+         "organization_animal_id": "48351387",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:40+0000",
+         "published_at": "2021-08-21T21:06:40+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@houstonhumane.org",
+            "phone": "713-433-6421",
+            "address": {
+               "address1": "14700 Almeda Road",
+               "address2": "PO Box 450528",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77053",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739307"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx219"
+            }
+         }
+      },
+      {
+         "id": 52739309,
+         "organization_id": "MO579",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/kiara-52739309\\/mo\\/kansas-city\\/kc-pet-project-mo579\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Kiara",
+         "description": "",
+         "organization_animal_id": "48339167",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739309\\/1\\/?bust=1629580675"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:39+0000",
+         "published_at": "2021-08-21T21:06:39+0000",
+         "distance": "",
+         "contact": {
+            "email": "contact@kcpetproject.org",
+            "phone": "(816) 683-1383",
+            "address": {
+               "address1": "7077 Elmwood Ave.",
+               "address2": "",
+               "city": "Kansas City",
+               "state": "MO",
+               "postcode": "64129",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739309"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mo579"
+            }
+         }
+      },
+      {
+         "id": 52739305,
+         "organization_id": "TX2292",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cello-52739305\\/tx\\/longview\\/longview-animal-care-and-adoption-center-tx2292\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "Domestic Short Hair",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cello",
+         "description": "",
+         "organization_animal_id": "48497851",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739305\\/1\\/?bust=1629580676"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:39+0000",
+         "published_at": "2021-08-21T21:06:39+0000",
+         "distance": "",
+         "contact": {
+            "email": "animals@longviewtexas.gov",
+            "phone": "(903) 297-7387",
+            "address": {
+               "address1": "303 H.G. Mosley Pkwy",
+               "address2": "",
+               "city": "Longview",
+               "state": "TX",
+               "postcode": "75604",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739305"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx2292"
+            }
+         }
+      },
+      {
+         "id": 52739304,
+         "organization_id": "TX2292",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/viola-52739304\\/tx\\/longview\\/longview-animal-care-and-adoption-center-tx2292\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Viola",
+         "description": "",
+         "organization_animal_id": "48497848",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739304\\/1\\/?bust=1629580666"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:39+0000",
+         "published_at": "2021-08-21T21:06:39+0000",
+         "distance": "",
+         "contact": {
+            "email": "animals@longviewtexas.gov",
+            "phone": "(903) 297-7387",
+            "address": {
+               "address1": "303 H.G. Mosley Pkwy",
+               "address2": "",
+               "city": "Longview",
+               "state": "TX",
+               "postcode": "75604",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739304"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx2292"
+            }
+         }
+      },
+      {
+         "id": 52739297,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/sundance-52739297\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sundance",
+         "description": "",
+         "organization_animal_id": "48444141",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739297"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739302,
+         "organization_id": "MN425",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/daisy-52739302\\/mn\\/coon-rapids\\/animal-humane-society-coon-rapids-mn425\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "Domestic Short Hair",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Daisy",
+         "description": "",
+         "organization_animal_id": "48376232",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739302\\/1\\/?bust=1629580656"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "1411 Main St NW",
+               "address2": "",
+               "city": "Coon Rapids",
+               "state": "MN",
+               "postcode": "55448",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739302"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn425"
+            }
+         }
+      },
+      {
+         "id": 52739298,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/basil-52739298\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Catahoula Leopard Dog",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Basil",
+         "description": "",
+         "organization_animal_id": "48478673",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739298\\/1\\/?bust=1629580652"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739298"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739296,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/philbert-52739296\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Philbert",
+         "description": "",
+         "organization_animal_id": "48343228",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739296\\/1\\/?bust=1629580653"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739296"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739301,
+         "organization_id": "MN425",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/circle-hill-52739301\\/mn\\/coon-rapids\\/animal-humane-society-coon-rapids-mn425\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Circle Hill",
+         "description": "",
+         "organization_animal_id": "48326067",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739301\\/1\\/?bust=1629580658"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "1411 Main St NW",
+               "address2": "",
+               "city": "Coon Rapids",
+               "state": "MN",
+               "postcode": "55448",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739301"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn425"
+            }
+         }
+      },
+      {
+         "id": 52739299,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/tuffy-52739299\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Tuffy",
+         "description": "",
+         "organization_animal_id": "48423268",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/2\\/?bust=1629580668&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/2\\/?bust=1629580668&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/2\\/?bust=1629580668&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/2\\/?bust=1629580668"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739299\\/1\\/?bust=1629580662"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739299"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739303,
+         "organization_id": "MN425",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/jack-52739303\\/mn\\/coon-rapids\\/animal-humane-society-coon-rapids-mn425\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Jack",
+         "description": "",
+         "organization_animal_id": "48394056",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739303\\/1\\/?bust=1629580668"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "1411 Main St NW",
+               "address2": "",
+               "city": "Coon Rapids",
+               "state": "MN",
+               "postcode": "55448",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739303"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn425"
+            }
+         }
+      },
+      {
+         "id": 52739300,
+         "organization_id": "MN425",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/sota-52739300\\/mn\\/coon-rapids\\/animal-humane-society-coon-rapids-mn425\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Catahoula Leopard Dog",
+            "secondary": "Black Mouth Cur",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sota",
+         "description": "",
+         "organization_animal_id": "48304447",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739300\\/1\\/?bust=1629580666"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "1411 Main St NW",
+               "address2": "",
+               "city": "Coon Rapids",
+               "state": "MN",
+               "postcode": "55448",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739300"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn425"
+            }
+         }
+      },
+      {
+         "id": 52739295,
+         "organization_id": "MN423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/dill-52739295\\/mn\\/golden-valley\\/animal-humane-society-golden-valley-mn423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "German Shepherd Dog",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dill",
+         "description": "",
+         "organization_animal_id": "36482296",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/2\\/?bust=1629580660&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/2\\/?bust=1629580660&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/2\\/?bust=1629580660&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/2\\/?bust=1629580660"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739295\\/1\\/?bust=1629580663"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:32+0000",
+         "published_at": "2021-08-21T21:06:32+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@animalhumanesociety.org",
+            "phone": "(952) 435-7738",
+            "address": {
+               "address1": "845 Meadow Lane N",
+               "address2": "",
+               "city": "Golden Valley",
+               "state": "MN",
+               "postcode": "55422",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739295"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mn423"
+            }
+         }
+      },
+      {
+         "id": 52739294,
+         "organization_id": "GA423",
+         "url": "https:\\/\\/www.petfinder.com\\/rabbit\\/maybelline-52739294\\/ga\\/chamblee\\/dekalb-county-animal-services-ga423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Rabbit",
+         "species": "Rabbit",
+         "breeds": {
+            "primary": "Bunny Rabbit",
+            "secondary": "American",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Maybelline",
+         "description": "",
+         "organization_animal_id": "48495664",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:30+0000",
+         "published_at": "2021-08-21T21:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@dekalbanimalservices.com",
+            "phone": "(404) 294-2165",
+            "address": {
+               "address1": "3280 Chamblee Dunwoody Rd",
+               "address2": "",
+               "city": "Chamblee",
+               "state": "GA",
+               "postcode": "30341",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739294"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/rabbit"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga423"
+            }
+         }
+      },
+      {
+         "id": 52739293,
+         "organization_id": "GA423",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/vera-52739293\\/ga\\/chamblee\\/dekalb-county-animal-services-ga423\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Vera",
+         "description": "",
+         "organization_animal_id": "36608939",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/2\\/?bust=1629580673"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739293\\/1\\/?bust=1629580642"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T21:06:30+0000",
+         "published_at": "2021-08-21T21:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@dekalbanimalservices.com",
+            "phone": "(404) 294-2165",
+            "address": {
+               "address1": "3280 Chamblee Dunwoody Rd",
+               "address2": "",
+               "city": "Chamblee",
+               "state": "GA",
+               "postcode": "30341",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739293"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga423"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224486,
+      "current_page": 5,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=4"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=6"
+         }
+      }
+   }
+}
