@@ -1,0 +1,22 @@
+
+
+Terminal API Process 
+
+Terminal View: Petfinder has a secondary way of extracting data via Terminal View .   The process is as follows: 
+
+-	Create a Petfinder account
+-	Create a Petfinder API Key (or Client ID) and a Secret Key
+-	Using cURL testing, submit API and Secret Key using the following api call 
+-	Once the token is received, submit the follow call to complete your request
+-	The call will then return a JSON response in terminal
+-	After the JSON response is returned, the response is then sent through Jupyter Notbook 
+-	The response from this then saved as a JSON file
+-	Then saved as a CSV file. 
+ 
+This process has many limitations. 
+-	The API call could not be used and/or transferred into Python/Jupyter Notebook.  Instead the code needed to be added as a variable inorder to be “jsonified”.
+-	The API call did not allow for us to set multiple parameters (ie: unable to filter by “dogs” and “state: NJ”).  The call would only recognize the first parameter that was set.
+-	The API call pulls all pet data for all pet types (cats, dogs, birds, rabbits, etc.).
+-	The API call could only do one page at a time; therefore, multiple csv files needed to be created and only 20 pets were listed per page.
+
+Due to the listed limitations, the team decided not use the data from this method.
