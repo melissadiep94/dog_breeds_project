@@ -1,0 +1,1660 @@
+{
+   "animals": [
+      {
+         "id": 52739147,
+         "organization_id": "VA96",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/binky-52739147\\/va\\/charlottesville\\/charlottesville-albemarle-spca-va96\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Binky",
+         "description": "Primary Color: Brown Tabby Secondary Color: White Weight: 3.875lbs Age: 0yrs 0mths 10wks Animal has been Neutered",
+         "organization_animal_id": "137010",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/2\\/?bust=1629579509&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/2\\/?bust=1629579509&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/2\\/?bust=1629579509&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/2\\/?bust=1629579509"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/3\\/?bust=1629579508&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/3\\/?bust=1629579508&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/3\\/?bust=1629579508&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/3\\/?bust=1629579508"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/4\\/?bust=1629579508&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/4\\/?bust=1629579508&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/4\\/?bust=1629579508&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/4\\/?bust=1629579508"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739147\\/1\\/?bust=1629579507"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:48:18+0000",
+         "published_at": "2021-08-21T20:48:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@caspca.org",
+            "phone": "(434) 973-5959",
+            "address": {
+               "address1": "3355 Berkmar Dr.",
+               "address2": "",
+               "city": "Charlottesville",
+               "state": "VA",
+               "postcode": "22901",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739147"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/va96"
+            }
+         }
+      },
+      {
+         "id": 52739146,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ulrich-52739146\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Doberman Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ulrich",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145126",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739146\\/1\\/?bust=1629579485"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:57+0000",
+         "published_at": "2021-08-21T20:47:57+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739146"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739145,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/zita-52739145\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Zita",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145142",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739145\\/1\\/?bust=1629579487"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:57+0000",
+         "published_at": "2021-08-21T20:47:57+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739145"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739144,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ulyssa-52739144\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Doberman Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ulyssa",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145129",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739144\\/1\\/?bust=1629579483"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:56+0000",
+         "published_at": "2021-08-21T20:47:56+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739144"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739143,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/zamora-52739143\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Zamora",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145133",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739143\\/1\\/?bust=1629579485"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:56+0000",
+         "published_at": "2021-08-21T20:47:56+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739143"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739142,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/zenada-52739142\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Zenada",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145136",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739142\\/1\\/?bust=1629579485"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:55+0000",
+         "published_at": "2021-08-21T20:47:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739142"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739141,
+         "organization_id": "IL274",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/usher-52739141\\/il\\/hillside\\/magnificent-mutts-rescue-il274\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Doberman Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Usher",
+         "description": "***Thank you for your interest in Magnificent Mutts and Meows. As an all foster based rescue all meets will be...",
+         "organization_animal_id": "17145128",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739141\\/1\\/?bust=1629579487"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:55+0000",
+         "published_at": "2021-08-21T20:47:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "magmuttsrescue@aol.com",
+            "phone": "",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Hillside",
+               "state": "IL",
+               "postcode": "60162",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739141"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il274"
+            }
+         }
+      },
+      {
+         "id": 52739138,
+         "organization_id": "MD330",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/goose-52739138\\/md\\/baltimore\\/pitties-and-purrs-md330\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Leopard \\/ Spotted)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Goose",
+         "description": "Goose is a friendly three month old kitten who loves to play. He is curious and passes the time by...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739138\\/1\\/?bust=1629578869"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:50+0000",
+         "published_at": "2021-08-21T20:47:50+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptpitties@gmail.com",
+            "phone": " ",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Baltimore",
+               "state": "MD",
+               "postcode": "21206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739138"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/md330"
+            }
+         }
+      },
+      {
+         "id": 52739140,
+         "organization_id": "CA55",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/versailles-52739140\\/ca\\/los-angeles\\/kitten-rescue-ca55\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "Domestic Medium Hair",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Buff \\/ Tan \\/ Fawn)",
+            "secondary": "Buff \\/ Tan \\/ Fawn",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Versailles",
+         "description": "DOB: 8\\/15\\/19\nVersailles is a handsome, affectionate kitty that is a little shy when he meets new people but he...",
+         "organization_animal_id": "17145146-X804",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/2\\/?bust=1629579473&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/2\\/?bust=1629579473&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/2\\/?bust=1629579473&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/2\\/?bust=1629579473"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739140\\/1\\/?bust=1629579473"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:49+0000",
+         "published_at": "2021-08-21T20:47:49+0000",
+         "distance": "",
+         "contact": {
+            "email": "mail@kittenrescue.org",
+            "phone": "(818) 347-3037",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Los Angeles",
+               "state": "CA",
+               "postcode": "90039",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739140"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca55"
+            }
+         }
+      },
+      {
+         "id": 52739139,
+         "organization_id": "CA55",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cairo-52739139\\/ca\\/los-angeles\\/kitten-rescue-ca55\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cairo",
+         "description": "DOB: 3\\/15\\/21\nCairo is a sweet, sleek, back beauty that loves attention and affection. She will climb into your lap...",
+         "organization_animal_id": "17145134-O802",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/2\\/?bust=1629579474&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/2\\/?bust=1629579474&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/2\\/?bust=1629579474&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/2\\/?bust=1629579474"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/3\\/?bust=1629579474&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/3\\/?bust=1629579474&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/3\\/?bust=1629579474&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/3\\/?bust=1629579474"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739139\\/1\\/?bust=1629579475"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:48+0000",
+         "published_at": "2021-08-21T20:47:48+0000",
+         "distance": "",
+         "contact": {
+            "email": "mail@kittenrescue.org",
+            "phone": "(818) 347-3037",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Los Angeles",
+               "state": "CA",
+               "postcode": "90039",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739139"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca55"
+            }
+         }
+      },
+      {
+         "id": 52739137,
+         "organization_id": "TX403",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/sirus-black-52739137\\/tx\\/houston\\/houston-spca-tx403\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sirus Black",
+         "description": "Primary Color: Black Weight: 93.6lbs Age: 7yrs 0mths 0wks Animal has been Neutered",
+         "organization_animal_id": "451283",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739137\\/1\\/?bust=1629579470"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:46+0000",
+         "published_at": "2021-08-21T20:47:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@houstonspca.org",
+            "phone": "(713) 869-7722",
+            "address": {
+               "address1": "7007 Old Katy Rd",
+               "address2": "",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77024",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739137"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx403"
+            }
+         }
+      },
+      {
+         "id": 52739136,
+         "organization_id": "TX403",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/french-fry-52739136\\/tx\\/houston\\/houston-spca-tx403\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Beagle",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "French Fry",
+         "description": "Primary Color: White Secondary Color: Buff Weight: 18.4lbs Age: 0yrs 3mths 0wks Animal has been Neutered",
+         "organization_animal_id": "450919",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739136\\/1\\/?bust=1629579471"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:46+0000",
+         "published_at": "2021-08-21T20:47:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@houstonspca.org",
+            "phone": "(713) 869-7722",
+            "address": {
+               "address1": "7007 Old Katy Rd",
+               "address2": "",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77024",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739136"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx403"
+            }
+         }
+      },
+      {
+         "id": 52739135,
+         "organization_id": "MT37",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/whitney-52739135\\/mt\\/polson\\/life-savers-animal-rescue-mt37\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Whitney",
+         "description": "Whitney is a 3 year old spayed female lab cross. She is a beautiful girl and her foster says that...",
+         "organization_animal_id": "17145132",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739135\\/1\\/?bust=1629579469"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:45+0000",
+         "published_at": "2021-08-21T20:47:45+0000",
+         "distance": "",
+         "contact": {
+            "email": "lsar@lsar.org",
+            "phone": "(406) 676-4200",
+            "address": {
+               "address1": "P. O. Box 643",
+               "address2": "",
+               "city": "Polson",
+               "state": "MT",
+               "postcode": "59860",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739135"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mt37"
+            }
+         }
+      },
+      {
+         "id": 52739125,
+         "organization_id": "CA697",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/artemis-52739125\\/ca\\/santa-rosa\\/humane-society-of-sonoma-county-santa-rosa-ca697\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Artemis",
+         "description": "Primary Color: Muted Tortoiseshell Weight: 1.45kg Age: 0yrs 3mths 0wks Animal has been Spayed",
+         "organization_animal_id": "25691",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739125\\/1\\/?bust=1629579452"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:25+0000",
+         "published_at": "2021-08-21T20:47:25+0000",
+         "distance": "",
+         "contact": {
+            "email": "mdallas@humanesocietysoco.org",
+            "phone": "(707) 542-0882",
+            "address": {
+               "address1": "5345 Hwy 12",
+               "address2": "",
+               "city": "Santa Rosa",
+               "state": "CA",
+               "postcode": "95401",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739125"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca697"
+            }
+         }
+      },
+      {
+         "id": 52739124,
+         "organization_id": "CA398",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/stevie-52739124\\/ca\\/rancho-santa-fe\\/helen-woodward-animal-center-ca398\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Stevie",
+         "description": "",
+         "organization_animal_id": "17145144-000044482",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739124\\/1\\/?bust=1629579456"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:25+0000",
+         "published_at": "2021-08-21T20:47:25+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@animalcenter.org",
+            "phone": "(858) 756-4117",
+            "address": {
+               "address1": "6461 El Apajo",
+               "address2": "",
+               "city": "Rancho Santa Fe",
+               "state": "CA",
+               "postcode": "92067",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739124"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca398"
+            }
+         }
+      },
+      {
+         "id": 52739126,
+         "organization_id": "CA697",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/persephone-52739126\\/ca\\/santa-rosa\\/humane-society-of-sonoma-county-santa-rosa-ca697\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Persephone",
+         "description": "Primary Color: Tortoiseshell Weight: 1.51kg Age: 0yrs 3mths 0wks Animal has been Spayed",
+         "organization_animal_id": "25692",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739126\\/1\\/?bust=1629579459"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:47:25+0000",
+         "published_at": "2021-08-21T20:47:25+0000",
+         "distance": "",
+         "contact": {
+            "email": "mdallas@humanesocietysoco.org",
+            "phone": "(707) 542-0882",
+            "address": {
+               "address1": "5345 Hwy 12",
+               "address2": "",
+               "city": "Santa Rosa",
+               "state": "CA",
+               "postcode": "95401",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739126"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca697"
+            }
+         }
+      },
+      {
+         "id": 52739123,
+         "organization_id": "MD330",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/stoli-52739123\\/md\\/baltimore\\/pitties-and-purrs-md330\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Leopard \\/ Spotted)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Stoli",
+         "description": "Stoli is a biscuit making machine. At three months, he is able to make them in the sky, in a...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739123\\/1\\/?bust=1629578808"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:46:49+0000",
+         "published_at": "2021-08-21T20:46:49+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptpitties@gmail.com",
+            "phone": " ",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Baltimore",
+               "state": "MD",
+               "postcode": "21206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739123"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/md330"
+            }
+         }
+      },
+      {
+         "id": 52739122,
+         "organization_id": "AZ180",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ned-52739122\\/az\\/casa-grande\\/valley-humane-society-inc-az180\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Beagle",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ned",
+         "description": "Who doesn&#039;t want a Beagle buddy?  Ned is just two years old, playful and friendly, and wants to bring a...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739122\\/1\\/?bust=1629578805"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:46:47+0000",
+         "published_at": "2021-08-21T20:46:47+0000",
+         "distance": "",
+         "contact": {
+            "email": "vhsmail@valleyhumane.net",
+            "phone": "(520) 836-0904",
+            "address": {
+               "address1": "15699 W. Aniceto Rd.",
+               "address2": "PO Box 10480",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85230",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739122"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az180"
+            }
+         }
+      },
+      {
+         "id": 52739121,
+         "organization_id": "MI1121",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/rey-52739121\\/mi\\/alma\\/dalis-to-the-rescue-mi1121\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Terrier",
+            "secondary": "Pug",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Gray \\/ Blue \\/ Silver",
+            "secondary": "Black",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "Medium",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Friendly",
+            "Affectionate",
+            "Gentle",
+            "Loyal",
+            "Funny"
+         ],
+         "name": "Rey",
+         "description": "This is Rey, a 10 month old terrier mix.\n\nShe needs a home with no other pets and NO young...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739121\\/1\\/?bust=1629578802"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:46:43+0000",
+         "published_at": "2021-08-21T20:46:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "dalis2therescue@gmail.com",
+            "phone": "(989) 463-9797",
+            "address": {
+               "address1": "303 Valley Ave.",
+               "address2": "",
+               "city": "Alma",
+               "state": "MI",
+               "postcode": "48801",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739121"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mi1121"
+            }
+         }
+      },
+      {
+         "id": 52739117,
+         "organization_id": "MI252",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/komanji-52739117\\/mi\\/sault-sainte-marie\\/chippewa-county-animal-control-shelter-mi252\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Medium",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Komanji",
+         "description": "Komanji came in with brother, Gizmo. He is a beautiful boy with a luscious black coat. Komanji is new to...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739117\\/1\\/?bust=1629579031"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:46:30+0000",
+         "published_at": "2021-08-21T20:46:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "ccanimalshelter@att.net",
+            "phone": "(906) 632-2519",
+            "address": {
+               "address1": "3660 South Mackinac Trail",
+               "address2": "",
+               "city": "Sault Sainte Marie",
+               "state": "MI",
+               "postcode": "49783",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739117"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mi252"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224487,
+      "current_page": 12,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=11"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=13"
+         }
+      }
+   }
+}

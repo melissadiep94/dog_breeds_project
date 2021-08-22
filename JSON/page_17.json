@@ -1,0 +1,1546 @@
+{
+   "animals": [
+      {
+         "id": 52739023,
+         "organization_id": "NE73",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/kevin-52739023\\/ne\\/omaha\\/nebraska-humane-society-ne73\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Golden Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "KEVIN",
+         "description": "Hi I&amp;#39;m Kevin. I love to be busy, both physically and mentally. Do you like your crosswords to work your...",
+         "organization_animal_id": "A1409909",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:05+0000",
+         "published_at": "2021-08-21T20:40:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "nhs@nehumanesociety.org",
+            "phone": "(402) 444-7800",
+            "address": {
+               "address1": "8929 Fort St",
+               "address2": "",
+               "city": "Omaha",
+               "state": "NE",
+               "postcode": "68134",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739023"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ne73"
+            }
+         }
+      },
+      {
+         "id": 52739024,
+         "organization_id": "NE73",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/charles-schwab-etfs-52739024\\/ne\\/omaha\\/nebraska-humane-society-ne73\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Boxer",
+            "secondary": "Pit Bull Terrier",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CHARLES SCHWAB ETFS",
+         "description": "My name is Charles Schwab ETFs. Looking for a fun loving, energetic canine companion that loves to just goof around?...",
+         "organization_animal_id": "A1409592",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:05+0000",
+         "published_at": "2021-08-21T20:40:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "nhs@nehumanesociety.org",
+            "phone": "(402) 444-7800",
+            "address": {
+               "address1": "8929 Fort St",
+               "address2": "",
+               "city": "Omaha",
+               "state": "NE",
+               "postcode": "68134",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739024"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ne73"
+            }
+         }
+      },
+      {
+         "id": 52739025,
+         "organization_id": "NE73",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/rufie-52739025\\/ne\\/omaha\\/nebraska-humane-society-ne73\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "RUFIE",
+         "description": "Hi I&amp;#39;m Rufie. I love to be busy, both physically and mentally. I love activities like puzzle feeders, kongs and...",
+         "organization_animal_id": "A1327345",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:05+0000",
+         "published_at": "2021-08-21T20:40:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "nhs@nehumanesociety.org",
+            "phone": "(402) 444-7800",
+            "address": {
+               "address1": "8929 Fort St",
+               "address2": "",
+               "city": "Omaha",
+               "state": "NE",
+               "postcode": "68134",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739025"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ne73"
+            }
+         }
+      },
+      {
+         "id": 52739022,
+         "organization_id": "FL279",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/suzee-q-52739022\\/fl\\/west-palm-beach\\/peggy-adams-animal-rescue-league-fl279\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SUZEE Q",
+         "description": "Purrs from Suze Q. If you&amp;#39;re looking for a fun, loving kitty, look no further. I&amp;#39;m your girl, playful, energetic...",
+         "organization_animal_id": "A0407167",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739022\\/1\\/?bust=1629579045"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:05+0000",
+         "published_at": "2021-08-21T20:40:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@peggyadams.org",
+            "phone": "561-686-3663",
+            "address": {
+               "address1": "3100 North Military Trail",
+               "address2": "",
+               "city": "West Palm Beach",
+               "state": "FL",
+               "postcode": "33409",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739022"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl279"
+            }
+         }
+      },
+      {
+         "id": 52739019,
+         "organization_id": "FL275",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/hazel-52739019\\/fl\\/orlando\\/orange-county-animal-services-fl275\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Staffordshire Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "HAZEL",
+         "description": "Thanks to Webb Engineering, my heartworm treatment is sponsored, meaning much of the cost of my heartworm disease will be...",
+         "organization_animal_id": "A477749",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739019\\/1\\/?bust=1629579041"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:01+0000",
+         "published_at": "2021-08-21T20:40:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "AnimalServices@ocfl.net",
+            "phone": "",
+            "address": {
+               "address1": "2769 Conroy Road",
+               "address2": "",
+               "city": "Orlando",
+               "state": "FL",
+               "postcode": "32839",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739019"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl275"
+            }
+         }
+      },
+      {
+         "id": 52739020,
+         "organization_id": "TN172",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/milo-52739020\\/tn\\/nashville\\/metro-animal-care-and-control-tn172\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MILO",
+         "description": "Milo is 1.5 year old lover with the most beautiful black and brown fuzzy coat. He does great with other...",
+         "organization_animal_id": "A323280",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739020\\/1\\/?bust=1629579054"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:01+0000",
+         "published_at": "2021-08-21T20:40:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt.macc@nashville.gov",
+            "phone": "(615) 862-7928",
+            "address": {
+               "address1": "5125 Harding Place",
+               "address2": "",
+               "city": "Nashville",
+               "state": "TN",
+               "postcode": "37211",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739020"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn172"
+            }
+         }
+      },
+      {
+         "id": 52739017,
+         "organization_id": "TX236",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/duke-52739017\\/tx\\/dallas\\/dallas-animal-services-and-adoption-center-tx236\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "DUKE",
+         "description": "Hi! Im still getting to know everyone at DAS and making new friends, but Im sure excited to be looking...",
+         "organization_animal_id": "A1126559",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739017\\/1\\/?bust=1629579033"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:00+0000",
+         "published_at": "2021-08-21T20:40:00+0000",
+         "distance": "",
+         "contact": {
+            "email": "dasadopt@dallascityhall.com",
+            "phone": "(214) 671-0249",
+            "address": {
+               "address1": "1818 N. Westmoreland",
+               "address2": "",
+               "city": "Dallas",
+               "state": "TX",
+               "postcode": "75212",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739017"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx236"
+            }
+         }
+      },
+      {
+         "id": 52739012,
+         "organization_id": "MD330",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/skyy-52739012\\/md\\/baltimore\\/pitties-and-purrs-md330\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tabby (Leopard \\/ Spotted)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Skyy",
+         "description": "Skyy is 3 months old and the only girl from her litter. She loves to play with all of her...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739012\\/1\\/?bust=1629578399"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:00+0000",
+         "published_at": "2021-08-21T20:40:00+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptpitties@gmail.com",
+            "phone": " ",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Baltimore",
+               "state": "MD",
+               "postcode": "21206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739012"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/md330"
+            }
+         }
+      },
+      {
+         "id": 52739016,
+         "organization_id": "TX236",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/muneza-52739016\\/tx\\/dallas\\/dallas-animal-services-and-adoption-center-tx236\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Husky",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MUNEZA",
+         "description": "",
+         "organization_animal_id": "A1128004",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:00+0000",
+         "published_at": "2021-08-21T20:40:00+0000",
+         "distance": "",
+         "contact": {
+            "email": "dasadopt@dallascityhall.com",
+            "phone": "(214) 671-0249",
+            "address": {
+               "address1": "1818 N. Westmoreland",
+               "address2": "",
+               "city": "Dallas",
+               "state": "TX",
+               "postcode": "75212",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739016"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx236"
+            }
+         }
+      },
+      {
+         "id": 52739018,
+         "organization_id": "CA77",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/francis-52739018\\/ca\\/upland\\/friends-of-upland-animal-shelter-ca77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "FRANCIS",
+         "description": "",
+         "organization_animal_id": "A061305",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739018\\/1\\/?bust=1629579080"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:00+0000",
+         "published_at": "2021-08-21T20:40:00+0000",
+         "distance": "",
+         "contact": {
+            "email": "bseager@friendsofuplandanimalshelter.org",
+            "phone": "(909) 931-4185",
+            "address": {
+               "address1": "1275 San Bernardino Road",
+               "address2": "",
+               "city": "Upland",
+               "state": "CA",
+               "postcode": "91786",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739018"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca77"
+            }
+         }
+      },
+      {
+         "id": 52739015,
+         "organization_id": "TX236",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/1128003-52739015\\/tx\\/dallas\\/dallas-animal-services-and-adoption-center-tx236\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "1128003",
+         "description": "",
+         "organization_animal_id": "A1128003",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739015\\/1\\/?bust=1629579033"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:59+0000",
+         "published_at": "2021-08-21T20:39:59+0000",
+         "distance": "",
+         "contact": {
+            "email": "dasadopt@dallascityhall.com",
+            "phone": "(214) 671-0249",
+            "address": {
+               "address1": "1818 N. Westmoreland",
+               "address2": "",
+               "city": "Dallas",
+               "state": "TX",
+               "postcode": "75212",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739015"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx236"
+            }
+         }
+      },
+      {
+         "id": 52739013,
+         "organization_id": "TX236",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/bubbles-52739013\\/tx\\/dallas\\/dallas-animal-services-and-adoption-center-tx236\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Extra Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BUBBLES",
+         "description": "",
+         "organization_animal_id": "A1128002",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:59+0000",
+         "published_at": "2021-08-21T20:39:59+0000",
+         "distance": "",
+         "contact": {
+            "email": "dasadopt@dallascityhall.com",
+            "phone": "(214) 671-0249",
+            "address": {
+               "address1": "1818 N. Westmoreland",
+               "address2": "",
+               "city": "Dallas",
+               "state": "TX",
+               "postcode": "75212",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739013"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx236"
+            }
+         }
+      },
+      {
+         "id": 52739014,
+         "organization_id": "TX236",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/bubbles-52739014\\/tx\\/dallas\\/dallas-animal-services-and-adoption-center-tx236\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BUBBLES",
+         "description": "",
+         "organization_animal_id": "A1090715",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739014\\/1\\/?bust=1629579072"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:59+0000",
+         "published_at": "2021-08-21T20:39:59+0000",
+         "distance": "",
+         "contact": {
+            "email": "dasadopt@dallascityhall.com",
+            "phone": "(214) 671-0249",
+            "address": {
+               "address1": "1818 N. Westmoreland",
+               "address2": "",
+               "city": "Dallas",
+               "state": "TX",
+               "postcode": "75212",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739014"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx236"
+            }
+         }
+      },
+      {
+         "id": 52739011,
+         "organization_id": "CA15",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/a499833-52739011\\/ca\\/pasadena\\/pasadena-humane-ca15\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A499833",
+         "description": "",
+         "organization_animal_id": "A499833",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739011\\/1\\/?bust=1629579031"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:55+0000",
+         "published_at": "2021-08-21T20:39:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@pasadenahumane.org",
+            "phone": "(626) 792-7151",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Pasadena",
+               "state": "CA",
+               "postcode": "91105",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739011"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca15"
+            }
+         }
+      },
+      {
+         "id": 52739010,
+         "organization_id": "CA15",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/a499834-52739010\\/ca\\/pasadena\\/pasadena-humane-ca15\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A499834",
+         "description": "",
+         "organization_animal_id": "A499834",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739010\\/1\\/?bust=1629579041"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:55+0000",
+         "published_at": "2021-08-21T20:39:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@pasadenahumane.org",
+            "phone": "(626) 792-7151",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Pasadena",
+               "state": "CA",
+               "postcode": "91105",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739010"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca15"
+            }
+         }
+      },
+      {
+         "id": 52739006,
+         "organization_id": "AZ180",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/hardy-52739006\\/az\\/casa-grande\\/valley-humane-society-inc-az180\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Doberman Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Hardy",
+         "description": "Hardy is an 11-month-old gorgeous Doberman!  He loves to play and exercise and he also likes to just chill with...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739006\\/1\\/?bust=1629578392"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:53+0000",
+         "published_at": "2021-08-21T20:39:53+0000",
+         "distance": "",
+         "contact": {
+            "email": "vhsmail@valleyhumane.net",
+            "phone": "(520) 836-0904",
+            "address": {
+               "address1": "15699 W. Aniceto Rd.",
+               "address2": "PO Box 10480",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85230",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739006"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az180"
+            }
+         }
+      },
+      {
+         "id": 52739009,
+         "organization_id": "TX447",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/a100143-52739009\\/tx\\/waco\\/humane-society-of-central-tx-tx447\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A100143",
+         "description": "",
+         "organization_animal_id": "A100143",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739009\\/1\\/?bust=1629579010"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:53+0000",
+         "published_at": "2021-08-21T20:39:53+0000",
+         "distance": "",
+         "contact": {
+            "email": "hsctapplications@gmail.com",
+            "phone": "254-754-1454",
+            "address": {
+               "address1": "2032 Circle Rd",
+               "address2": "",
+               "city": "Waco",
+               "state": "TX",
+               "postcode": "76706",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739009"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx447"
+            }
+         }
+      },
+      {
+         "id": 52739007,
+         "organization_id": "FL829",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/patches-pearl-52739007\\/fl\\/pensacola\\/escambia-county-animal-services-fl829\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PATCHES PEARL",
+         "description": "",
+         "organization_animal_id": "A303120",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739007\\/1\\/?bust=1629579020"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:52+0000",
+         "published_at": "2021-08-21T20:39:52+0000",
+         "distance": "",
+         "contact": {
+            "email": "prtrout@co.escambia.fl.us",
+            "phone": "850-595-3075   ",
+            "address": {
+               "address1": "200 W. Fairfield Drive",
+               "address2": "",
+               "city": "Pensacola",
+               "state": "FL",
+               "postcode": "32501",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739007"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl829"
+            }
+         }
+      },
+      {
+         "id": 52739008,
+         "organization_id": "CA738",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/strawberry-jam-52739008\\/ca\\/rancho-cucamonga\\/rancho-cucamonga-animal-care-and-adoption-center-ca738\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "STRAWBERRY JAM",
+         "description": "",
+         "organization_animal_id": "A752870",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739008\\/1\\/?bust=1629579029"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:52+0000",
+         "published_at": "2021-08-21T20:39:52+0000",
+         "distance": "",
+         "contact": {
+            "email": "RCPets@cityofrc.us",
+            "phone": "(909) 466-7387",
+            "address": {
+               "address1": "11780 Arrow Route",
+               "address2": "",
+               "city": "Rancho Cucamonga",
+               "state": "CA",
+               "postcode": "91730",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739008"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca738"
+            }
+         }
+      },
+      {
+         "id": 52739005,
+         "organization_id": "CA1534",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/dog-52739005\\/ca\\/thousand-palms\\/coachella-valley-city-county-animal-shelter-ca1534\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dog",
+         "description": "",
+         "organization_animal_id": "A1636348",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:51+0000",
+         "published_at": "2021-08-21T20:39:51+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterinfo@rivcocha.org",
+            "phone": "760 343 3644   ",
+            "address": {
+               "address1": "72-050 Pet Land Place",
+               "address2": "",
+               "city": "Thousand Palms",
+               "state": "CA",
+               "postcode": "92276",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739005"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca1534"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224492,
+      "current_page": 17,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=16"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=18"
+         }
+      }
+   }
+}

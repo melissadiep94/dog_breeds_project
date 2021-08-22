@@ -1,0 +1,1606 @@
+{
+   "animals": [
+      {
+         "id": 52739067,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/a0853265-52739067\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A0853265",
+         "description": "",
+         "organization_animal_id": "A0853265",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739067"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739072,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/a0852882-52739072\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Mouse",
+         "breeds": {
+            "primary": "Mouse",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A0852882",
+         "description": "",
+         "organization_animal_id": "A0852882",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739072"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739066,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/cap-and-number-39n-52739066\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CAP&#39;N",
+         "description": "",
+         "organization_animal_id": "A0853271",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739066"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739073,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/callie-52739073\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CALLIE",
+         "description": "INDOOR HANG OUT BUDDY We recommend Callie going to a quiet home with no small kids. She is a shy...",
+         "organization_animal_id": "A0833399",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739073"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739069,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/hickup-52739069\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Rat",
+         "breeds": {
+            "primary": "Rat",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "HICKUP",
+         "description": "",
+         "organization_animal_id": "A0840906",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739069\\/1\\/?bust=1629579132"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739069"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739070,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/cheerios-52739070\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CHEERIOS",
+         "description": "",
+         "organization_animal_id": "A0853268",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739070\\/1\\/?bust=1629579126"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739070"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739061,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/west-52739061\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "WEST",
+         "description": "",
+         "organization_animal_id": "A0851361",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739061\\/1\\/?bust=1629579062"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739061"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739064,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sweetpea-52739064\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SWEETPEA",
+         "description": "",
+         "organization_animal_id": "A0852086",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739064\\/1\\/?bust=1629579112"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739064"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739056,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/hakuna-52739056\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Rat",
+         "breeds": {
+            "primary": "Rat",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "HAKUNA",
+         "description": "",
+         "organization_animal_id": "A0852820",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739056\\/1\\/?bust=1629579109"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739056"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739065,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/bella-52739065\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Rat",
+         "breeds": {
+            "primary": "Rat",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BELLA",
+         "description": "",
+         "organization_animal_id": "A0852836",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739065\\/1\\/?bust=1629579100"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739065"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739055,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/benjamin-buttons-52739055\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BENJAMIN BUTTONS",
+         "description": "",
+         "organization_animal_id": "A0851789",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739055\\/1\\/?bust=1629579101"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739055"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739063,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/poli-52739063\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Mouse",
+         "breeds": {
+            "primary": "Mouse",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "POLI",
+         "description": "",
+         "organization_animal_id": "A0852822",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739063\\/1\\/?bust=1629579102"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739063"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739060,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/crunch-52739060\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CRUNCH",
+         "description": "",
+         "organization_animal_id": "A0853269",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739060\\/1\\/?bust=1629579098"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739060"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739058,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/matthew-52739058\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MATTHEW",
+         "description": "",
+         "organization_animal_id": "A0851348",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739058\\/1\\/?bust=1629579099"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739058"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739059,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/a0852884-52739059\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Mouse",
+         "breeds": {
+            "primary": "Mouse",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A0852884",
+         "description": "",
+         "organization_animal_id": "A0852884",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739059\\/1\\/?bust=1629579103"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739059"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739062,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/dole-52739062\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Akita",
+            "secondary": "Pit Bull Terrier",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "DOLE",
+         "description": "Dole is a sweet boy looking for his person\\/people and a place to call his forever home. He is a...",
+         "organization_animal_id": "A0852007",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739062"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739057,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/rascal-52739057\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "RASCAL",
+         "description": "",
+         "organization_animal_id": "A0851296",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739057\\/1\\/?bust=1629579087"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:26+0000",
+         "published_at": "2021-08-21T20:40:26+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739057"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739053,
+         "organization_id": "GA717",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/rocket-52739053\\/ga\\/acworth\\/kindness-matters-ferret-rescue-ga717\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Ferret",
+         "breeds": {
+            "primary": "Ferret",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Rocket",
+         "description": "Rocket - 5 months old, healthy, neutered, descented. He&#039;s super happy and hyper! He&#039;ll be for adoption to a home...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739053\\/1\\/?bust=1629578423"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:25+0000",
+         "published_at": "2021-08-21T20:40:25+0000",
+         "distance": "",
+         "contact": {
+            "email": "kmferretrescue@comcast.net",
+            "phone": "(770) 235-0070",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Acworth",
+               "state": "GA",
+               "postcode": "30101",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739053"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga717"
+            }
+         }
+      },
+      {
+         "id": 52739054,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/cora-52739054\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Rat",
+         "breeds": {
+            "primary": "Rat",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CORA",
+         "description": "",
+         "organization_animal_id": "A0852835",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739054\\/1\\/?bust=1629579140"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:25+0000",
+         "published_at": "2021-08-21T20:40:25+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739054"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739052,
+         "organization_id": "CA766",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/arya-52739052\\/ca\\/los-angeles\\/city-of-los-angeles-south-la-animal-shelter-ca766\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "ARYA",
+         "description": "",
+         "organization_animal_id": "A1993260",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739052\\/1\\/?bust=1629579074"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:22+0000",
+         "published_at": "2021-08-21T20:40:22+0000",
+         "distance": "",
+         "contact": {
+            "email": "",
+            "phone": "(213) 485-0214",
+            "address": {
+               "address1": "1850 W. 60th St.",
+               "address2": "",
+               "city": "Los Angeles",
+               "state": "CA",
+               "postcode": "90047",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739052"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca766"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224492,
+      "current_page": 15,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=14"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=16"
+         }
+      }
+   }
+}

@@ -1,0 +1,1652 @@
+{
+   "animals": [
+      {
+         "id": 52739095,
+         "organization_id": "GA717",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/wobbles-52739095\\/ga\\/acworth\\/kindness-matters-ferret-rescue-ga717\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Ferret",
+         "breeds": {
+            "primary": "Ferret",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Wobbles",
+         "description": "Wobbles - for adoption after 8\\/30 to a home with another young, active ferret. 5 months old, healthy, spayed, descented....",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739095\\/1\\/?bust=1629578645"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:44:06+0000",
+         "published_at": "2021-08-21T20:44:06+0000",
+         "distance": "",
+         "contact": {
+            "email": "kmferretrescue@comcast.net",
+            "phone": "(770) 235-0070",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Acworth",
+               "state": "GA",
+               "postcode": "30101",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739095"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ga717"
+            }
+         }
+      },
+      {
+         "id": 52739094,
+         "organization_id": "CA2350",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ran-pronounced-wren-52739094\\/ca\\/san-juan-capistrano\\/promise-4-paws-ca2350\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Golden Retriever",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Golden",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "Long",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Friendly",
+            "Loyal",
+            "Smart"
+         ],
+         "name": "Ran (pronounced Wren)",
+         "description": "Ran(Wren) is a 3 yr old female Golden Retriever mix. She is on the smaller side at 30 lbs. Is...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/2\\/?bust=1629578639&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/2\\/?bust=1629578639&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/2\\/?bust=1629578639&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/2\\/?bust=1629578639"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739094\\/1\\/?bust=1629578639"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:44:01+0000",
+         "published_at": "2021-08-21T20:44:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "apromise4paws@gmail.com",
+            "phone": "(949) 600-1964",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Juan Capistrano",
+               "state": "CA",
+               "postcode": "92675",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739094"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2350"
+            }
+         }
+      },
+      {
+         "id": 52739092,
+         "organization_id": "OH706",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/simon-52739092\\/oh\\/plain-city\\/canine-collective-oh706\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Coonhound",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Yellow \\/ Tan \\/ Blond \\/ Fawn",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Extra Large",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Simon",
+         "description": "Simon is an 8 year old Treeing Walker Coonhound who is 75 pounds.\n\nI love my people but I love...",
+         "organization_animal_id": "R055",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/2\\/?bust=1629579137&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/2\\/?bust=1629579137&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/2\\/?bust=1629579137&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/2\\/?bust=1629579137"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/3\\/?bust=1629579135&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/3\\/?bust=1629579135&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/3\\/?bust=1629579135&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/3\\/?bust=1629579135"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/4\\/?bust=1629579145&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/4\\/?bust=1629579145&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/4\\/?bust=1629579145&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/4\\/?bust=1629579145"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739092\\/1\\/?bust=1629579146"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:42:06+0000",
+         "published_at": "2021-08-21T20:42:06+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@CanineCollective.org",
+            "phone": "",
+            "address": {
+               "address1": "11144 US 42N",
+               "address2": "",
+               "city": "Plain City",
+               "state": "OH",
+               "postcode": "43064",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739092"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/oh706"
+            }
+         }
+      },
+      {
+         "id": 52739091,
+         "organization_id": "OH706",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/onex-52739091\\/oh\\/plain-city\\/canine-collective-oh706\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Dane",
+            "secondary": "Boxer",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Onex",
+         "description": "ONEX is a beautiful female 6 month old Great Dane \\/ Boxer mix that weighs 55 pounds.\n\n\nOnex is new...",
+         "organization_animal_id": "R983",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/2\\/?bust=1629579146&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/2\\/?bust=1629579146&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/2\\/?bust=1629579146&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/2\\/?bust=1629579146"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/3\\/?bust=1629579129&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/3\\/?bust=1629579129&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/3\\/?bust=1629579129&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/3\\/?bust=1629579129"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/4\\/?bust=1629579130&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/4\\/?bust=1629579130&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/4\\/?bust=1629579130&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/4\\/?bust=1629579130"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/5\\/?bust=1629579147&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/5\\/?bust=1629579147&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/5\\/?bust=1629579147&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/5\\/?bust=1629579147"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739091\\/1\\/?bust=1629579150"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:42:05+0000",
+         "published_at": "2021-08-21T20:42:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@CanineCollective.org",
+            "phone": "",
+            "address": {
+               "address1": "11144 US 42N",
+               "address2": "",
+               "city": "Plain City",
+               "state": "OH",
+               "postcode": "43064",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739091"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/oh706"
+            }
+         }
+      },
+      {
+         "id": 52739090,
+         "organization_id": "AZ180",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/laurel-52739090\\/az\\/casa-grande\\/valley-humane-society-inc-az180\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Doberman Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Laurel",
+         "description": "Laurel is an 11-month-old gorgeous Doberman!  He loves to play and exercise and he also likes to just chill with...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739090\\/1\\/?bust=1629578459"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:41:00+0000",
+         "published_at": "2021-08-21T20:41:00+0000",
+         "distance": "",
+         "contact": {
+            "email": "vhsmail@valleyhumane.net",
+            "phone": "(520) 836-0904",
+            "address": {
+               "address1": "15699 W. Aniceto Rd.",
+               "address2": "PO Box 10480",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85230",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739090"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az180"
+            }
+         }
+      },
+      {
+         "id": 52739089,
+         "organization_id": "CA803",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/tito-52739089\\/ca\\/san-diego\\/san-diego-humane-society-ca803\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Tito",
+         "description": "How this pet arrived: This pet was brought in by their previous owner. At SDHS:This pet has been vaccinated, microchipped...",
+         "organization_animal_id": "575262",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739089\\/1\\/?bust=1629579135"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:46+0000",
+         "published_at": "2021-08-21T20:40:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@sdhumane.org",
+            "phone": "(619) 299-7012",
+            "address": {
+               "address1": "5500 Gaines Street",
+               "address2": "",
+               "city": "San Diego",
+               "state": "CA",
+               "postcode": "92110",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739089"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca803"
+            }
+         }
+      },
+      {
+         "id": 52739088,
+         "organization_id": "CA803",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/billie-52739088\\/ca\\/san-diego\\/san-diego-humane-society-ca803\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "Dachshund",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Billie",
+         "description": "How this pet arrived: This pet was brought in by their previous owner. At SDHS:This pet has been vaccinated, microchipped...",
+         "organization_animal_id": "717949",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/2\\/?bust=1629579145&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/2\\/?bust=1629579145&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/2\\/?bust=1629579145&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/2\\/?bust=1629579145"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739088\\/1\\/?bust=1629579117"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:46+0000",
+         "published_at": "2021-08-21T20:40:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@sdhumane.org",
+            "phone": "(619) 299-7012",
+            "address": {
+               "address1": "5500 Gaines Street",
+               "address2": "",
+               "city": "San Diego",
+               "state": "CA",
+               "postcode": "92110",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739088"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca803"
+            }
+         }
+      },
+      {
+         "id": 52739087,
+         "organization_id": "CA803",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/luna-52739087\\/ca\\/san-diego\\/san-diego-humane-society-ca803\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shiba Inu",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Luna",
+         "description": "How this pet arrived:This pet was rescued by the Humane Law Enforcement Team.Why this pet is the one for you:Luna...",
+         "organization_animal_id": "730353",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739087\\/1\\/?bust=1629579140"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:46+0000",
+         "published_at": "2021-08-21T20:40:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@sdhumane.org",
+            "phone": "(619) 299-7012",
+            "address": {
+               "address1": "5500 Gaines Street",
+               "address2": "",
+               "city": "San Diego",
+               "state": "CA",
+               "postcode": "92110",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739087"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca803"
+            }
+         }
+      },
+      {
+         "id": 52739086,
+         "organization_id": "IL195",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/cincinnati-52739086\\/il\\/northbrook\\/heartland-animal-shelter-il195\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "White \\/ Cream",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cincinnati",
+         "description": "",
+         "organization_animal_id": "HLIL-A-11641",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:34+0000",
+         "published_at": "2021-08-21T20:40:34+0000",
+         "distance": "",
+         "contact": {
+            "email": "heartlandanimals@yahoo.com",
+            "phone": "(847) 296-6400",
+            "address": {
+               "address1": "2975  Milwaukee Ave.",
+               "address2": "",
+               "city": "Northbrook",
+               "state": "IL",
+               "postcode": "60062",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739086"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il195"
+            }
+         }
+      },
+      {
+         "id": 52739085,
+         "organization_id": "AZ644",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/april-52739085\\/az\\/casa-grande\\/valley-kitten-nursery-and-rescue-az644\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "April",
+         "description": "going back to owner",
+         "organization_animal_id": "VKNR-A-58",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739085\\/1\\/?bust=1629579100"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:33+0000",
+         "published_at": "2021-08-21T20:40:33+0000",
+         "distance": "",
+         "contact": {
+            "email": "ml.eitel@yahoo.com",
+            "phone": "(602) 460-4475",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85194",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739085"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az644"
+            }
+         }
+      },
+      {
+         "id": 52739084,
+         "organization_id": "AZ644",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/gina-52739084\\/az\\/casa-grande\\/valley-kitten-nursery-and-rescue-az644\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Long Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Calico",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Gina",
+         "description": "very friendly",
+         "organization_animal_id": "VKNR-A-73",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739084\\/1\\/?bust=1629579120"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:33+0000",
+         "published_at": "2021-08-21T20:40:33+0000",
+         "distance": "",
+         "contact": {
+            "email": "ml.eitel@yahoo.com",
+            "phone": "(602) 460-4475",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Casa Grande",
+               "state": "AZ",
+               "postcode": "85194",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739084"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/az644"
+            }
+         }
+      },
+      {
+         "id": 52739079,
+         "organization_id": "TX973",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/a1780655-52739079\\/tx\\/houston\\/city-of-houston-barc-animal-shelter-and-adoptions-tx973\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A1780655",
+         "description": "",
+         "organization_animal_id": "A1780655",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739079\\/1\\/?bust=1629579101"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:29+0000",
+         "published_at": "2021-08-21T20:40:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "BARCAdoptions@houstontx.gov",
+            "phone": "(713) 837-0311",
+            "address": {
+               "address1": "3300 Carr Street (Front Entrance)",
+               "address2": "2700 Evella Street (Rear Entrance)",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77026",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739079"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx973"
+            }
+         }
+      },
+      {
+         "id": 52739080,
+         "organization_id": "TX973",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/perlo-52739080\\/tx\\/houston\\/city-of-houston-barc-animal-shelter-and-adoptions-tx973\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PERLO",
+         "description": "",
+         "organization_animal_id": "A1770666",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:29+0000",
+         "published_at": "2021-08-21T20:40:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "BARCAdoptions@houstontx.gov",
+            "phone": "(713) 837-0311",
+            "address": {
+               "address1": "3300 Carr Street (Front Entrance)",
+               "address2": "2700 Evella Street (Rear Entrance)",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77026",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739080"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx973"
+            }
+         }
+      },
+      {
+         "id": 52739078,
+         "organization_id": "TX973",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/perla-52739078\\/tx\\/houston\\/city-of-houston-barc-animal-shelter-and-adoptions-tx973\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PERLA",
+         "description": "",
+         "organization_animal_id": "A1770748",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739078\\/1\\/?bust=1629579089"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:29+0000",
+         "published_at": "2021-08-21T20:40:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "BARCAdoptions@houstontx.gov",
+            "phone": "(713) 837-0311",
+            "address": {
+               "address1": "3300 Carr Street (Front Entrance)",
+               "address2": "2700 Evella Street (Rear Entrance)",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77026",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739078"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx973"
+            }
+         }
+      },
+      {
+         "id": 52739077,
+         "organization_id": "TX973",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/toby-52739077\\/tx\\/houston\\/city-of-houston-barc-animal-shelter-and-adoptions-tx973\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "TOBY",
+         "description": "",
+         "organization_animal_id": "A1770661",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739077\\/1\\/?bust=1629579110"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:28+0000",
+         "published_at": "2021-08-21T20:40:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "BARCAdoptions@houstontx.gov",
+            "phone": "(713) 837-0311",
+            "address": {
+               "address1": "3300 Carr Street (Front Entrance)",
+               "address2": "2700 Evella Street (Rear Entrance)",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77026",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739077"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx973"
+            }
+         }
+      },
+      {
+         "id": 52739076,
+         "organization_id": "TX973",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/perucha-52739076\\/tx\\/houston\\/city-of-houston-barc-animal-shelter-and-adoptions-tx973\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PERUCHA",
+         "description": "",
+         "organization_animal_id": "A1770660",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739076\\/1\\/?bust=1629579115"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:28+0000",
+         "published_at": "2021-08-21T20:40:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "BARCAdoptions@houstontx.gov",
+            "phone": "(713) 837-0311",
+            "address": {
+               "address1": "3300 Carr Street (Front Entrance)",
+               "address2": "2700 Evella Street (Rear Entrance)",
+               "city": "Houston",
+               "state": "TX",
+               "postcode": "77026",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739076"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx973"
+            }
+         }
+      },
+      {
+         "id": 52739066,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/cap-and-number-39n-52739066\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CAP&#39;N",
+         "description": "",
+         "organization_animal_id": "A0853271",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739066\\/1\\/?bust=1629579118"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739066"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739067,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/a0853265-52739067\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Guinea Pig",
+         "breeds": {
+            "primary": "Guinea Pig",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A0853265",
+         "description": "",
+         "organization_animal_id": "A0853265",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739067\\/1\\/?bust=1629579116"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739067"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739072,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/small-furry\\/a0852882-52739072\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Small & Furry",
+         "species": "Mouse",
+         "breeds": {
+            "primary": "Mouse",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A0852882",
+         "description": "",
+         "organization_animal_id": "A0852882",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739072\\/1\\/?bust=1629579117"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739072"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/small-furry"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      },
+      {
+         "id": 52739073,
+         "organization_id": "CO316",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/callie-52739073\\/co\\/denver\\/dumb-friends-league-co316\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CALLIE",
+         "description": "INDOOR HANG OUT BUDDY We recommend Callie going to a quiet home with no small kids. She is a shy...",
+         "organization_animal_id": "A0833399",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739073\\/1\\/?bust=1629579134"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:40:27+0000",
+         "published_at": "2021-08-21T20:40:27+0000",
+         "distance": "",
+         "contact": {
+            "email": "customercare@ddfl.org",
+            "phone": "303-751-5772  ",
+            "address": {
+               "address1": "2080 S. Quebec St.",
+               "address2": "",
+               "city": "Denver",
+               "state": "CO",
+               "postcode": "80231",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739073"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co316"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224488,
+      "current_page": 14,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=13"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=15"
+         }
+      }
+   }
+}
