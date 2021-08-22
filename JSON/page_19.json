@@ -1,0 +1,1659 @@
+{
+   "animals": [
+      {
+         "id": 52739779,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/luther-52739779\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Luther",
+         "description": "Gorgeous &amp;#39;panther&amp;#39; - Luther was rescued from a crowded shelter that euthanizes for space. He was found with severe trauma\\/lacerations...",
+         "organization_animal_id": "17145237",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739779\\/1\\/?bust=1629583991"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739779"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739784,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/michi-52739784\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Michi",
+         "description": "This awesome orange\\/ginger trio of Kyo, Michi and Haku is NOW READY for adoption. You can&amp;#39;t argue that orange\\/ginger boys...",
+         "organization_animal_id": "17145208",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739784\\/1\\/?bust=1629583991"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739784"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739763,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/kyo-52739763\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Kyo",
+         "description": "This awesome orange\\/ginger trio of Kyo, Haku and Michi is now available for adoption! Can&amp;#39;t argue that gingers are the...",
+         "organization_animal_id": "17145209",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739763\\/1\\/?bust=1629583994"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739763"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739773,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/helios-52739773\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Helios",
+         "description": "Helios and his mother and sibling along with his cousins and aunt were all rescued from a crowded shelter that...",
+         "organization_animal_id": "17145220",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739773\\/1\\/?bust=1629583995"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739773"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739770,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/reid-52739770\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Reid",
+         "description": "Reid is the only boy in his litter. He and his siblings Rivers, Rawlings and Rayne were rescued from a...",
+         "organization_animal_id": "17145223",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739770\\/1\\/?bust=1629583995"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739770"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739769,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/ellie-rae-52739769\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ellie Rae",
+         "description": "Ellie Rae is a gorgeous panther black kitten with a personality as big as her ears!",
+         "organization_animal_id": "17145226",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739769\\/1\\/?bust=1629583995"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739769"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739771,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/maury-52739771\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Maury",
+         "description": "Maury is a active fun one eyed guy looking for his family - Maury was rescued from a kill shelter....",
+         "organization_animal_id": "17145231",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739771\\/1\\/?bust=1629583996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739771"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739787,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/juliet-52739787\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Dilute Calico",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Juliet",
+         "description": "Gorgeous momma - Juliet delivered six beautiful kittens in a crowded shelter that euthanizes for space. Thanks to a foster,...",
+         "organization_animal_id": "17145240",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739787\\/1\\/?bust=1629583996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739787"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739793,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/gloria-52739793\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Gloria",
+         "description": "Gloria and her siblings Ginny, Gavin and Graham were rescued from a crowded shelter that euthanizes for space. This litter...",
+         "organization_animal_id": "17145221",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739793\\/1\\/?bust=1629583996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739793"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739786,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/rosie-52739786\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Dilute Tortoiseshell",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Rosie",
+         "description": "Beautiful girl who came to kill shelter with laceration under front leg. - Rosie and her &amp;#39;kittens&amp;#39; Rhonda &amp;amp; Renee...",
+         "organization_animal_id": "17145238",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739786\\/1\\/?bust=1629583996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739786"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739781,
+         "organization_id": "KY382",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/zoe-52739781\\/ky\\/louisville\\/kentucky-pets-alive-ky382\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Dilute Tortoiseshell",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Zoe",
+         "description": "Gorgeous sweet momma of SIX kittens - Zoe and her family were rescued from a crowded shelter that euthanizes for...",
+         "organization_animal_id": "17145233",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739781\\/1\\/?bust=1629583996"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:03:02+0000",
+         "published_at": "2021-08-21T22:03:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "kentuckypetsalive@gmail.com",
+            "phone": "(502) 777-2968",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Louisville",
+               "state": "KY",
+               "postcode": "40299",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739781"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ky382"
+            }
+         }
+      },
+      {
+         "id": 52739760,
+         "organization_id": "MO683",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/susie-52739760\\/mo\\/lebanon\\/pound-pullers-of-lebanon-mo-inc-mo683\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Calico",
+            "secondary": "Tabby",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "Cream \\/ Ivory",
+            "tertiary": "Orange \\/ Red"
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "Short",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [
+            "Friendly",
+            "Affectionate",
+            "Playful",
+            "Athletic"
+         ],
+         "name": "Susie",
+         "description": "Sweet and playful black and creamed striped with orange spots calico female  spayed shots tests negative for Fiv\\/Leukemia and microchipped...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739760\\/1\\/?bust=1629583368"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:02:49+0000",
+         "published_at": "2021-08-21T22:02:49+0000",
+         "distance": "",
+         "contact": {
+            "email": "Adoptioncoordinator.PPLMO@gmail.com",
+            "phone": "(417) 288-2310",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lebanon",
+               "state": "MO",
+               "postcode": "65536",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739760"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/mo683"
+            }
+         }
+      },
+      {
+         "id": 52739761,
+         "organization_id": "NM84",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/matilda-52739761\\/nm\\/rio-rancho\\/rio-rancho-animal-resource-center-nm84\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Matilda",
+         "description": "Primary Color: Grey Tabby Age: 4yrs 0mths 0wks",
+         "organization_animal_id": "19533",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/2\\/?bust=1629583975&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/2\\/?bust=1629583975&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/2\\/?bust=1629583975&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/2\\/?bust=1629583975"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/3\\/?bust=1629583977&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/3\\/?bust=1629583977&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/3\\/?bust=1629583977&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/3\\/?bust=1629583977"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739761\\/1\\/?bust=1629583974"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:02:49+0000",
+         "published_at": "2021-08-21T22:02:49+0000",
+         "distance": "",
+         "contact": {
+            "email": "",
+            "phone": "(505) 891-5075",
+            "address": {
+               "address1": "3441 Northern Blvd.",
+               "address2": "",
+               "city": "Rio Rancho",
+               "state": "NM",
+               "postcode": "87124",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739761"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm84"
+            }
+         }
+      },
+      {
+         "id": 52739762,
+         "organization_id": "NM84",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/juniper-52739762\\/nm\\/rio-rancho\\/rio-rancho-animal-resource-center-nm84\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Miniature Pinscher",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Juniper",
+         "description": "Primary Color: Black Secondary Color: Tan Age: 3yrs 0mths 0wks",
+         "organization_animal_id": "19523",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739762\\/1\\/?bust=1629583974"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:02:49+0000",
+         "published_at": "2021-08-21T22:02:49+0000",
+         "distance": "",
+         "contact": {
+            "email": "",
+            "phone": "(505) 891-5075",
+            "address": {
+               "address1": "3441 Northern Blvd.",
+               "address2": "",
+               "city": "Rio Rancho",
+               "state": "NM",
+               "postcode": "87124",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739762"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm84"
+            }
+         }
+      },
+      {
+         "id": 52739759,
+         "organization_id": "VA96",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/pizza-mum-52739759\\/va\\/charlottesville\\/charlottesville-albemarle-spca-va96\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Pizza Mum",
+         "description": "Primary Color: Black Weight: 7.375lbs Age: 3yrs 3mths 2wks Animal has been Spayed",
+         "organization_animal_id": "134554",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/2\\/?bust=1629583975&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/2\\/?bust=1629583975&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/2\\/?bust=1629583975&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/2\\/?bust=1629583975"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739759\\/1\\/?bust=1629583974"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:02:46+0000",
+         "published_at": "2021-08-21T22:02:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@caspca.org",
+            "phone": "(434) 973-5959",
+            "address": {
+               "address1": "3355 Berkmar Dr.",
+               "address2": "",
+               "city": "Charlottesville",
+               "state": "VA",
+               "postcode": "22901",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739759"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/va96"
+            }
+         }
+      },
+      {
+         "id": 52739758,
+         "organization_id": "FL299",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/buddy-52739758\\/fl\\/miami\\/born-free-pet-shelter-fl299\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "American Bulldog",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Buddy",
+         "description": "Buddy is an American Bulldog mix. Buddy is strong boy and he is affectionate with those he knows but he...",
+         "organization_animal_id": "",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/2\\/?bust=1629583334&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/2\\/?bust=1629583334&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/2\\/?bust=1629583334&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/2\\/?bust=1629583334"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/img\\/e8966e21-ba6f-4b13-a9ef-6fcfc4f13305.jpg?bust=1629583335&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/img\\/e8966e21-ba6f-4b13-a9ef-6fcfc4f13305.jpg?bust=1629583335&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/img\\/e8966e21-ba6f-4b13-a9ef-6fcfc4f13305.jpg?bust=1629583335&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/img\\/e8966e21-ba6f-4b13-a9ef-6fcfc4f13305.jpg?bust=1629583335"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/4\\/?bust=1629583336&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/4\\/?bust=1629583336&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/4\\/?bust=1629583336&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/4\\/?bust=1629583336"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739758\\/1\\/?bust=1629583334"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:02:17+0000",
+         "published_at": "2021-08-21T22:02:17+0000",
+         "distance": "",
+         "contact": {
+            "email": "bornfreepetshelter@gmail.com",
+            "phone": "(786) 205-6865",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Miami",
+               "state": "FL",
+               "postcode": "33177",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739758"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl299"
+            }
+         }
+      },
+      {
+         "id": 52739751,
+         "organization_id": "IA60",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/cecilia-52739751\\/ia\\/sioux-city\\/siouxland-humane-society-ia60\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Shepherd",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cecilia",
+         "description": "Cecilia is a beautiful girl looking for her forever home. She was transferred by another shelter, so we do not...",
+         "organization_animal_id": "13206",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739751\\/1\\/?bust=1629583928"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:01:58+0000",
+         "published_at": "2021-08-21T22:01:58+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@siouxlandhumanesociety.org",
+            "phone": "(712) 252-2614",
+            "address": {
+               "address1": "1015 Tri-View Avenue",
+               "address2": "",
+               "city": "Sioux City",
+               "state": "IA",
+               "postcode": "51103",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739751"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ia60"
+            }
+         }
+      },
+      {
+         "id": 52739752,
+         "organization_id": "IA60",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/moo-moo-52739752\\/ia\\/sioux-city\\/siouxland-humane-society-ia60\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Border Collie",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Moo Moo",
+         "description": "Moo Moo is a friendly pooch who would absolutely love to come home with you! She seems to do fine...",
+         "organization_animal_id": "13205",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739752\\/1\\/?bust=1629583931"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:01:58+0000",
+         "published_at": "2021-08-21T22:01:58+0000",
+         "distance": "",
+         "contact": {
+            "email": "adopt@siouxlandhumanesociety.org",
+            "phone": "(712) 252-2614",
+            "address": {
+               "address1": "1015 Tri-View Avenue",
+               "address2": "",
+               "city": "Sioux City",
+               "state": "IA",
+               "postcode": "51103",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739752"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ia60"
+            }
+         }
+      },
+      {
+         "id": 52739748,
+         "organization_id": "TN132",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/geez-52739748\\/tn\\/cookeville\\/cookeville-putnam-county-animal-shelter-tn132\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Geez",
+         "description": "",
+         "organization_animal_id": "0821-7934",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739748\\/1\\/?bust=1629583885"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:00:57+0000",
+         "published_at": "2021-08-21T22:00:57+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterstaff@cookeville-tn.org",
+            "phone": "(931) 526-3647",
+            "address": {
+               "address1": "2650 Gainesboro Grade",
+               "address2": "",
+               "city": "Cookeville",
+               "state": "TN",
+               "postcode": "38501",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739748"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn132"
+            }
+         }
+      },
+      {
+         "id": 52739747,
+         "organization_id": "TN132",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/louise-52739747\\/tn\\/cookeville\\/cookeville-putnam-county-animal-shelter-tn132\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Louise",
+         "description": "",
+         "organization_animal_id": "0821-7935",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739747\\/1\\/?bust=1629583873"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T22:00:53+0000",
+         "published_at": "2021-08-21T22:00:53+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterstaff@cookeville-tn.org",
+            "phone": "(931) 526-3647",
+            "address": {
+               "address1": "2650 Gainesboro Grade",
+               "address2": "",
+               "city": "Cookeville",
+               "state": "TN",
+               "postcode": "38501",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739747"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tn132"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 223668,
+      "current_page": 19,
+      "total_pages": 11184,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=18"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=20"
+         }
+      }
+   }
+}

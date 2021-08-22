@@ -1,0 +1,1594 @@
+{
+   "animals": [
+      {
+         "id": 52739005,
+         "organization_id": "CA1534",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/dog-52739005\\/ca\\/thousand-palms\\/coachella-valley-city-county-animal-shelter-ca1534\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dog",
+         "description": "",
+         "organization_animal_id": "A1636348",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:51+0000",
+         "published_at": "2021-08-21T20:39:51+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelterinfo@rivcocha.org",
+            "phone": "760 343 3644   ",
+            "address": {
+               "address1": "72-050 Pet Land Place",
+               "address2": "",
+               "city": "Thousand Palms",
+               "state": "CA",
+               "postcode": "92276",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739005"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca1534"
+            }
+         }
+      },
+      {
+         "id": 52739003,
+         "organization_id": "NM137",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/co-pilot-52739003\\/nm\\/albuquerque\\/albuquerque-animal-welfare-westside-nm137\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CO-PILOT",
+         "description": "",
+         "organization_animal_id": "A1835722",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739003\\/1\\/?bust=1629579008"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:48+0000",
+         "published_at": "2021-08-21T20:39:48+0000",
+         "distance": "",
+         "contact": {
+            "email": "cstanley@cabq.gov",
+            "phone": "505-768-1975 Call Center will direct you ",
+            "address": {
+               "address1": "11800 Sunset Gardens SW",
+               "address2": "",
+               "city": "Albuquerque",
+               "state": "NM",
+               "postcode": "87121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739003"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm137"
+            }
+         }
+      },
+      {
+         "id": 52738995,
+         "organization_id": "TX1003",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/a353778-52738995\\/tx\\/conroe\\/montgomery-county-animal-shelter-tx1003\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A353778",
+         "description": "",
+         "organization_animal_id": "A353778",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738995\\/1\\/?bust=1629579004"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter.counter@mctx.org",
+            "phone": "(936) 442-7738",
+            "address": {
+               "address1": "8535 State Highway 242",
+               "address2": "",
+               "city": "Conroe",
+               "state": "TX",
+               "postcode": "77385",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738995"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx1003"
+            }
+         }
+      },
+      {
+         "id": 52739001,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/udon-52739001\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "UDON",
+         "description": "",
+         "organization_animal_id": "A143473",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739001\\/1\\/?bust=1629579001"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739001"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52739000,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sushi-52739000\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SUSHI",
+         "description": "",
+         "organization_animal_id": "A143470",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739000\\/1\\/?bust=1629579002"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739000"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52738997,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sapporo-52738997\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SAPPORO",
+         "description": "",
+         "organization_animal_id": "A143469",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738997\\/1\\/?bust=1629579011"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738997"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52739002,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sashimi-52739002\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SASHIMI",
+         "description": "",
+         "organization_animal_id": "A143472",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52739002\\/1\\/?bust=1629579011"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52739002"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52738999,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/mizo-52738999\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MIZO",
+         "description": "",
+         "organization_animal_id": "A143471",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738999\\/1\\/?bust=1629579018"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738999"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52738996,
+         "organization_id": "TX1003",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/goldilocks-52738996\\/tx\\/conroe\\/montgomery-county-animal-shelter-tx1003\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "American Staffordshire Terrier",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "GOLDILOCKS",
+         "description": "",
+         "organization_animal_id": "A355681",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738996\\/1\\/?bust=1629579029"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter.counter@mctx.org",
+            "phone": "(936) 442-7738",
+            "address": {
+               "address1": "8535 State Highway 242",
+               "address2": "",
+               "city": "Conroe",
+               "state": "TX",
+               "postcode": "77385",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738996"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx1003"
+            }
+         }
+      },
+      {
+         "id": 52738998,
+         "organization_id": "OK224",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/astrid-52738998\\/ok\\/tulsa\\/tulsa-animal-welfare-ok224\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "ASTRID",
+         "description": "",
+         "organization_animal_id": "A143468",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738998\\/1\\/?bust=1629579031"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:46+0000",
+         "published_at": "2021-08-21T20:39:46+0000",
+         "distance": "",
+         "contact": {
+            "email": "TAWinfo@cityoftulsa.org",
+            "phone": "(918) 596-8000",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74115",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738998"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ok224"
+            }
+         }
+      },
+      {
+         "id": 52738994,
+         "organization_id": "TX1003",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/a355954-52738994\\/tx\\/conroe\\/montgomery-county-animal-shelter-tx1003\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Mixed Breed",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "A355954",
+         "description": "",
+         "organization_animal_id": "A355954",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738994\\/1\\/?bust=1629579022"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:45+0000",
+         "published_at": "2021-08-21T20:39:45+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter.counter@mctx.org",
+            "phone": "(936) 442-7738",
+            "address": {
+               "address1": "8535 State Highway 242",
+               "address2": "",
+               "city": "Conroe",
+               "state": "TX",
+               "postcode": "77385",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738994"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx1003"
+            }
+         }
+      },
+      {
+         "id": 52738993,
+         "organization_id": "FL164",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/arthur-52738993\\/fl\\/gainesville\\/alachua-county-animal-services-fl164\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Siamese",
+            "secondary": "Domestic Short Hair",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "ARTHUR",
+         "description": "",
+         "organization_animal_id": "A641649",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:44+0000",
+         "published_at": "2021-08-21T20:39:44+0000",
+         "distance": "",
+         "contact": {
+            "email": "ACAS@alachuacounty.us",
+            "phone": "(352) 264-6870",
+            "address": {
+               "address1": "3400 NE 53rd Avenue",
+               "address2": "",
+               "city": "Gainesville",
+               "state": "FL",
+               "postcode": "32609",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738993"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl164"
+            }
+         }
+      },
+      {
+         "id": 52738992,
+         "organization_id": "CO120",
+         "url": "https:\\/\\/www.petfinder.com\\/rabbit\\/penelope-52738992\\/co\\/frisco\\/summit-county-animal-shelter-co120\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Rabbit",
+         "species": "Rabbit",
+         "breeds": {
+            "primary": "Bunny Rabbit",
+            "secondary": "Polish",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PENELOPE",
+         "description": "",
+         "organization_animal_id": "A045815",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738992\\/1\\/?bust=1629579009"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:43+0000",
+         "published_at": "2021-08-21T20:39:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Animal_Control@summitcountyco.gov",
+            "phone": "(970) 668-3230",
+            "address": {
+               "address1": "0058 Nancy's Place",
+               "address2": "PO Box 5225",
+               "city": "Frisco",
+               "state": "CO",
+               "postcode": "80443",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738992"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/rabbit"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co120"
+            }
+         }
+      },
+      {
+         "id": 52738987,
+         "organization_id": "VA75",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/denver-52738987\\/va\\/leesburg\\/loudoun-county-animal-shelter-va75\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "DENVER",
+         "description": "Looking for a kitten to join your family? Denver might be the guy for you! This little fellow is sweet...",
+         "organization_animal_id": "A251833",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738987\\/1\\/?bust=1629579000"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:42+0000",
+         "published_at": "2021-08-21T20:39:42+0000",
+         "distance": "",
+         "contact": {
+            "email": "animals@loudoun.gov",
+            "phone": "(703) 777-0406",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Leesburg",
+               "state": "VA",
+               "postcode": "20175",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738987"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/va75"
+            }
+         }
+      },
+      {
+         "id": 52738984,
+         "organization_id": "NM41",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/luca-52738984\\/nm\\/santa-fe\\/santa-fe-animal-shelter-and-humane-society-nm41\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "LUCA",
+         "description": "Meet Luca! Luca is a dapper 4-month-old kitten who came to SFAS as a stray. This little guy is now...",
+         "organization_animal_id": "A154465",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738984\\/1\\/?bust=1629579005"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter@sfhumanesociety.org",
+            "phone": "(505) 983-4309",
+            "address": {
+               "address1": "100 Caja del Rio Road",
+               "address2": "",
+               "city": "Santa Fe",
+               "state": "NM",
+               "postcode": "87507",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738984"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm41"
+            }
+         }
+      },
+      {
+         "id": 52738988,
+         "organization_id": "CA767",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/meow-meows-52738988\\/ca\\/van-nuys\\/city-of-los-angeles-east-valley-animal-shelter-ca767\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MEOW MEOWS",
+         "description": "",
+         "organization_animal_id": "A1995540",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738988\\/1\\/?bust=1629579006"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "",
+            "phone": "(888) 452-7381",
+            "address": {
+               "address1": "14409 Vanowen St",
+               "address2": "",
+               "city": "Van Nuys",
+               "state": "CA",
+               "postcode": "91405",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738988"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca767"
+            }
+         }
+      },
+      {
+         "id": 52738983,
+         "organization_id": "NM41",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/twilight-52738983\\/nm\\/santa-fe\\/santa-fe-animal-shelter-and-humane-society-nm41\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "TWILIGHT",
+         "description": "Twilight is a quiet 7-pound, 1-year-old domestic short -haired female cat who came to SFAS when her guardian could no...",
+         "organization_animal_id": "A154452",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738983\\/1\\/?bust=1629579001"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter@sfhumanesociety.org",
+            "phone": "(505) 983-4309",
+            "address": {
+               "address1": "100 Caja del Rio Road",
+               "address2": "",
+               "city": "Santa Fe",
+               "state": "NM",
+               "postcode": "87507",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738983"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm41"
+            }
+         }
+      },
+      {
+         "id": 52738982,
+         "organization_id": "NM41",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sylvester-52738982\\/nm\\/santa-fe\\/santa-fe-animal-shelter-and-humane-society-nm41\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Long Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "SYLVESTER",
+         "description": "Sylvester is a handsome 7-pound, 1-year-old domestic long-haired male cat who came to SFAS when his guardian could no longer...",
+         "organization_animal_id": "A154456",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738982\\/1\\/?bust=1629579001"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter@sfhumanesociety.org",
+            "phone": "(505) 983-4309",
+            "address": {
+               "address1": "100 Caja del Rio Road",
+               "address2": "",
+               "city": "Santa Fe",
+               "state": "NM",
+               "postcode": "87507",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738982"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm41"
+            }
+         }
+      },
+      {
+         "id": 52738979,
+         "organization_id": "NM41",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/leland-52738979\\/nm\\/santa-fe\\/santa-fe-animal-shelter-and-humane-society-nm41\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "LELAND",
+         "description": "Meet Leland! Leland is a sweet 4-month-old kitten who came to SFAS as a stray. This little gal is so...",
+         "organization_animal_id": "A154421",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738979\\/1\\/?bust=1629578998"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter@sfhumanesociety.org",
+            "phone": "(505) 983-4309",
+            "address": {
+               "address1": "100 Caja del Rio Road",
+               "address2": "",
+               "city": "Santa Fe",
+               "state": "NM",
+               "postcode": "87507",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738979"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm41"
+            }
+         }
+      },
+      {
+         "id": 52738981,
+         "organization_id": "NM41",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/pebbles-52738981\\/nm\\/santa-fe\\/santa-fe-animal-shelter-and-humane-society-nm41\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PEBBLES",
+         "description": "Pebbles is a sweet 8-pound, 1-year-old domestic short-haired female cat who came to SFAS when her guardian could no longer...",
+         "organization_animal_id": "A154453",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52738981\\/1\\/?bust=1629578998"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-21T20:39:41+0000",
+         "published_at": "2021-08-21T20:39:41+0000",
+         "distance": "",
+         "contact": {
+            "email": "shelter@sfhumanesociety.org",
+            "phone": "(505) 983-4309",
+            "address": {
+               "address1": "100 Caja del Rio Road",
+               "address2": "",
+               "city": "Santa Fe",
+               "state": "NM",
+               "postcode": "87507",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52738981"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nm41"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 224493,
+      "current_page": 18,
+      "total_pages": 11225,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=17"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=19"
+         }
+      }
+   }
+}
