@@ -1,0 +1,242 @@
+,breed_ID,animal_type,breed_name
+0,1,1,Affenpinscher
+1,2,1,Afghan Hound
+2,3,1,Airedale Terrier
+3,4,1,Akbash
+4,5,1,Akita
+5,6,1,Alaskan Malamute
+6,7,1,American Bulldog
+7,8,1,American Eskimo Dog
+8,9,1,American Hairless Terrier
+9,10,1,American Staffordshire Terrier
+10,11,1,American Water Spaniel
+11,12,1,Anatolian Shepherd
+12,13,1,Appenzell Mountain Dog
+13,14,1,Australian Cattle Dog/Blue Heeler
+14,15,1,Australian Kelpie
+15,16,1,Australian Shepherd
+16,17,1,Australian Terrier
+17,18,1,Basenji
+18,19,1,Basset Hound
+19,20,1,Beagle
+20,21,1,Bearded Collie
+21,22,1,Beauceron
+22,23,1,Bedlington Terrier
+23,24,1,Belgian Shepherd Dog Sheepdog
+24,25,1,Belgian Shepherd Laekenois
+25,26,1,Belgian Shepherd Malinois
+26,27,1,Belgian Shepherd Tervuren
+27,28,1,Bernese Mountain Dog
+28,29,1,Bichon Frise
+29,30,1,Black and Tan Coonhound
+30,31,1,Black Labrador Retriever
+31,32,1,Black Mouth Cur
+32,33,1,Black Russian Terrier
+33,34,1,Bloodhound
+34,35,1,Blue Lacy
+35,36,1,Bluetick Coonhound
+36,37,1,Boerboel
+37,38,1,Bolognese
+38,39,1,Border Collie
+39,40,1,Border Terrier
+40,41,1,Borzoi
+41,42,1,Boston Terrier
+42,43,1,Bouvier des Flanders
+43,44,1,Boxer
+44,45,1,Boykin Spaniel
+45,46,1,Briard
+46,47,1,Brittany Spaniel
+47,48,1,Brussels Griffon
+48,49,1,Bull Terrier
+49,50,1,Bullmastiff
+50,51,1,Cairn Terrier
+51,52,1,Canaan Dog
+52,53,1,Cane Corso Mastiff
+53,54,1,Carolina Dog
+54,55,1,Catahoula Leopard Dog
+55,56,1,Cattle Dog
+56,57,1,Caucasian Sheepdog (Caucasian Ovtcharka)
+57,58,1,Cavalier King Charles Spaniel
+58,59,1,Chesapeake Bay Retriever
+59,60,1,Chihuahua
+60,61,1,Chinese Crested Dog
+61,62,1,Chinese Foo Dog
+62,63,1,Chinook
+63,64,1,Chocolate Labrador Retriever
+64,65,1,Chow Chow
+65,66,1,Cirneco dell'Etna
+66,67,1,Clumber Spaniel
+67,68,1,Cockapoo
+68,69,1,Cocker Spaniel
+69,70,1,Collie
+70,71,1,Coonhound
+71,72,1,Corgi
+72,73,1,Coton de Tulear
+73,74,1,Curly-Coated Retriever
+74,75,1,Dachshund
+75,76,1,Dalmatian
+76,77,1,Dandi Dinmont Terrier
+77,78,1,Doberman Pinscher
+78,79,1,Dogo Argentino
+79,80,1,Dogue de Bordeaux
+80,81,1,Dutch Shepherd
+81,82,1,English Bulldog
+82,83,1,English Cocker Spaniel
+83,84,1,English Coonhound
+84,85,1,English Pointer
+85,86,1,English Setter
+86,87,1,English Shepherd
+87,88,1,English Springer Spaniel
+88,89,1,English Toy Spaniel
+89,90,1,Entlebucher
+90,91,1,Eskimo Dog
+91,92,1,Feist
+92,93,1,Field Spaniel
+93,94,1,Fila Brasileiro
+94,95,1,Finnish Lapphund
+95,96,1,Finnish Spitz
+96,97,1,Flat-coated Retriever
+97,98,1,Fox Terrier
+98,99,1,Foxhound
+99,100,1,French Bulldog
+100,101,1,Galgo Spanish Greyhound
+101,102,1,German Pinscher
+102,103,1,German Shepherd Dog
+103,104,1,German Shorthaired Pointer
+104,105,1,German Spitz
+105,106,1,German Wirehaired Pointer
+106,107,1,Giant Schnauzer
+107,108,1,Glen of Imaal Terrier
+108,109,1,Golden Retriever
+109,110,1,Gordon Setter
+110,111,1,Great Dane
+111,112,1,Great Pyrenees
+112,113,1,Greater Swiss Mountain Dog
+113,114,1,Greyhound
+114,115,1,Harrier
+115,116,1,Havanese
+116,117,1,Hound
+117,118,1,Hovawart
+118,119,1,Husky
+119,120,1,Ibizan Hound
+120,121,1,Illyrian Sheepdog
+121,122,1,Irish Setter
+122,123,1,Irish Terrier
+123,124,1,Irish Water Spaniel
+124,125,1,Irish Wolfhound
+125,126,1,Italian Greyhound
+126,127,1,Italian Spinone
+127,128,1,Jack Russell Terrier
+128,129,1,Jack Russell Terrier (Parson Russell Terrier)
+129,130,1,Japanese Chin
+130,131,1,Jindo
+131,132,1,Kai Dog
+132,133,1,Karelian Bear Dog
+133,134,1,Keeshond
+134,135,1,Kerry Blue Terrier
+135,136,1,Kishu
+136,137,1,Klee Kai
+137,138,1,Komondor
+138,139,1,Kuvasz
+139,140,1,Kyi Leo
+140,141,1,Labrador Retriever
+141,142,1,Lakeland Terrier
+142,143,1,Lancashire Heeler
+143,144,1,Leonberger
+144,145,1,Lhasa Apso
+145,146,1,Lowchen
+146,147,1,Maltese
+147,148,1,Manchester Terrier
+148,149,1,Maremma Sheepdog
+149,150,1,Mastiff
+150,151,1,McNab
+151,152,1,Miniature Pinscher
+152,153,1,Mountain Cur
+153,154,1,Mountain Dog
+154,155,1,Munsterlander
+155,156,1,Neapolitan Mastiff
+156,157,1,New Guinea Singing Dog
+157,158,1,Newfoundland Dog
+158,159,1,Norfolk Terrier
+159,160,1,Norwegian Buhund
+160,161,1,Norwegian Elkhound
+161,162,1,Norwegian Lundehund
+162,163,1,Norwich Terrier
+163,164,1,Nova Scotia Duck-Tolling Retriever
+164,165,1,Old English Sheepdog
+165,166,1,Otterhound
+166,167,1,Papillon
+167,168,1,Patterdale Terrier (Fell Terrier)
+168,169,1,Pekingese
+169,170,1,Peruvian Inca Orchid
+170,171,1,Petit Basset Griffon Vendeen
+171,172,1,Pharaoh Hound
+172,173,1,Pit Bull Terrier
+173,174,1,Plott Hound
+174,175,1,Podengo Portugueso
+175,176,1,Pointer
+176,177,1,Polish Lowland Sheepdog
+177,178,1,Pomeranian
+178,179,1,Poodle
+179,180,1,Portuguese Water Dog
+180,181,1,Presa Canario
+181,182,1,Pug
+182,183,1,Puli
+183,184,1,Pumi
+184,185,1,Rat Terrier
+185,186,1,Redbone Coonhound
+186,187,1,Retriever
+187,188,1,Rhodesian Ridgeback
+188,189,1,Rottweiler
+189,190,1,Saint Bernard
+190,191,1,Saluki
+191,192,1,Samoyed
+192,193,1,Sarplaninac
+193,194,1,Schipperke
+194,195,1,Schnauzer
+195,196,1,Scottish Deerhound
+196,197,1,Scottish Terrier Scottie
+197,198,1,Sealyham Terrier
+198,199,1,Setter
+199,200,1,Shar Pei
+200,201,1,Sheep Dog
+201,202,1,Shepherd
+202,203,1,Shetland Sheepdog Sheltie
+203,204,1,Shiba Inu
+204,205,1,Shih Tzu
+205,206,1,Siberian Husky
+206,207,1,Silky Terrier
+207,208,1,Skye Terrier
+208,209,1,Sloughi
+209,210,1,Smooth Fox Terrier
+210,211,1,South Russian Ovtcharka
+211,212,1,Spaniel
+212,213,1,Spitz
+213,214,1,Staffordshire Bull Terrier
+214,215,1,Standard Poodle
+215,216,1,Sussex Spaniel
+216,217,1,Swedish Vallhund
+217,218,1,Terrier
+218,219,1,Thai Ridgeback
+219,220,1,Tibetan Mastiff
+220,221,1,Tibetan Spaniel
+221,222,1,Tibetan Terrier
+222,223,1,Tosa Inu
+223,224,1,Toy Fox Terrier
+224,225,1,Treeing Walker Coonhound
+225,226,1,Vizsla
+226,227,1,Weimaraner
+227,228,1,Welsh Corgi
+228,229,1,Welsh Springer Spaniel
+229,230,1,Welsh Terrier
+230,231,1,West Highland White Terrier Westie
+231,232,1,Wheaten Terrier
+232,233,1,Whippet
+233,234,1,White German Shepherd
+234,235,1,Wire Fox Terrier
+235,236,1,Wire-haired Pointing Griffon
+236,237,1,Wirehaired Terrier
+237,238,1,Xoloitzcuintle/Mexican Hairless
+238,239,1,Yellow Labrador Retriever
+239,240,1,Yorkshire Terrier Yorkie
+240,307,1,Mixed Breed
