@@ -1,0 +1,1756 @@
+{
+   "animals": [
+      {
+         "id": 52742415,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-tiny-tina-52742415\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Tiny Tina",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180172-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/2\\/?bust=1629628156&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/2\\/?bust=1629628156&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/2\\/?bust=1629628156&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/2\\/?bust=1629628156"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742415\\/1\\/?bust=1629628167"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742415"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742414,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zuzu-52742414\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zuzu",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184032-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/2\\/?bust=1629628161&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/2\\/?bust=1629628161&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/2\\/?bust=1629628161&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/2\\/?bust=1629628161"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742414\\/1\\/?bust=1629628169"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742414"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742425,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zania-52742425\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zania",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_99266590",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/2\\/?bust=1629628159&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/2\\/?bust=1629628159&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/2\\/?bust=1629628159&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/2\\/?bust=1629628159"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742425\\/1\\/?bust=1629628160"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742425"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742418,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-bart-52742418\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Bart",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180177-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/2\\/?bust=1629628155&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/2\\/?bust=1629628155&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/2\\/?bust=1629628155&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/2\\/?bust=1629628155"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/3\\/?bust=1629628161&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/3\\/?bust=1629628161&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/3\\/?bust=1629628161&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/3\\/?bust=1629628161"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742418\\/1\\/?bust=1629628157"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742418"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742432,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zz-top-52742432\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - ZZ Top",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184040-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/2\\/?bust=1629628161&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/2\\/?bust=1629628161&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/2\\/?bust=1629628161&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/2\\/?bust=1629628161"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742432\\/1\\/?bust=1629628145"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742432"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742424,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-sophie-puppy-tigress-52742424\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shih Tzu",
+            "secondary": "Chihuahua",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Sophie Puppy - Tigress",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1178836-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/2\\/?bust=1629628161&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/2\\/?bust=1629628161&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/2\\/?bust=1629628161&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/2\\/?bust=1629628161"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742424\\/1\\/?bust=1629628160"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742424"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742407,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zahria-52742407\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zahria",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184038-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/2\\/?bust=1629628162&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/2\\/?bust=1629628162&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/2\\/?bust=1629628162&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/2\\/?bust=1629628162"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742407\\/1\\/?bust=1629628157"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742407"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742431,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zuri-52742431\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zuri",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184037-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/2\\/?bust=1629628158&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/2\\/?bust=1629628158&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/2\\/?bust=1629628158&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/2\\/?bust=1629628158"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742431\\/1\\/?bust=1629628155"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742431"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742405,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zayna-52742405\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zayna",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184034-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/2\\/?bust=1629628151&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/2\\/?bust=1629628151&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/2\\/?bust=1629628151&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/2\\/?bust=1629628151"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742405\\/1\\/?bust=1629628159"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742405"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742413,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-chuck-52742413\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Chuck",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180176-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/2\\/?bust=1629628156&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/2\\/?bust=1629628156&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/2\\/?bust=1629628156&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/2\\/?bust=1629628156"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742413\\/1\\/?bust=1629628159"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742413"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742410,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-daphne-52742410\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Daphne",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180174-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/2\\/?bust=1629628156&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/2\\/?bust=1629628156&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/2\\/?bust=1629628156&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/2\\/?bust=1629628156"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742410\\/1\\/?bust=1629628160"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742410"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742429,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-sophie-puppy-floof-52742429\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shih Tzu",
+            "secondary": "Chihuahua",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Sophie Puppy - Floof",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1178837-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/2\\/?bust=1629628144&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/2\\/?bust=1629628144&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/2\\/?bust=1629628144&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/2\\/?bust=1629628144"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742429\\/1\\/?bust=1629628154"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742429"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742428,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zaid-52742428\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zaid",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184036-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/2\\/?bust=1629628155&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/2\\/?bust=1629628155&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/2\\/?bust=1629628155&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/2\\/?bust=1629628155"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742428\\/1\\/?bust=1629628153"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742428"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742406,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/furrst-loves-frida-52742406\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Border Collie",
+            "secondary": "Corgi",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Furrst Loves - Frida",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_69340064",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/2\\/?bust=1629628153&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/2\\/?bust=1629628153&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/2\\/?bust=1629628153&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/2\\/?bust=1629628153"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/3\\/?bust=1629628155&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/3\\/?bust=1629628155&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/3\\/?bust=1629628155&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/3\\/?bust=1629628155"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742406\\/1\\/?bust=1629628153"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742406"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742423,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-perdita-52742423\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Perdita",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180175-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/2\\/?bust=1629628155&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/2\\/?bust=1629628155&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/2\\/?bust=1629628155&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/2\\/?bust=1629628155"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742423\\/1\\/?bust=1629628154"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742423"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742419,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-georgie-52742419\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Georgie",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1180173-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/2\\/?bust=1629628156&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/2\\/?bust=1629628156&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/2\\/?bust=1629628156&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/2\\/?bust=1629628156"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742419\\/1\\/?bust=1629628150"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742419"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742408,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/furrst-loves-frilly-52742408\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Border Collie",
+            "secondary": "Corgi",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Tricolor (Brown, Black, & White)",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Furrst Loves - Frilly",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1187654-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/2\\/?bust=1629628157&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/2\\/?bust=1629628157&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/2\\/?bust=1629628157&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/2\\/?bust=1629628157"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/3\\/?bust=1629628150&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/3\\/?bust=1629628150&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/3\\/?bust=1629628150&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/3\\/?bust=1629628150"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742408\\/1\\/?bust=1629628152"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742408"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742411,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zander-52742411\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zander",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184039-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/2\\/?bust=1629628143&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/2\\/?bust=1629628143&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/2\\/?bust=1629628143&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/2\\/?bust=1629628143"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742411\\/1\\/?bust=1629628157"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742411"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742412,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-zelda-pup-zion-52742412\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "German Shepherd Dog",
+            "secondary": "Saint Bernard",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Brown \\/ Chocolate",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Zelda Pup - Zion",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_1184035-192495",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/2\\/?bust=1629628151&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/2\\/?bust=1629628151&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/2\\/?bust=1629628151&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/2\\/?bust=1629628151"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742412\\/1\\/?bust=1629628164"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742412"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      },
+      {
+         "id": 52742420,
+         "organization_id": "CO489",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/mama-heaven-puppy-small-fry-52742420\\/co\\/lakewood\\/moms-and-mutts-colorado-rescue-for-pregnant-and-nursing-dogs-co489\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Great Pyrenees",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "White \\/ Cream",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mama Heaven Puppy - Small Fry",
+         "description": "*In order to protect our puppies, we do not allow puppies to attend open events until they have a minimum...",
+         "organization_animal_id": "ps_83483219",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/2\\/?bust=1629628150&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/2\\/?bust=1629628150&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/2\\/?bust=1629628150&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/2\\/?bust=1629628150"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742420\\/1\\/?bust=1629628163"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:18:43+0000",
+         "published_at": "2021-08-22T10:18:43+0000",
+         "distance": "",
+         "contact": {
+            "email": "Info@mamcorescue.org",
+            "phone": "(720) 532-1668",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "Lakewood",
+               "state": "CO",
+               "postcode": "80227",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742420"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/co489"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222825,
+      "current_page": 25,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=24"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=26"
+         }
+      }
+   }
+}

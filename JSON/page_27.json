@@ -1,0 +1,1756 @@
+{
+   "animals": [
+      {
+         "id": 52742374,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/hodor-52742374/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Long Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Hodor",
+         "description": "Hodor is a big, handsome gentleman. He was found scared and alone on the side of the road. He&amp;#39;s a...",
+         "organization_animal_id": "S21Y524",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742374/1/?bust=1629627971"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742374"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742373,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/vin-diesel-52742373/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Vin Diesel",
+         "description": "Forget &amp;#34;&amp;#34;fast and furious&amp;#34;&amp;#34; - our Vin Diesel is pure sweetness and light. He&amp;#39;s happy to let others be thrill...",
+         "organization_animal_id": "S21Y580",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742373/1/?bust=1629628030"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742373"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742387,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/madison-52742387/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Madison",
+         "description": "Look at this beautiful girl. Madison is a playful, sweet girl who just loves to talk. If your looking for...",
+         "organization_animal_id": "S21Y666",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/2/?bust=1629628030&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/2/?bust=1629628030&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/2/?bust=1629628030&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/2/?bust=1629628030"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/3/?bust=1629627983&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/3/?bust=1629627983&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/3/?bust=1629627983&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/3/?bust=1629627983"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742387/1/?bust=1629628029"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742387"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742397,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/rey-52742397/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Rey",
+         "description": "So far Rey has had a rough go of it as he was born in the shelter and then spent...",
+         "organization_animal_id": "B21Y032",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742397/1/?bust=1629628032"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742397"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742390,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/alexander-52742390/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Alexander",
+         "description": "Alexander is a little on the shy side but loves to snuggle once he is comfortable. If you are thinking...",
+         "organization_animal_id": "S21Y344",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742390/1/?bust=1629628032"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742390"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742379,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/gwyneth-52742379/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Gwyneth",
+         "description": "Gwyneth is a a petite brown ticked tabby who has had a lot on her plate out in the big...",
+         "organization_animal_id": "S21Y491",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/2/?bust=1629628040&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/2/?bust=1629628040&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/2/?bust=1629628040&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/2/?bust=1629628040"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742379/1/?bust=1629628017"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742379"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742396,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/marigold-52742396/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Marigold",
+         "description": "Even prettier than the flower she&amp;#39;s named after, won&amp;#39;t you consider bringing Marigold home to blossom with your love and...",
+         "organization_animal_id": "S21Y625",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/2/?bust=1629628041&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/2/?bust=1629628041&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/2/?bust=1629628041&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/2/?bust=1629628041"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/3/?bust=1629628021&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/3/?bust=1629628021&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/3/?bust=1629628021&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/3/?bust=1629628021"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742396/1/?bust=1629628007"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742396"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742386,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/daffodil-52742386/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Daffodil",
+         "description": "Daffodil is one chill dude, a handsome fella ready to cast a spell on your heart. Whether you&amp;#39;re a first...",
+         "organization_animal_id": "B21Y036",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/2/?bust=1629628041&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/2/?bust=1629628041&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/2/?bust=1629628041&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/2/?bust=1629628041"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742386/1/?bust=1629628028"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742386"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742382,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/violet-52742382/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Violet",
+         "description": "Roses are red and violets are blue but this Violet is black! Is she the perfect violet for you? Violet...",
+         "organization_animal_id": "I21Y028",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/2/?bust=1629628023&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/2/?bust=1629628023&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/2/?bust=1629628023&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/2/?bust=1629628023"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/3/?bust=1629628038&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/3/?bust=1629628038&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/3/?bust=1629628038&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/3/?bust=1629628038"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/4/?bust=1629628018&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/4/?bust=1629628018&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/4/?bust=1629628018&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/4/?bust=1629628018"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742382/1/?bust=1629628042"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742382"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742392,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/mitzi-52742392/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Mitzi",
+         "description": "Mitzi is a lovely, shy girl. She will take some time to adjust to her new home, so patience will...",
+         "organization_animal_id": "S21Y745",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742392/1/?bust=1629628042"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742392"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742380,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/hera-52742380/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Hera",
+         "description": "Have you SEEN the lawn signs all over the city, encouraging you to cast your vote? Well Hera says, &amp;#34;&amp;#34;me,...",
+         "organization_animal_id": "A21Y072",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/2/?bust=1629628018&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/2/?bust=1629628018&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/2/?bust=1629628018&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/2/?bust=1629628018"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742380/1/?bust=1629628043"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742380"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742388,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/star-52742388/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Star",
+         "description": "Star shot straight out of the sky and right into our hearts! This affectionate girl loves to shine, and boy...",
+         "organization_animal_id": "S21Y484",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/2/?bust=1629628027&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/2/?bust=1629628027&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/2/?bust=1629628027&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/2/?bust=1629628027"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/3/?bust=1629628043&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/3/?bust=1629628043&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/3/?bust=1629628043&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/3/?bust=1629628043"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/4/?bust=1629628037&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/4/?bust=1629628037&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/4/?bust=1629628037&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/4/?bust=1629628037"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/5/?bust=1629628031&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/5/?bust=1629628031&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/5/?bust=1629628031&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/5/?bust=1629628031"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742388/1/?bust=1629628042"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742388"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742381,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/darjeeling-52742381/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Darjeeling",
+         "description": "Tea anyone? Our little Darjeeling came to the shelter looking for a safe place to have her kittens. Now they...",
+         "organization_animal_id": "S21Y265",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742381/1/?bust=1629628036"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742381"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742378,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/torti-52742378/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Torti",
+         "description": "Pretty as can be, Torti is a quiet little lady looking for a home to shower her with love. She&amp;#39;s...",
+         "organization_animal_id": "S21Y510",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742378/1/?bust=1629628036"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742378"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742389,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/meowth-52742389/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Meowth",
+         "description": "Meowth has a Dark-type regional form, but could evolve in your home when leveled up with high friendship. Meowth just...",
+         "organization_animal_id": "S21Y551",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/2/?bust=1629628038&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/2/?bust=1629628038&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/2/?bust=1629628038&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/2/?bust=1629628038"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/3/?bust=1629627967&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/3/?bust=1629627967&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/3/?bust=1629627967&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/3/?bust=1629627967"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/4/?bust=1629627971&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/4/?bust=1629627971&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/4/?bust=1629627971&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/4/?bust=1629627971"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742389/1/?bust=1629627966"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742389"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742377,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/kansas-kitty-52742377/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Kansas Kitty",
+         "description": "&amp;#34;&amp;#34;We&amp;#39;re not in Kansas anymore.&amp;#34;&amp;#34; Dorothy uttered that famous phrase in The Wizard of Oz as she clicked her red...",
+         "organization_animal_id": "S21Y654",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/2/?bust=1629628035&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/2/?bust=1629628035&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/2/?bust=1629628035&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/2/?bust=1629628035"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742377/1/?bust=1629628037"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742377"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742385,
+         "organization_id": "MI02",
+         "url": "https://www.petfinder.com/cat/ghost-52742385/mi/dearborn/friends-for-animals-of-metro-detroit-mi02/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Ghost",
+         "description": "Ghost has had quite the life already and is ready to say &amp;#34;&amp;#34;buh bye&amp;#34;&amp;#34; to drama and hello to a...",
+         "organization_animal_id": "S21Y472",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/2/?bust=1629628021&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/2/?bust=1629628021&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/2/?bust=1629628021&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/2/?bust=1629628021"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/3/?bust=1629627988&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/3/?bust=1629627988&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/3/?bust=1629627988&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/3/?bust=1629627988"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742385/1/?bust=1629627987"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:08+0000",
+         "published_at": "2021-08-22T10:15:08+0000",
+         "distance": null,
+         "contact": {
+            "email": "friends@MetroDetroitAnimals.org",
+            "phone": "(313) 943-2697",
+            "address": {
+               "address1": "16121 Reckinger Road",
+               "address2": null,
+               "city": "Dearborn",
+               "state": "MI",
+               "postcode": "48121",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742385"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi02"
+            }
+         }
+      },
+      {
+         "id": 52742372,
+         "organization_id": "GA207",
+         "url": "https://www.petfinder.com/dog/nova-52742372/ga/newnan/newnan-coweta-humane-society-ga207/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": null,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Nova",
+         "description": "Nova is a 9 month old lab mix puppy. She loves to play and would love an active family. She...",
+         "organization_animal_id": "D2021052",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/2/?bust=1629627993&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/2/?bust=1629627993&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/2/?bust=1629627993&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/2/?bust=1629627993"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/3/?bust=1629628015&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/3/?bust=1629628015&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/3/?bust=1629628015&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/3/?bust=1629628015"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742372/1/?bust=1629628010"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:06+0000",
+         "published_at": "2021-08-22T10:15:06+0000",
+         "distance": null,
+         "contact": {
+            "email": "nchs@nchsrescue.org",
+            "phone": null,
+            "address": {
+               "address1": "608 Hwy 29 N",
+               "address2": null,
+               "city": "Newnan",
+               "state": "GA",
+               "postcode": "30264",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742372"
+            },
+            "type": {
+               "href": "/v2/types/dog"
+            },
+            "organization": {
+               "href": "/v2/organizations/ga207"
+            }
+         }
+      },
+      {
+         "id": 52742371,
+         "organization_id": "GA207",
+         "url": "https://www.petfinder.com/dog/bella-boop-52742371/ga/newnan/newnan-coweta-humane-society-ga207/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Staffordshire Bull Terrier",
+            "mixed": true,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": null,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Bella Boop",
+         "description": "Bella Boop is a senior girl. She would love to be spoiled in her senior years. \nShe&amp;#39;s great with people,...",
+         "organization_animal_id": "D2021049",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/2/?bust=1629628033&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/2/?bust=1629628033&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/2/?bust=1629628033&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/2/?bust=1629628033"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742371/1/?bust=1629628041"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:06+0000",
+         "published_at": "2021-08-22T10:15:06+0000",
+         "distance": null,
+         "contact": {
+            "email": "nchs@nchsrescue.org",
+            "phone": null,
+            "address": {
+               "address1": "608 Hwy 29 N",
+               "address2": null,
+               "city": "Newnan",
+               "state": "GA",
+               "postcode": "30264",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742371"
+            },
+            "type": {
+               "href": "/v2/types/dog"
+            },
+            "organization": {
+               "href": "/v2/organizations/ga207"
+            }
+         }
+      },
+      {
+         "id": 52742364,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/kung-pow-kitty-52742364/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Kung Pow Kitty",
+         "description": null,
+         "organization_animal_id": "S2021597",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742364/1/?bust=1629627985"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742364"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222826,
+      "current_page": 27,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "/v2/animals?page=26"
+         },
+         "next": {
+            "href": "/v2/animals?page=28"
+         }
+      }
+   }
+}

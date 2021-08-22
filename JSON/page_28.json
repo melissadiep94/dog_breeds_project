@@ -1,0 +1,1720 @@
+{
+   "animals": [
+      {
+         "id": 52742368,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/tabitha-52742368/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Tabitha",
+         "description": null,
+         "organization_animal_id": "S2021302",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742368/1/?bust=1629628022"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742368"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742366,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/marina-52742366/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Marina",
+         "description": null,
+         "organization_animal_id": "S2021601",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742366/1/?bust=1629628041"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742366"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742370,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/bounce-52742370/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Bounce",
+         "description": null,
+         "organization_animal_id": "S2021600",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742370/1/?bust=1629627970"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742370"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742365,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/indigo-52742365/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Indigo",
+         "description": null,
+         "organization_animal_id": "S2021470",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742365/1/?bust=1629627967"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742365"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742367,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/bb-52742367/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "BB",
+         "description": null,
+         "organization_animal_id": "S2021448",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742367/1/?bust=1629627999"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742367"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742369,
+         "organization_id": "TX1135",
+         "url": "https://www.petfinder.com/cat/tati-52742369/tx/corpus-christi/the-cattery-tx1135/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Tati",
+         "description": null,
+         "organization_animal_id": "S2018010",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/2/?bust=1629628005&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/2/?bust=1629628005&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/2/?bust=1629628005&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/2/?bust=1629628005"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/3/?bust=1629628009&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/3/?bust=1629628009&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/3/?bust=1629628009&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/3/?bust=1629628009"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/4/?bust=1629628036&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/4/?bust=1629628036&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/4/?bust=1629628036&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/4/?bust=1629628036"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742369/1/?bust=1629628024"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:15:04+0000",
+         "published_at": "2021-08-22T10:15:04+0000",
+         "distance": null,
+         "contact": {
+            "email": "adoptions@thecatterycc.org",
+            "phone": "(361) 854-6369",
+            "address": {
+               "address1": "1237 Saratoga",
+               "address2": null,
+               "city": "Corpus Christi",
+               "state": "TX",
+               "postcode": "78414",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742369"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/tx1135"
+            }
+         }
+      },
+      {
+         "id": 52742363,
+         "organization_id": "MO11",
+         "url": "https://www.petfinder.com/dog/sasquatch-anderson-cooper-52742363/mo/washburn/haven-of-the-ozarks-animal-sanctuary-mo11/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Australian Shepherd",
+            "secondary": null,
+            "mixed": true,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": null,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Sasquatch (Anderson Cooper)",
+         "description": "Sasquatch is another of our pups found down the road in a horrible make-shift cage. These puppies were incredibly shy...",
+         "organization_animal_id": "D20038",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/2/?bust=1629627993&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/2/?bust=1629627993&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/2/?bust=1629627993&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/2/?bust=1629627993"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/3/?bust=1629628029&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/3/?bust=1629628029&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/3/?bust=1629628029&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/3/?bust=1629628029"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/4/?bust=1629628017&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/4/?bust=1629628017&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/4/?bust=1629628017&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/4/?bust=1629628017"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/5/?bust=1629628020&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/5/?bust=1629628020&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/5/?bust=1629628020&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/5/?bust=1629628020"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742363/1/?bust=1629627934"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:13:13+0000",
+         "published_at": "2021-08-22T10:13:13+0000",
+         "distance": null,
+         "contact": {
+            "email": "havenozarksanctuary@gmail.com",
+            "phone": "(417) 835-3647",
+            "address": {
+               "address1": "9617 Farm Road 2190",
+               "address2": null,
+               "city": "Washburn",
+               "state": "MO",
+               "postcode": "65772",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742363"
+            },
+            "type": {
+               "href": "/v2/types/dog"
+            },
+            "organization": {
+               "href": "/v2/organizations/mo11"
+            }
+         }
+      },
+      {
+         "id": 52742362,
+         "organization_id": "TN492",
+         "url": "https://www.petfinder.com/dog/burke-52742362/tn/camden/benton-county-animal-shelter-tn492/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": null,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Burke",
+         "description": null,
+         "organization_animal_id": "F081921108",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742362/1/?bust=1629628032"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:13:12+0000",
+         "published_at": "2021-08-22T10:13:12+0000",
+         "distance": null,
+         "contact": {
+            "email": "BCAS@bentoncountytn.gov",
+            "phone": "(731) 584-3152",
+            "address": {
+               "address1": "915 Divider Natchez Trace",
+               "address2": null,
+               "city": "Camden",
+               "state": "TN",
+               "postcode": "38320",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742362"
+            },
+            "type": {
+               "href": "/v2/types/dog"
+            },
+            "organization": {
+               "href": "/v2/organizations/tn492"
+            }
+         }
+      },
+      {
+         "id": 52742361,
+         "organization_id": "FL746",
+         "url": "https://www.petfinder.com/cat/rudolf-52742361/fl/sebastian/h-dot-al-dot-o-no-kill-rescue-fl746/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": true,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Rudolf",
+         "description": "Looking for a distinguished gentleman to add love to your home life? Look no further. Our handsome Rudolf is all...",
+         "organization_animal_id": "C2019785",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742361/1/?bust=1629627925"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:12:01+0000",
+         "published_at": "2021-08-22T10:12:01+0000",
+         "distance": null,
+         "contact": {
+            "email": "halonokillrescue@gmail.com",
+            "phone": "(772) 589-7297",
+            "address": {
+               "address1": "710 Jackson St",
+               "address2": null,
+               "city": "Sebastian",
+               "state": "FL",
+               "postcode": "32958",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742361"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/fl746"
+            }
+         }
+      },
+      {
+         "id": 52742359,
+         "organization_id": "MO523",
+         "url": "https://www.petfinder.com/cat/clark-aka-clark-kent-52742359/mo/ballwin/st-louis-pet-rescue-mo523/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Clark aka Clark Kent",
+         "description": "Hi! I&amp;#39;m Clark Kent looking for a forever home with a sibling. We are a bonded group, so I&amp;#39;d like...",
+         "organization_animal_id": "C-21-03-234",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/2/?bust=1629627890&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/2/?bust=1629627890&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/2/?bust=1629627890&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/2/?bust=1629627890"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/3/?bust=1629627833&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/3/?bust=1629627833&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/3/?bust=1629627833&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/3/?bust=1629627833"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742359/1/?bust=1629627908"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:52+0000",
+         "published_at": "2021-08-22T10:11:52+0000",
+         "distance": null,
+         "contact": {
+            "email": "contact@stlpetrescue.com",
+            "phone": "(314) 827-5543",
+            "address": {
+               "address1": null,
+               "address2": null,
+               "city": "Ballwin",
+               "state": "MO",
+               "postcode": "63011",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742359"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mo523"
+            }
+         }
+      },
+      {
+         "id": 52742358,
+         "organization_id": "MO523",
+         "url": "https://www.petfinder.com/cat/lois-lane-52742358/mo/ballwin/st-louis-pet-rescue-mo523/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Lois Lane",
+         "description": "I&amp;#39;m 1of 4 in my litter. We were found WO our momma. 2 of us are Grey Tabby&amp;#39;s and 2...",
+         "organization_animal_id": "C-21-03-232",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/2/?bust=1629627902&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/2/?bust=1629627902&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/2/?bust=1629627902&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/2/?bust=1629627902"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/3/?bust=1629627889&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/3/?bust=1629627889&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/3/?bust=1629627889&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/3/?bust=1629627889"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742358/1/?bust=1629627905"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:52+0000",
+         "published_at": "2021-08-22T10:11:52+0000",
+         "distance": null,
+         "contact": {
+            "email": "contact@stlpetrescue.com",
+            "phone": "(314) 827-5543",
+            "address": {
+               "address1": null,
+               "address2": null,
+               "city": "Ballwin",
+               "state": "MO",
+               "postcode": "63011",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742358"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mo523"
+            }
+         }
+      },
+      {
+         "id": 52742360,
+         "organization_id": "MO523",
+         "url": "https://www.petfinder.com/cat/batgirl-52742360/mo/ballwin/st-louis-pet-rescue-mo523/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Batgirl",
+         "description": "Hi, I&amp;#39;m Batgirl! I&amp;#39;m Black and I&amp;#39;m a beautiful sleek little girl! Im a little lovebug who&amp;#39;s loves to be...",
+         "organization_animal_id": "C-21-03-235",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/2/?bust=1629627894&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/2/?bust=1629627894&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/2/?bust=1629627894&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/2/?bust=1629627894"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/3/?bust=1629627904&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/3/?bust=1629627904&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/3/?bust=1629627904&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/3/?bust=1629627904"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/4/?bust=1629627885&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/4/?bust=1629627885&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/4/?bust=1629627885&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/4/?bust=1629627885"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742360/1/?bust=1629627881"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:52+0000",
+         "published_at": "2021-08-22T10:11:52+0000",
+         "distance": null,
+         "contact": {
+            "email": "contact@stlpetrescue.com",
+            "phone": "(314) 827-5543",
+            "address": {
+               "address1": null,
+               "address2": null,
+               "city": "Ballwin",
+               "state": "MO",
+               "postcode": "63011",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742360"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mo523"
+            }
+         }
+      },
+      {
+         "id": 52742357,
+         "organization_id": "MO523",
+         "url": "https://www.petfinder.com/cat/bruce-aka-bruce-wayne-52742357/mo/ballwin/st-louis-pet-rescue-mo523/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": false,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": false
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Bruce aka Bruce Wayne",
+         "description": "I&amp;#39;m Bruce Wayne! You&amp;#39;ll almost always find me playing with a toy or carrying one around! I&amp;#39;m super playful, but...",
+         "organization_animal_id": "C-21-03-233",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/2/?bust=1629627858&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/2/?bust=1629627858&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/2/?bust=1629627858&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/2/?bust=1629627858"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/3/?bust=1629627883&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/3/?bust=1629627883&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/3/?bust=1629627883&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/3/?bust=1629627883"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742357/1/?bust=1629627825"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:51+0000",
+         "published_at": "2021-08-22T10:11:51+0000",
+         "distance": null,
+         "contact": {
+            "email": "contact@stlpetrescue.com",
+            "phone": "(314) 827-5543",
+            "address": {
+               "address1": null,
+               "address2": null,
+               "city": "Ballwin",
+               "state": "MO",
+               "postcode": "63011",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742357"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mo523"
+            }
+         }
+      },
+      {
+         "id": 52742356,
+         "organization_id": "OK401",
+         "url": "https://www.petfinder.com/dog/turner-52742356/ok/tulsa/animal-aid-of-tulsa-inc-ok401/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "American Staffordshire Terrier",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": null,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Turner",
+         "description": "Turner is a sweet young boy who loves to play with other dogs. He enjoys long hikes and anything outside!...",
+         "organization_animal_id": "I2021065",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742356/1/?bust=1629627961"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:50+0000",
+         "published_at": "2021-08-22T10:11:50+0000",
+         "distance": null,
+         "contact": {
+            "email": "animalaidoftulsa@gmail.com",
+            "phone": "(918) 794-6688",
+            "address": {
+               "address1": "3307 E 15th St",
+               "address2": null,
+               "city": "Tulsa",
+               "state": "OK",
+               "postcode": "74112",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742356"
+            },
+            "type": {
+               "href": "/v2/types/dog"
+            },
+            "organization": {
+               "href": "/v2/organizations/ok401"
+            }
+         }
+      },
+      {
+         "id": 52742353,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/tala-52742353/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Tala",
+         "description": "She loves wet food and treats. Very sweet little girlFaithful to Felines is OPEN to the public! Visit our Shelter...",
+         "organization_animal_id": "2021181",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/2/?bust=1629627991&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/2/?bust=1629627991&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/2/?bust=1629627991&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/2/?bust=1629627991"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/3/?bust=1629627916&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/3/?bust=1629627916&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/3/?bust=1629627916&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/3/?bust=1629627916"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/4/?bust=1629627905&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/4/?bust=1629627905&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/4/?bust=1629627905&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/4/?bust=1629627905"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742353/1/?bust=1629627908"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:33+0000",
+         "published_at": "2021-08-22T10:11:33+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742353"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      },
+      {
+         "id": 52742354,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/zarahmay-52742354/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Zarahmay",
+         "description": "Very sweet little girl. Loves wet food and treats. Likes attention, but not a big fan of being held.Faithful to...",
+         "organization_animal_id": "2021180",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/2/?bust=1629627910&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/2/?bust=1629627910&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/2/?bust=1629627910&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/2/?bust=1629627910"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/3/?bust=1629627933&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/3/?bust=1629627933&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/3/?bust=1629627933&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/3/?bust=1629627933"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/4/?bust=1629627995&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/4/?bust=1629627995&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/4/?bust=1629627995&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/4/?bust=1629627995"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742354/1/?bust=1629627966"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:33+0000",
+         "published_at": "2021-08-22T10:11:33+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742354"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      },
+      {
+         "id": 52742349,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/spencer-52742349/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Spencer",
+         "description": "Faithful to Felines is OPEN to the public! Visit our Shelter at 2525 Hall Street in Muskegon, MI. \n\nOur open...",
+         "organization_animal_id": "2021197",
+         "photos": [],
+         "primary_photo_cropped": null,
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:32+0000",
+         "published_at": "2021-08-22T10:11:32+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742349"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      },
+      {
+         "id": 52742350,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/charlie-52742350/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Charlie",
+         "description": "Faithful to Felines is OPEN to the public! Visit our Shelter at 2525 Hall Street in Muskegon, MI. \n\nOur open...",
+         "organization_animal_id": "2021196",
+         "photos": [],
+         "primary_photo_cropped": null,
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:32+0000",
+         "published_at": "2021-08-22T10:11:32+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742350"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      },
+      {
+         "id": 52742352,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/chaplain-52742352/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": false,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Chaplain",
+         "description": "Faithful to Felines is OPEN to the public! Visit our Shelter at 2525 Hall Street in Muskegon, MI. \n\nOur open...",
+         "organization_animal_id": "2021195",
+         "photos": [],
+         "primary_photo_cropped": null,
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:32+0000",
+         "published_at": "2021-08-22T10:11:32+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742352"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      },
+      {
+         "id": 52742351,
+         "organization_id": "MI75",
+         "url": "https://www.petfinder.com/cat/liberty-52742351/mi/muskegon/faithful-to-felines-mi75/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": null,
+            "mixed": false,
+            "unknown": false
+         },
+         "colors": {
+            "primary": null,
+            "secondary": null,
+            "tertiary": null
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": null,
+         "attributes": {
+            "spayed_neutered": true,
+            "house_trained": true,
+            "declawed": false,
+            "special_needs": false,
+            "shots_current": true
+         },
+         "environment": {
+            "children": null,
+            "dogs": null,
+            "cats": null
+         },
+         "tags": [],
+         "name": "Liberty",
+         "description": "Liberty came from Hudson, MI along with her siblings and mom, Lola. A volunteers brother in law owned an assisted...",
+         "organization_animal_id": "2021190",
+         "photos": [
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922"
+            },
+            {
+               "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/2/?bust=1629627929&width=100",
+               "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/2/?bust=1629627929&width=300",
+               "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/2/?bust=1629627929&width=600",
+               "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/2/?bust=1629627929"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=300",
+            "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=450",
+            "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922&width=600",
+            "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52742351/1/?bust=1629627922"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:11:32+0000",
+         "published_at": "2021-08-22T10:11:32+0000",
+         "distance": null,
+         "contact": {
+            "email": "info@faithful2felines.com",
+            "phone": "(231) 773-3030",
+            "address": {
+               "address1": "2525 Hall Road",
+               "address2": null,
+               "city": "Muskegon",
+               "state": "MI",
+               "postcode": "49442",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "/v2/animals/52742351"
+            },
+            "type": {
+               "href": "/v2/types/cat"
+            },
+            "organization": {
+               "href": "/v2/organizations/mi75"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222826,
+      "current_page": 28,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "/v2/animals?page=27"
+         },
+         "next": {
+            "href": "/v2/animals?page=29"
+         }
+      }
+   }
+}

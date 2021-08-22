@@ -1,0 +1,1618 @@
+{
+   "animals": [
+      {
+         "id": 52742348,
+         "organization_id": "MS24",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/mandi-52742348\\/ms\\/gautier\\/jackson-county-animal-shelter-ms24\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mandi",
+         "description": "By adopting me today you will save the life of two pets -- you&amp;#39;ll save me and that will make...",
+         "organization_animal_id": "N2021184",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742348\\/1\\/?bust=1629627715"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:09:15+0000",
+         "published_at": "2021-08-22T10:09:15+0000",
+         "distance": "",
+         "contact": {
+            "email": "Marion_Mallette@co.jackson.ms.us",
+            "phone": "(228) 497-6350",
+            "address": {
+               "address1": "4400 Audubon Lane",
+               "address2": "",
+               "city": "Gautier",
+               "state": "MS",
+               "postcode": "39553",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742348"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ms24"
+            }
+         }
+      },
+      {
+         "id": 52742344,
+         "organization_id": "MS24",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/dandi-52742344\\/ms\\/gautier\\/jackson-county-animal-shelter-ms24\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Dandi",
+         "description": "By adopting me today you will save the life of two pets -- you&amp;#39;ll save me and that will make...",
+         "organization_animal_id": "N2021183",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742344\\/1\\/?bust=1629627712"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:09:15+0000",
+         "published_at": "2021-08-22T10:09:15+0000",
+         "distance": "",
+         "contact": {
+            "email": "Marion_Mallette@co.jackson.ms.us",
+            "phone": "(228) 497-6350",
+            "address": {
+               "address1": "4400 Audubon Lane",
+               "address2": "",
+               "city": "Gautier",
+               "state": "MS",
+               "postcode": "39553",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742344"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ms24"
+            }
+         }
+      },
+      {
+         "id": 52742346,
+         "organization_id": "MS24",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/sandi-52742346\\/ms\\/gautier\\/jackson-county-animal-shelter-ms24\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sandi",
+         "description": "By adopting me today you will save the life of two pets -- you&amp;#39;ll save me and that will make...",
+         "organization_animal_id": "N2021185",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742346\\/1\\/?bust=1629627747"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:09:15+0000",
+         "published_at": "2021-08-22T10:09:15+0000",
+         "distance": "",
+         "contact": {
+            "email": "Marion_Mallette@co.jackson.ms.us",
+            "phone": "(228) 497-6350",
+            "address": {
+               "address1": "4400 Audubon Lane",
+               "address2": "",
+               "city": "Gautier",
+               "state": "MS",
+               "postcode": "39553",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742346"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ms24"
+            }
+         }
+      },
+      {
+         "id": 52742347,
+         "organization_id": "MS24",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/randi-52742347\\/ms\\/gautier\\/jackson-county-animal-shelter-ms24\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Randi",
+         "description": "By adopting me today you will save the life of two pets -- you&amp;#39;ll save me and that will make...",
+         "organization_animal_id": "N2021186",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742347\\/1\\/?bust=1629627779"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:09:15+0000",
+         "published_at": "2021-08-22T10:09:15+0000",
+         "distance": "",
+         "contact": {
+            "email": "Marion_Mallette@co.jackson.ms.us",
+            "phone": "(228) 497-6350",
+            "address": {
+               "address1": "4400 Audubon Lane",
+               "address2": "",
+               "city": "Gautier",
+               "state": "MS",
+               "postcode": "39553",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742347"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ms24"
+            }
+         }
+      },
+      {
+         "id": 52742345,
+         "organization_id": "MS24",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cookie-52742345\\/ms\\/gautier\\/jackson-county-animal-shelter-ms24\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cookie",
+         "description": "By adopting me today you will save the life of two pets -- you&amp;#39;ll save me and that will make...",
+         "organization_animal_id": "O2021499",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742345\\/1\\/?bust=1629627780"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:09:15+0000",
+         "published_at": "2021-08-22T10:09:15+0000",
+         "distance": "",
+         "contact": {
+            "email": "Marion_Mallette@co.jackson.ms.us",
+            "phone": "(228) 497-6350",
+            "address": {
+               "address1": "4400 Audubon Lane",
+               "address2": "",
+               "city": "Gautier",
+               "state": "MS",
+               "postcode": "39553",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742345"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ms24"
+            }
+         }
+      },
+      {
+         "id": 52742343,
+         "organization_id": "CT291",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/28-pumpkin-52742343\\/ct\\/windsor\\/connecticut-cat-connection-ct291\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "28-Pumpkin",
+         "description": "If you are looking for a playful and attention seeking cat, you will want to meet Pumpkin. He is 3...",
+         "organization_animal_id": "S2021058",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/2\\/?bust=1629627708&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/2\\/?bust=1629627708&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/2\\/?bust=1629627708&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/2\\/?bust=1629627708"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/3\\/?bust=1629627716&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/3\\/?bust=1629627716&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/3\\/?bust=1629627716&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/3\\/?bust=1629627716"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742343\\/1\\/?bust=1629627728"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:42+0000",
+         "published_at": "2021-08-22T10:08:42+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@ctcatconnection.org",
+            "phone": "",
+            "address": {
+               "address1": "40 Stevens Mill Rd",
+               "address2": "",
+               "city": "Windsor",
+               "state": "CT",
+               "postcode": "06095",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742343"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ct291"
+            }
+         }
+      },
+      {
+         "id": 52742340,
+         "organization_id": "OH1191",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/bodie-52742340\\/oh\\/port-clinton\\/the-humane-society-of-ottawa-county-oh1191\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Bodie",
+         "description": "",
+         "organization_animal_id": "S2021041",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:29+0000",
+         "published_at": "2021-08-22T10:08:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "HSOCpets@gmail.com",
+            "phone": "(419) 734-5191",
+            "address": {
+               "address1": "2424 E. Sand Rd.",
+               "address2": "",
+               "city": "Port Clinton",
+               "state": "OH",
+               "postcode": "43452",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742340"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/oh1191"
+            }
+         }
+      },
+      {
+         "id": 52742341,
+         "organization_id": "OH1191",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/brady-52742341\\/oh\\/port-clinton\\/the-humane-society-of-ottawa-county-oh1191\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Brady",
+         "description": "",
+         "organization_animal_id": "S2021042",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:29+0000",
+         "published_at": "2021-08-22T10:08:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "HSOCpets@gmail.com",
+            "phone": "(419) 734-5191",
+            "address": {
+               "address1": "2424 E. Sand Rd.",
+               "address2": "",
+               "city": "Port Clinton",
+               "state": "OH",
+               "postcode": "43452",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742341"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/oh1191"
+            }
+         }
+      },
+      {
+         "id": 52742342,
+         "organization_id": "OH1191",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/big-ben-52742342\\/oh\\/port-clinton\\/the-humane-society-of-ottawa-county-oh1191\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "(Big) Ben",
+         "description": "",
+         "organization_animal_id": "S2021045",
+         "photos": [],
+         "primary_photo_cropped": "",
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:29+0000",
+         "published_at": "2021-08-22T10:08:29+0000",
+         "distance": "",
+         "contact": {
+            "email": "HSOCpets@gmail.com",
+            "phone": "(419) 734-5191",
+            "address": {
+               "address1": "2424 E. Sand Rd.",
+               "address2": "",
+               "city": "Port Clinton",
+               "state": "OH",
+               "postcode": "43452",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742342"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/oh1191"
+            }
+         }
+      },
+      {
+         "id": 52742333,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/gray-52742333\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Gray",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S49547a",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/2\\/?bust=1629627662&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/2\\/?bust=1629627662&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/2\\/?bust=1629627662&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/2\\/?bust=1629627662"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742333\\/1\\/?bust=1629627623"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742333"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742334,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/orca-52742334\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Orca",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S49547",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742334\\/1\\/?bust=1629627683"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742334"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742336,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cassidy-52742336\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cassidy",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S51655",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742336\\/1\\/?bust=1629627679"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742336"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742337,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/blaze-52742337\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Blaze",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S49547b",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/2\\/?bust=1629627676&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/2\\/?bust=1629627676&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/2\\/?bust=1629627676&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/2\\/?bust=1629627676"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742337\\/1\\/?bust=1629627655"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742337"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742335,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/pete-52742335\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Pete",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S49547c",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/2\\/?bust=1629627696&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/2\\/?bust=1629627696&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/2\\/?bust=1629627696&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/2\\/?bust=1629627696"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742335\\/1\\/?bust=1629627675"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742335"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742339,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/blitz-52742339\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Blitz",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "S51656a",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742339\\/1\\/?bust=1629627735"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742339"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742338,
+         "organization_id": "NJ44",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/fuzzy-52742338\\/nj\\/vineland\\/south-jersey-regional-animal-shelter-nj44\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Fuzzy",
+         "description": "For more information about this animal or our adoption process please visit our website at SouthJerseyRegionalAnimalShelter.org",
+         "organization_animal_id": "R202124492449",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742338\\/1\\/?bust=1629627730"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:12+0000",
+         "published_at": "2021-08-22T10:08:12+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@southjerseyregionalanimalshelter.org",
+            "phone": "(856) 691-1500",
+            "address": {
+               "address1": "1244 North Delsea Drive",
+               "address2": "",
+               "city": "Vineland",
+               "state": "NJ",
+               "postcode": "08360",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742338"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nj44"
+            }
+         }
+      },
+      {
+         "id": 52742332,
+         "organization_id": "FL819",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/snowy-52742332\\/fl\\/st-augustine\\/s-dot-af-dot-e-pet-rescue-of-northeast-florida-fl819\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Maltese",
+            "secondary": "Poodle",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Snowy",
+         "description": "Interested in adopting this pet? Call 904-325-0196 or email rnordan_se1@comcast.net",
+         "organization_animal_id": "A14574",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/2\\/?bust=1629627598&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/2\\/?bust=1629627598&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/2\\/?bust=1629627598&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/2\\/?bust=1629627598"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742332\\/1\\/?bust=1629627631"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:08:05+0000",
+         "published_at": "2021-08-22T10:08:05+0000",
+         "distance": "",
+         "contact": {
+            "email": "Rnordan_se1@comcast.net",
+            "phone": "904-325-0196 ",
+            "address": {
+               "address1": "P.O. Box 840215",
+               "address2": "6101 A1A S",
+               "city": "St. Augustine",
+               "state": "FL",
+               "postcode": "32084",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742332"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/fl819"
+            }
+         }
+      },
+      {
+         "id": 52742302,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/newton-52742302\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Newton",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "HSC20211435",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742302"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742308,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/greggo-52742308\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shepherd",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Greggo",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "CCD20211638",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742308"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742304,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/titan-52742304\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Titan",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "HSC20211354",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742304"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222825,
+      "current_page": 29,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=28"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=30"
+         }
+      }
+   }
+}

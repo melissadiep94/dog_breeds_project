@@ -1,0 +1,1744 @@
+{
+   "animals": [
+      {
+         "id": 52742305,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/autumn-52742305\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Hound",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Autumn",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "NFD20211918",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742305\\/1\\/?bust=1629627650"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742305"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742307,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cember-52742307\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cember",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "NFC20211604",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/2\\/?bust=1629627580&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/2\\/?bust=1629627580&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/2\\/?bust=1629627580&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/2\\/?bust=1629627580"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742307\\/1\\/?bust=1629627652"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742307"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742302,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/newton-52742302\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Medium Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Newton",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "HSC20211435",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742302\\/1\\/?bust=1629627594"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742302"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742309,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/munchie-52742309\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Siamese",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Munchie",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "CCC20211379",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742309\\/1\\/?bust=1629627585"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742309"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742308,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/greggo-52742308\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shepherd",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Greggo",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "CCD20211638",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742308\\/1\\/?bust=1629627606"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742308"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742304,
+         "organization_id": "TX478",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/titan-52742304\\/tx\\/new-braunfels\\/humane-society-of-new-braunfels-area-tx478\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Titan",
+         "description": "HSNBA lists all animals online from the moment of intake, and our listings are updated automatically every midnight. Some of...",
+         "organization_animal_id": "HSC20211354",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742304\\/1\\/?bust=1629627609"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:30+0000",
+         "published_at": "2021-08-22T10:06:30+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoption@hsnba.org",
+            "phone": "(830) 629-5287",
+            "address": {
+               "address1": "3353 Morningside Drive",
+               "address2": "",
+               "city": "New Braunfels",
+               "state": "TX",
+               "postcode": "78132",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742304"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx478"
+            }
+         }
+      },
+      {
+         "id": 52742299,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/prim-52742299\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Rottweiler",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Prim",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58811",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/2\\/?bust=1629627656&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/2\\/?bust=1629627656&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/2\\/?bust=1629627656&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/2\\/?bust=1629627656"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742299\\/1\\/?bust=1629627577"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742299"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742300,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/58854-52742300\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "58854",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58854",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742300\\/1\\/?bust=1629627636"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742300"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742295,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ruby-52742295\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ruby",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58823",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/2\\/?bust=1629627624&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/2\\/?bust=1629627624&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/2\\/?bust=1629627624&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/2\\/?bust=1629627624"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742295\\/1\\/?bust=1629627592"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742295"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742293,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/margo-52742293\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Shepherd",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Margo",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58797",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/2\\/?bust=1629627576&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/2\\/?bust=1629627576&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/2\\/?bust=1629627576&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/2\\/?bust=1629627576"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/3\\/?bust=1629627599&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/3\\/?bust=1629627599&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/3\\/?bust=1629627599&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/3\\/?bust=1629627599"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/4\\/?bust=1629627651&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/4\\/?bust=1629627651&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/4\\/?bust=1629627651&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/4\\/?bust=1629627651"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/5\\/?bust=1629627577&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/5\\/?bust=1629627577&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/5\\/?bust=1629627577&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/5\\/?bust=1629627577"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/6\\/?bust=1629627617&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/6\\/?bust=1629627617&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/6\\/?bust=1629627617&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/6\\/?bust=1629627617"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742293\\/1\\/?bust=1629627622"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742293"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742296,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/sally-ann-52742296\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Rhodesian Ridgeback",
+            "secondary": "Hound",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Sally Ann",
+         "description": "Very sweet and affectionate. Housebroken...will not use the bathroom in her kennel!If unaltered, will be scheduled for spay\\/neuter before leaving...",
+         "organization_animal_id": "58318",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/2\\/?bust=1629627603&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/2\\/?bust=1629627603&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/2\\/?bust=1629627603&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/2\\/?bust=1629627603"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/3\\/?bust=1629627612&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/3\\/?bust=1629627612&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/3\\/?bust=1629627612&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/3\\/?bust=1629627612"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/4\\/?bust=1629627653&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/4\\/?bust=1629627653&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/4\\/?bust=1629627653&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/4\\/?bust=1629627653"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/5\\/?bust=1629627570&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/5\\/?bust=1629627570&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/5\\/?bust=1629627570&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/5\\/?bust=1629627570"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742296\\/1\\/?bust=1629627618"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742296"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742297,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/tory-52742297\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Labrador Retriever",
+            "secondary": "Anatolian Shepherd",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Tory",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58664",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/2\\/?bust=1629627583&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/2\\/?bust=1629627583&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/2\\/?bust=1629627583&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/2\\/?bust=1629627583"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742297\\/1\\/?bust=1629627582"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742297"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742294,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/palmer-52742294\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Rottweiler",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Extra Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Palmer",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58795",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/2\\/?bust=1629627615&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/2\\/?bust=1629627615&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/2\\/?bust=1629627615&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/2\\/?bust=1629627615"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742294\\/1\\/?bust=1629627581"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742294"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742298,
+         "organization_id": "AR77",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/ivory-52742298\\/ar\\/little-rock\\/little-rock-animal-services-lras-ar77\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Shepherd",
+            "secondary": "Labrador Retriever",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Ivory",
+         "description": "If unaltered, will be scheduled for spay\\/neuter before leaving LRAV. To see all our animals, click here. For adoption or...",
+         "organization_animal_id": "58631",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/2\\/?bust=1629627605&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/2\\/?bust=1629627605&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/2\\/?bust=1629627605&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/2\\/?bust=1629627605"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742298\\/1\\/?bust=1629627580"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:28+0000",
+         "published_at": "2021-08-22T10:06:28+0000",
+         "distance": "",
+         "contact": {
+            "email": "troark@littlerock.gov",
+            "phone": "(501) 376-3067",
+            "address": {
+               "address1": "4500 S. Kramer St.",
+               "address2": "",
+               "city": "Little Rock",
+               "state": "AR",
+               "postcode": "72206",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742298"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ar77"
+            }
+         }
+      },
+      {
+         "id": 52742292,
+         "organization_id": "IL68",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/halo-52742292\\/il\\/belleville\\/belleville-area-humane-society-il68\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Halo",
+         "description": "Hi, I&amp;#39;m Halo! I am a sweet two year old girl. I have great and expressive ears. I once was...",
+         "organization_animal_id": "S2021349",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/2\\/?bust=1629627638&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/2\\/?bust=1629627638&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/2\\/?bust=1629627638&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/2\\/?bust=1629627638"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742292\\/1\\/?bust=1629627580"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:19+0000",
+         "published_at": "2021-08-22T10:06:19+0000",
+         "distance": "",
+         "contact": {
+            "email": "admin@bahspets.org",
+            "phone": "(618) 235-3712",
+            "address": {
+               "address1": "1301 South 11th Street",
+               "address2": "",
+               "city": "Belleville",
+               "state": "IL",
+               "postcode": "62226",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742292"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il68"
+            }
+         }
+      },
+      {
+         "id": 52742291,
+         "organization_id": "IL68",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/yui-52742291\\/il\\/belleville\\/belleville-area-humane-society-il68\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Mixed Breed",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Yui",
+         "description": "Hi, I&amp;#39;m Yui! It&amp;#39;s pronounced like you-eee! I am a sweet girl and I LOVE LOVE LOVE other dogs. I...",
+         "organization_animal_id": "S2021354",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742291\\/1\\/?bust=1629627579"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:19+0000",
+         "published_at": "2021-08-22T10:06:19+0000",
+         "distance": "",
+         "contact": {
+            "email": "admin@bahspets.org",
+            "phone": "(618) 235-3712",
+            "address": {
+               "address1": "1301 South 11th Street",
+               "address2": "",
+               "city": "Belleville",
+               "state": "IL",
+               "postcode": "62226",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742291"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/il68"
+            }
+         }
+      },
+      {
+         "id": 52742290,
+         "organization_id": "VT22",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/mickey-52742290\\/vt\\/st-albans\\/franklin-county-animal-rescue-vt22\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Mickey",
+         "description": "Mickey is a wonderful young boy who loves to cuddle, but he needs a little time to get to know...",
+         "organization_animal_id": "N21Y051",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/2\\/?bust=1629627617&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/2\\/?bust=1629627617&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/2\\/?bust=1629627617&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/2\\/?bust=1629627617"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742290\\/1\\/?bust=1629627567"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:18+0000",
+         "published_at": "2021-08-22T10:06:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@fcarpets.org",
+            "phone": "(802) 524-9650",
+            "address": {
+               "address1": "30 Sunset Meadow",
+               "address2": "",
+               "city": "St. Albans",
+               "state": "VT",
+               "postcode": "05478",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742290"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/vt22"
+            }
+         }
+      },
+      {
+         "id": 52742289,
+         "organization_id": "VT22",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/lagertha-52742289\\/vt\\/st-albans\\/franklin-county-animal-rescue-vt22\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Siamese",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Lagertha",
+         "description": "Lagertha is such a wonderful lady who was a wonderful mother to her kittens. They&amp;#39;re all grown up now, so...",
+         "organization_animal_id": "U21Y054",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/2\\/?bust=1629627570&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/2\\/?bust=1629627570&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/2\\/?bust=1629627570&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/2\\/?bust=1629627570"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742289\\/1\\/?bust=1629627580"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:18+0000",
+         "published_at": "2021-08-22T10:06:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@fcarpets.org",
+            "phone": "(802) 524-9650",
+            "address": {
+               "address1": "30 Sunset Meadow",
+               "address2": "",
+               "city": "St. Albans",
+               "state": "VT",
+               "postcode": "05478",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742289"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/vt22"
+            }
+         }
+      },
+      {
+         "id": 52742288,
+         "organization_id": "VT22",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/cuervo-52742288\\/vt\\/st-albans\\/franklin-county-animal-rescue-vt22\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Long Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Cuervo",
+         "description": "Very friendly! Cuervo is such a sweet lady who loves people and she loves to cuddle. At only about a...",
+         "organization_animal_id": "U21Y061",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/2\\/?bust=1629627582&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/2\\/?bust=1629627582&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/2\\/?bust=1629627582&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/2\\/?bust=1629627582"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/3\\/?bust=1629627575&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/3\\/?bust=1629627575&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/3\\/?bust=1629627575&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/3\\/?bust=1629627575"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742288\\/1\\/?bust=1629627649"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:06:18+0000",
+         "published_at": "2021-08-22T10:06:18+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@fcarpets.org",
+            "phone": "(802) 524-9650",
+            "address": {
+               "address1": "30 Sunset Meadow",
+               "address2": "",
+               "city": "St. Albans",
+               "state": "VT",
+               "postcode": "05478",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742288"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/vt22"
+            }
+         }
+      },
+      {
+         "id": 52742283,
+         "organization_id": "NC552",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/appa-in-foster-52742283\\/nc\\/pittsboro\\/goathouse-refuge-inc-nc552\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Appa (in foster)",
+         "description": "Approx. DOB: 05\\/30\\/2021",
+         "organization_animal_id": "F2021136",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/2\\/?bust=1629627597&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/2\\/?bust=1629627597&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/2\\/?bust=1629627597&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/2\\/?bust=1629627597"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742283\\/1\\/?bust=1629627575"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:05:42+0000",
+         "published_at": "2021-08-22T10:05:42+0000",
+         "distance": "",
+         "contact": {
+            "email": "goathouserefugeoffice@gmail.com",
+            "phone": "(919) 542-6815",
+            "address": {
+               "address1": "680 Alton Alston Road",
+               "address2": "",
+               "city": "Pittsboro",
+               "state": "NC",
+               "postcode": "27312",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742283"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/nc552"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222825,
+      "current_page": 30,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=29"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=31"
+         }
+      }
+   }
+}

@@ -1,0 +1,1672 @@
+{
+   "animals": [
+      {
+         "id": 52742498,
+         "organization_id": "IN220",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/miguy-52742498\\/in\\/bloomington\\/bloomington-animal-shelter-in220\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MiGuy",
+         "description": "",
+         "organization_animal_id": "C2107863",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742498\\/1\\/?bust=1629628582"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:10+0000",
+         "published_at": "2021-08-22T10:27:10+0000",
+         "distance": "",
+         "contact": {
+            "email": "animal@bloomington.in.gov",
+            "phone": "(812) 349-3492",
+            "address": {
+               "address1": "3410 S. Walnut Street",
+               "address2": "",
+               "city": "Bloomington",
+               "state": "IN",
+               "postcode": "47401",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742498"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in220"
+            }
+         }
+      },
+      {
+         "id": 52742497,
+         "organization_id": "IN220",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/smitten-52742497\\/in\\/bloomington\\/bloomington-animal-shelter-in220\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Smitten",
+         "description": "",
+         "organization_animal_id": "C2107850",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/2\\/?bust=1629628582&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/2\\/?bust=1629628582&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/2\\/?bust=1629628582&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/2\\/?bust=1629628582"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742497\\/1\\/?bust=1629628582"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:09+0000",
+         "published_at": "2021-08-22T10:27:09+0000",
+         "distance": "",
+         "contact": {
+            "email": "animal@bloomington.in.gov",
+            "phone": "(812) 349-3492",
+            "address": {
+               "address1": "3410 S. Walnut Street",
+               "address2": "",
+               "city": "Bloomington",
+               "state": "IN",
+               "postcode": "47401",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742497"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in220"
+            }
+         }
+      },
+      {
+         "id": 52742496,
+         "organization_id": "IN220",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/phillip-52742496\\/in\\/bloomington\\/bloomington-animal-shelter-in220\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Pit Bull Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Young",
+         "gender": "Male",
+         "size": "Large",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Phillip",
+         "description": "",
+         "organization_animal_id": "D21081007",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742496\\/1\\/?bust=1629628633"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:09+0000",
+         "published_at": "2021-08-22T10:27:09+0000",
+         "distance": "",
+         "contact": {
+            "email": "animal@bloomington.in.gov",
+            "phone": "(812) 349-3492",
+            "address": {
+               "address1": "3410 S. Walnut Street",
+               "address2": "",
+               "city": "Bloomington",
+               "state": "IN",
+               "postcode": "47401",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742496"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/in220"
+            }
+         }
+      },
+      {
+         "id": 52742495,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/cannolli-52742495\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Yorkshire Terrier",
+            "secondary": "Chihuahua",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CANNOLLI",
+         "description": "Apply to adopt by clicking on the link below\n\nhttp:\\/\\/www.wagsandwhiskerspetrescue.com\\/adopt.html\n\nThank you so much for looking into wags and whiskers...",
+         "organization_animal_id": "17117991",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/2\\/?bust=1629628634&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/2\\/?bust=1629628634&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/2\\/?bust=1629628634&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/2\\/?bust=1629628634"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742495\\/1\\/?bust=1629628635"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:04+0000",
+         "published_at": "2021-08-22T10:27:04+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742495"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742494,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/duval-52742494\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "DUVAL",
+         "description": "Apply to adopt by clicking on the link below\n\nhttp:\\/\\/www.wagsandwhiskerspetrescue.com\\/adopt.html\n\nThank you so much for looking into wags and whiskers...",
+         "organization_animal_id": "17109867",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742494\\/1\\/?bust=1629628635"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:04+0000",
+         "published_at": "2021-08-22T10:27:04+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742494"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742493,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/nantucket-52742493\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "NANTUCKET",
+         "description": "",
+         "organization_animal_id": "17115712",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/2\\/?bust=1629628634&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/2\\/?bust=1629628634&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/2\\/?bust=1629628634&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/2\\/?bust=1629628634"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742493\\/1\\/?bust=1629628636"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:03+0000",
+         "published_at": "2021-08-22T10:27:03+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742493"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742492,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/hardee-52742492\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "HARDEE",
+         "description": "",
+         "organization_animal_id": "17115724",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742492\\/1\\/?bust=1629628635"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:02+0000",
+         "published_at": "2021-08-22T10:27:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742492"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742490,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/munroe-52742490\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Beagle",
+            "secondary": "Dachshund",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "MUNROE",
+         "description": "",
+         "organization_animal_id": "17109608",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/2\\/?bust=1629629486&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/2\\/?bust=1629629486&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/2\\/?bust=1629629486&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/2\\/?bust=1629629486"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742490\\/1\\/?bust=1629629481"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:02+0000",
+         "published_at": "2021-08-22T10:27:02+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742490"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742486,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/putnam-52742486\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Terrier",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "PUTNAM",
+         "description": "",
+         "organization_animal_id": "17115755",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/2\\/?bust=1629628635&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/2\\/?bust=1629628635&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/2\\/?bust=1629628635&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/2\\/?bust=1629628635"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742486\\/1\\/?bust=1629628634"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:01+0000",
+         "published_at": "2021-08-22T10:27:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742486"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742489,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/berkshire-52742489\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Adult",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "BERKSHIRE",
+         "description": "",
+         "organization_animal_id": "17109831",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/2\\/?bust=1629628636&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/2\\/?bust=1629628636&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/2\\/?bust=1629628636&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/2\\/?bust=1629628636"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742489\\/1\\/?bust=1629628636"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:01+0000",
+         "published_at": "2021-08-22T10:27:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742489"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742488,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/calhoun-52742488\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Chihuahua",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Senior",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "CALHOUN",
+         "description": "",
+         "organization_animal_id": "17109863",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742488\\/1\\/?bust=1629628634"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:01+0000",
+         "published_at": "2021-08-22T10:27:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742488"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742487,
+         "organization_id": "CA2413",
+         "url": "https:\\/\\/www.petfinder.com\\/dog\\/strudel-52742487\\/ca\\/chico\\/wags-and-whiskers-pet-rescue-ca2413\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Dog",
+         "species": "Dog",
+         "breeds": {
+            "primary": "Yorkshire Terrier",
+            "secondary": "Chihuahua",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "STRUDEL",
+         "description": "Apply to adopt by clicking on the link below\n\nhttp:\\/\\/www.wagsandwhiskerspetrescue.com\\/adopt.html\n\nThank you so much for looking into wags and whiskers...",
+         "organization_animal_id": "17118084",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/2\\/?bust=1629628634&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/2\\/?bust=1629628634&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/2\\/?bust=1629628634&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/2\\/?bust=1629628634"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742487\\/1\\/?bust=1629628633"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:27:01+0000",
+         "published_at": "2021-08-22T10:27:01+0000",
+         "distance": "",
+         "contact": {
+            "email": "info@wwprca.com",
+            "phone": "(530) 895-8888",
+            "address": {
+               "address1": "2156 Pillsbury Road",
+               "address2": "#155",
+               "city": "Chico",
+               "state": "CA",
+               "postcode": "95973",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742487"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/dog"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/ca2413"
+            }
+         }
+      },
+      {
+         "id": 52742485,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/jacques-cousteau-52742485\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Jacques Cousteau",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146414-S20211313",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742485\\/1\\/?bust=1629631382"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:56+0000",
+         "published_at": "2021-08-22T10:25:56+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742485"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742477,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/almendra-52742477\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Siamese",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Almendra",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146411-S20211215",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742477\\/1\\/?bust=1629631347"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742477"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742478,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/nelda-52742478\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Nelda",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146409-S20211354",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742478\\/1\\/?bust=1629631396"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742478"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742484,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/terry-52742484\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Terry",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146413-S20211314",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742484\\/1\\/?bust=1629631333"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742484"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742481,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/shanaya-52742481\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Medium",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Shanaya",
+         "description": "Contact: Susan, 210-803-9334, susanschmahlenberger@msn.com, DOB 7-2-21, female, white with few light gray spots on head, odd-eyed, one blue, one green...",
+         "organization_animal_id": "17146406-S20211344",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/2\\/?bust=1629631313&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/2\\/?bust=1629631313&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/2\\/?bust=1629631313&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/2\\/?bust=1629631313"
+            },
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/3\\/?bust=1629631310&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/3\\/?bust=1629631310&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/3\\/?bust=1629631310&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/3\\/?bust=1629631310"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742481\\/1\\/?bust=1629631319"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742481"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742480,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/nectar-52742480\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Tabby",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Nectar",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146408-S20211355",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742480\\/1\\/?bust=1629631359"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742480"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742479,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/flan-52742479\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Siamese",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Female",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Flan",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146412-S20211214",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742479\\/1\\/?bust=1629631362"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742479"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      },
+      {
+         "id": 52742482,
+         "organization_id": "TX841",
+         "url": "https:\\/\\/www.petfinder.com\\/cat\\/tommy-hissfiger-52742482\\/tx\\/san-antonio\\/san-antonio-feral-cat-coalition-tx841\\/?referrer_id=addbfbad-b6a1-45d8-aa0d-9951f349edc0",
+         "type": "Cat",
+         "species": "Cat",
+         "breeds": {
+            "primary": "Domestic Short Hair",
+            "secondary": "",
+            "mixed": "",
+            "unknown": ""
+         },
+         "colors": {
+            "primary": "Black",
+            "secondary": "",
+            "tertiary": ""
+         },
+         "age": "Baby",
+         "gender": "Male",
+         "size": "Small",
+         "coat": "",
+         "attributes": {
+            "spayed_neutered": "",
+            "house_trained": "",
+            "declawed": "",
+            "special_needs": "",
+            "shots_current": ""
+         },
+         "environment": {
+            "children": "",
+            "dogs": "",
+            "cats": ""
+         },
+         "tags": [],
+         "name": "Tommy Hissfiger",
+         "description": "All fosters under the San Antonio Feral Cat Coalition: Community Cat Adoption Program are fostered privately through foster homes. They...",
+         "organization_animal_id": "17146410-S20211216",
+         "photos": [
+            {
+               "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=100",
+               "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=300",
+               "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=600",
+               "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352"
+            }
+         ],
+         "primary_photo_cropped": {
+            "small": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=300",
+            "medium": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=450",
+            "large": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352&width=600",
+            "full": "https:\\/\\/dl5zpyw5k3jeb.cloudfront.net\\/photos\\/pets\\/52742482\\/1\\/?bust=1629631352"
+         },
+         "videos": [],
+         "status": "adoptable",
+         "status_changed_at": "2021-08-22T10:25:55+0000",
+         "published_at": "2021-08-22T10:25:55+0000",
+         "distance": "",
+         "contact": {
+            "email": "adoptions@sanantonioferalcats.org",
+            "phone": "(210) 877-9067",
+            "address": {
+               "address1": "",
+               "address2": "",
+               "city": "San Antonio",
+               "state": "TX",
+               "postcode": "78247",
+               "country": "US"
+            }
+         },
+         "_links": {
+            "self": {
+               "href": "\\/v2\\/animals\\/52742482"
+            },
+            "type": {
+               "href": "\\/v2\\/types\\/cat"
+            },
+            "organization": {
+               "href": "\\/v2\\/organizations\\/tx841"
+            }
+         }
+      }
+   ],
+   "pagination": {
+      "count_per_page": 20,
+      "total_count": 222826,
+      "current_page": 22,
+      "total_pages": 11142,
+      "_links": {
+         "previous": {
+            "href": "\\/v2\\/animals?page=21"
+         },
+         "next": {
+            "href": "\\/v2\\/animals?page=23"
+         }
+      }
+   }
+}
