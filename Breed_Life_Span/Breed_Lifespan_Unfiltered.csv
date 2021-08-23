@@ -1,0 +1,279 @@
+breed_ID,breed_name,avg_lifespan_years
+1.0,Affenpinscher,12 to 14 yrs
+2.0,Afghan Hound,12 to 14 yrs
+,African Boerboels,9 to 11 yrs
+3.0,Airedale Terrier,10 to 13 yrs
+4.0,Akbash,10 to 11 yrs
+5.0,Akita,10 to 13 yrs
+,Alapaha Blue Blood Bulldogs,13 yrs
+,Alaskan Klee Kai,14 yrs
+6.0,Alaskan Malamute,10 to 13 yrs
+7.0,American Bulldog,12 to 14 yrs
+8.0,American Eskimo Dog,12 to 14 yrs
+,American Foxhound,10 to 13 yrs
+9.0,American Hairless Terrier,14 to 16 yrs
+10.0,American Staffordshire Terrier,12 to 14 yrs
+11.0,American Water Spaniel,10 to 12 yrs
+12.0,Anatolian Shepherd,10 to 13 yrs
+13.0,Appenzell Mountain Dog,12 to 14 yrs
+14.0,Australian Cattle Dog/Blue Heeler,10 to 13 yrs
+15.0,Australian Kelpie,12 yrs
+16.0,Australian Shepherd,12 to 15 yrs
+,Australian Silky Terrier,11 to 14 yrs
+17.0,Australian Terrier,12 to 14 yrs
+18.0,Basenji,12 to 14 yrs
+19.0,Basset Hound,11 to 14 yrs
+20.0,Beagle,12 to 14 yrs
+21.0,Bearded Collie,12 to 14 yrs
+22.0,Beauceron,10 to 12 yrs
+23.0,Bedlington Terrier,12 to 14 yrs
+,Belgian Malinois,10 to 12 yrs
+24.0,Belgian Shepherd Dog Sheepdog,10 to 12 yrs
+25.0,Belgian Shepherd Laekenois,12 to 14 yrs
+26.0,Belgian Shepherd Malinois,12 to 14 yrs
+27.0,Belgian Shepherd Tervuren,10 to 12 yrs
+28.0,Bernese Mountain Dog,6 to 9 yrs
+29.0,Bichon Frise,12 to 15 yrs 
+30.0,Black and Tan Coonhound,10 to 12 yrs
+31.0,Black Labrador Retriever,10 to 12 yrs
+32.0,Black Mouth Cur,12 to 16 yrs
+33.0,Black Russian Terrier,10 to 11 yrs
+34.0,Bloodhound,10 to 12 yrs
+35.0,Blue Lacy,12 to 16 yrs
+36.0,Bluetick Coonhound,11 to 12 yrs
+37.0,Boerboel,10 to 12 yrs
+38.0,Bolognese,12 to 14 yrs
+39.0,Border Collie,10 to 14 yrs
+40.0,Border Terrier,12 to 15 yrs
+41.0,Borzoi,10 to 12 yrs
+42.0,Boston Terrier,14 yrs
+43.0,Bouvier des Flanders,10 to 12 yrs
+44.0,Boxer,8 to 10 yrs
+45.0,Boykin Spaniel,14 to 16 yrs
+46.0,Briard,10 to 12 yrs
+47.0,Brittany Spaniel,12 to 13 yrs
+48.0,Brussels Griffon,12 to 15 yrs
+49.0,Bull Terrier,11 to 14 yrs 
+50.0,Bullmastiff,8 to 10 yrs
+51.0,Cairn Terrier,12 to 14 yrs
+52.0,Canaan Dog,12 to 13 yrs
+53.0,Cane Corso Mastiff,11 yrs
+,Cardigan Welsh Corgi,12 to 14 yrs
+54.0,Carolina Dog,13 yrs
+55.0,Catahoula Leopard Dog,12 yrs
+56.0,Cattle Dog,13 to 15 yrs
+57.0,Caucasian Sheepdog (Caucasian Ovtcharka),
+58.0,Cavalier King Charles Spaniel,9 to 14 yrs
+,Central Asian Ovtcharkas,12 yrs
+,Cesky Terrier,14 yrs
+59.0,Chesapeake Bay Retriever,10 to 13 yrs
+60.0,Chihuahua,14 to 18 yrs
+61.0,Chinese Crested Dog,13 to 15 yrs
+62.0,Chinese Foo Dog,11 yrs
+,Chinese Shar-Pei,8 to 10 yrs
+63.0,Chinook,13 to 15 yrs
+,Chipoo,14 yrs
+64.0,Chocolate Labrador Retriever,12 yrs
+65.0,Chow Chow,8 to 12 yrs
+66.0,Cirneco dell'Etna,12 to 14 yrs
+67.0,Clumber Spaniel,10 to 12 yrs
+68.0,Cockapoo,14 to 18 yrs
+69.0,Cocker Spaniel,12 to 15 yrs
+70.0,Collie,8 to 12 yrs
+71.0,Coonhound,10 to 12 yrs
+72.0,Corgi,12 to 15 yrs
+73.0,Coton de Tulear,15 yrs
+74.0,Curly-Coated Retriever,8 to 12 yrs
+75.0,Dachshund,12 to 14 yrs
+76.0,Dalmatian,12 to 14 yrs
+77.0,Dandi Dinmont Terrier,11 to 13 yrs
+78.0,Doberman Pinscher,10 to 12 yrs
+79.0,Dogo Argentino,10 to 15 yrs
+80.0,Dogue de Bordeaux,5 to 7 yrs
+81.0,Dutch Shepherd,11 to 14 yrs
+82.0,English Bulldog,8 to 12 yrs
+83.0,English Cocker Spaniel,12 to 14 yrs
+84.0,English Coonhound,11 to 12 yrs
+,English Foxhound,10 to 13 yrs
+85.0,English Pointer,12 to 17 yrs
+86.0,English Setter,10 to 12 yrs
+87.0,English Shepherd,15 yrs
+88.0,English Springer Spaniel,10 to 14 yrs
+89.0,English Toy Spaniel,10 to 12 yrs
+90.0,Entlebucher,11 to 15 yrs
+91.0,Eskimo Dog,13 to 15 yrs
+,Estrela Mountain Dogs,11 yrs
+92.0,Feist,13 to 18 yrs
+93.0,Field Spaniel,12 to 14 yrs
+94.0,Fila Brasileiro,10 yrs
+95.0,Finnish Lapphund,12 to 14 yrs
+96.0,Finnish Spitz,12 to 14 yrs
+97.0,Flat-coated Retriever,10 to 13 yrs
+98.0,Fox Terrier,10 to 13 yrs
+,Fox Terrier¬†(Smooth),10 to 13 yrs
+,Fox Terrier¬†(Wire),10 to 13 yrs
+99.0,Foxhound,10 to 13 yrs
+100.0,French Bulldog,9 to 11 yrs
+101.0,Galgo Spanish Greyhound,12 to 15 yrs
+102.0,German Pinscher,12 to 15 yrs
+103.0,German Shepherd Dog,10 to 12 yrs
+104.0,German Shorthaired Pointer,12 to 14 yrs
+105.0,German Spitz,13 to 15 yrs
+106.0,German Wirehaired Pointer,12 to 14 yrs
+107.0,Giant Schnauzer,10 to 12 yrs
+108.0,Glen of Imaal Terrier,10 to 14 yrs
+109.0,Golden Retriever,10 to 13 yrs
+,Goldendoodle,14 yrs
+110.0,Gordon Setter,10 to 12 yrs
+111.0,Great Dane,7 to 10 yrs
+112.0,Great Pyrenees,10 to 12 yrs
+113.0,Greater Swiss Mountain Dog,10 to 12 yrs
+114.0,Greyhound,10 to 13 yrs
+115.0,Harrier,12 to 14 yrs
+116.0,Havanese,12 to 14 yrs
+117.0,Hound,10 to 13 yrs
+118.0,Hovawart,10 to 14 yrs
+,Hungarian Vizsla,10 to 14 yrs
+119.0,Husky,12 to 15 yrs
+120.0,Ibizan Hound,12 to 14 yrs
+121.0,Illyrian Sheepdog,11 to 13 yrs
+122.0,Irish Setter,12 to 14 yrs
+123.0,Irish Terrier,12 to 15 yrs
+124.0,Irish Water Spaniel,10 to 13 yrs
+125.0,Irish Wolfhound,5 to 7 yrs
+126.0,Italian Greyhound,12 to 15 yrs
+127.0,Italian Spinone,12 to 14 yrs
+128.0,Jack Russell Terrier,13 yrs
+129.0,Jack Russell Terrier (Parson Russell Terrier),
+130.0,Japanese Chin,12 to 14 yrs
+131.0,Jindo,14 yrs
+132.0,Kai Dog,14 to 16 yrs
+133.0,Karelian Bear Dog,11 to 13 yrs
+134.0,Keeshond,12 to 14 yrs
+135.0,Kerry Blue Terrier,12 to 15 yrs
+136.0,Kishu,11 to 13 yrs
+137.0,Klee Kai,12 to 16 yrs
+138.0,Komondor,10 to 12 yrs
+,Kooikerhondje,13 yrs
+139.0,Kuvasz,9 to 12 yrs
+140.0,Kyi Leo,13 to 15 yrs
+,Labradoodle,13 yrs
+141.0,Labrador Retriever,10 to 12 yrs
+,Laekenois,12 yrs
+142.0,Lakeland Terrier,12 to 16 yrs
+143.0,Lancashire Heeler,14 yrs
+144.0,Leonberger,8 to 9 yrs
+145.0,Lhasa Apso,12 to 14 yrs
+146.0,Lowchen,13 to 15 yrs
+147.0,Maltese,12 to 14 yrs
+,Maltipoo,13 yrs
+148.0,Manchester Terrier,15 to 16 yrs
+149.0,Maremma Sheepdog,12 yrs
+150.0,Mastiff, 9 to 11 yrs
+151.0,McNab,13 to 15 yrs
+,Miniature Bull Terrier,11 to 14 yrs
+152.0,Miniature Pinscher,12 to 14 yrs
+,Miniature Poodle,12 to 14 yrs
+,Miniature Schnauzer,12 to 14 yrs
+153.0,Mountain Cur,14 to 16 yrs
+154.0,Mountain Dog,6 to 8 yrs
+155.0,Munsterlander,12 to 13 yrs
+156.0,Neapolitan Mastiff,8 to 10 yrs
+157.0,New Guinea Singing Dog,15 yrs
+158.0,Newfoundland Dog,8 to 10 yrs
+159.0,Norfolk Terrier,13 to 15 yrs
+160.0,Norwegian Buhund,11 to 13 yrs
+161.0,Norwegian Elkhound,10 to 12 yrs
+162.0,Norwegian Lundehund,12 to 14 yrs
+163.0,Norwich Terrier,13 to 15 yrs
+164.0,Nova Scotia Duck-Tolling Retriever,11 to 13 yrs
+165.0,Old English Sheepdog,10 to 12 yrs
+166.0,Otterhound,10 to 13 yrs
+167.0,Papillon,12 to 15 yrs
+,Parson Russell Terrier,13 to 15 yrs
+168.0,Patterdale Terrier (Fell Terrier),12 to 15 yrs
+,Peekapoo,13 yrs
+169.0,Pekingese,12 to 15 yrs
+,Pembroke Welsh Corgi,11 to 13 yrs
+170.0,Peruvian Inca Orchid,11 to 12 yrs
+171.0,Petit Basset Griffon Vendeen,11 to 14 yrs
+172.0,Pharaoh Hound,11 to 14 yrs
+173.0,Pit Bull Terrier,12 to 14 yrs
+,Plott,11 to 13 yrs
+174.0,Plott Hound,12 to 14 yrs
+175.0,Podengo Portugueso,12 to 14 yrs`
+176.0,Pointer,11 to 15 yrs
+177.0,Polish Lowland Sheepdog,10 to 14 yrs
+,Pomapoo,13 yrs
+178.0,Pomeranian,12 to 16 yrs
+179.0,Poodle,12 to 15 yrs
+180.0,Portuguese Water Dog,10 to 14 yrs
+181.0,Presa Canario,9 to 11 yrs
+182.0,Pug,12 to 15 yrs
+183.0,Puli,10 to 15 yrs
+184.0,Pumi,12 to 13 yrs
+185.0,Rat Terrier,16 yrs
+186.0,Redbone Coonhound,11 yrs
+187.0,Retriever,8 to 17 yrs
+188.0,Rhodesian Ridgeback,10 to 12 yrs
+189.0,Rottweiler,8 to 11 yrs
+190.0,Saint Bernard,8 to 10 yrs
+191.0,Saluki,12 to 14 yrs
+192.0,Samoyed,10 to 12 yrs
+193.0,Sarplaninac,11 to 13 yrs
+194.0,Schipperke,13 to 15 yrs
+195.0,Schnauzer,10 to 16 yrs
+,Schnoodle,13 yrs
+196.0,Scottish Deerhound,7 to 9 yrs
+197.0,Scottish Terrier Scottie,11 to 13 yrs
+198.0,Sealyham Terrier,11 to 13 yrs
+199.0,Setter,10 to 12 yrs
+200.0,Shar Pei,9 to 11 yrs
+201.0,Sheep Dog,10 to 14 yrs
+202.0,Shepherd,9 to 13 yrs
+203.0,Shetland Sheepdog Sheltie,12 to 14 yrs
+204.0,Shiba Inu,12 to 15 yrs
+205.0,Shih Tzu,11 to 14 yrs
+206.0,Siberian Husky,11 to 13 yrs
+207.0,Silky Terrier,11 to 14 yrs
+208.0,Skye Terrier,12 to 14 yrs
+209.0,Sloughi,12 to 16 yrs
+210.0,Smooth Fox Terrier,12 to 15 yrs
+,Snorkie,12 yrs
+,Soft-coated Wheaten Terrier,12 to 14 yrs
+211.0,South Russian Ovtcharka,9 to 11 yrs
+212.0,Spaniel,9 to 16 yrs
+,Spinone Italiano,12 to 14 yrs
+213.0,Spitz,9 to 16 yrs
+214.0,Staffordshire Bull Terrier,12 to 14 yrs
+215.0,Standard Poodle,12 to 15 yrs
+,Standard Schnauzer,12 to 14 yrs
+216.0,Sussex Spaniel,11 to 13 yrs
+217.0,Swedish Vallhund,13 yrs
+218.0,Terrier,8 to 23 yrs
+219.0,Thai Ridgeback,12 yrs
+220.0,Tibetan Mastiff,11 to 14 yrs
+221.0,Tibetan Spaniel,14 yrs
+222.0,Tibetan Terrier,12 to 15 yrs
+223.0,Tosa Inu,10 to 12 yrs
+224.0,Toy Fox Terrier,13 to 14 yrs
+,Toy Manchester Terrier,14 to 16 yrs
+,Toy Poodle,12 to 14 yrs
+225.0,Treeing Walker Coonhound,12 to 13 yrs
+226.0,Vizsla,10 to 14 yrs
+227.0,Weimaraner,10 to 13 yrs
+228.0,Welsh Corgi,12 to 15 yrs
+229.0,Welsh Springer Spaniel,12 to 15 yrs
+230.0,Welsh Terrier,12 to 14 yrs
+231.0,West Highland White Terrier Westie,12 to 14 yrs
+232.0,Wheaten Terrier,12 to 15 yrs
+233.0,Whippet,12 to 15 yrs
+234.0,White German Shepherd,12 to 14 yrs
+235.0,Wire Fox Terrier,13 to 14 yrs
+236.0,Wire-haired Pointing Griffon,12 to 14 yrs
+237.0,Wirehaired Terrier,13 to 14 yrs
+238.0,Xoloitzcuintle/Mexican Hairless,13 yrs
+239.0,Yellow Labrador Retriever,10 to 14 yrs
+,Yorkie-Poo,14 yrs
+240.0,Yorkshire Terrier Yorkie,14 to 16 yrs
+307.0,Mixed Breed,14 yrs
