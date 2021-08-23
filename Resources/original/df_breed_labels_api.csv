@@ -1,0 +1,276 @@
+,name,breed
+0,Affenpinscher,Dog
+1,Afghan Hound,Dog
+2,Airedale Terrier,Dog
+3,Akbash,Dog
+4,Akita,Dog
+5,Alaskan Malamute,Dog
+6,American Bulldog,Dog
+7,American Bully,Dog
+8,American Eskimo Dog,Dog
+9,American Foxhound,Dog
+10,American Hairless Terrier,Dog
+11,American Staffordshire Terrier,Dog
+12,American Water Spaniel,Dog
+13,Anatolian Shepherd,Dog
+14,Appenzell Mountain Dog,Dog
+15,Aussiedoodle,Dog
+16,Australian Cattle Dog / Blue Heeler,Dog
+17,Australian Kelpie,Dog
+18,Australian Shepherd,Dog
+19,Australian Terrier,Dog
+20,Basenji,Dog
+21,Basset Hound,Dog
+22,Beagle,Dog
+23,Bearded Collie,Dog
+24,Beauceron,Dog
+25,Bedlington Terrier,Dog
+26,Belgian Shepherd / Laekenois,Dog
+27,Belgian Shepherd / Malinois,Dog
+28,Belgian Shepherd / Sheepdog,Dog
+29,Belgian Shepherd / Tervuren,Dog
+30,Bernedoodle,Dog
+31,Bernese Mountain Dog,Dog
+32,Bichon Frise,Dog
+33,Black and Tan Coonhound,Dog
+34,Black Labrador Retriever,Dog
+35,Black Mouth Cur,Dog
+36,Black Russian Terrier,Dog
+37,Bloodhound,Dog
+38,Blue Lacy,Dog
+39,Bluetick Coonhound,Dog
+40,Boerboel,Dog
+41,Bolognese,Dog
+42,Border Collie,Dog
+43,Border Terrier,Dog
+44,Borzoi,Dog
+45,Boston Terrier,Dog
+46,Bouvier des Flandres,Dog
+47,Boxer,Dog
+48,Boykin Spaniel,Dog
+49,Briard,Dog
+50,Brittany Spaniel,Dog
+51,Brussels Griffon,Dog
+52,Bull Terrier,Dog
+53,Bullmastiff,Dog
+54,Cairn Terrier,Dog
+55,Canaan Dog,Dog
+56,Cane Corso,Dog
+57,Cardigan Welsh Corgi,Dog
+58,Carolina Dog,Dog
+59,Catahoula Leopard Dog,Dog
+60,Cattle Dog,Dog
+61,Caucasian Sheepdog / Caucasian Ovtcharka,Dog
+62,Cavachon,Dog
+63,Cavalier King Charles Spaniel,Dog
+64,Cavapoo,Dog
+65,Chesapeake Bay Retriever,Dog
+66,Chihuahua,Dog
+67,Chinese Crested Dog,Dog
+68,Chinese Foo Dog,Dog
+69,Chinook,Dog
+70,Chiweenie,Dog
+71,Chocolate Labrador Retriever,Dog
+72,Chow Chow,Dog
+73,Cirneco dell'Etna,Dog
+74,Clumber Spaniel,Dog
+75,Cockapoo,Dog
+76,Cocker Spaniel,Dog
+77,Collie,Dog
+78,Coonhound,Dog
+79,Corgi,Dog
+80,Coton de Tulear,Dog
+81,Curly-Coated Retriever,Dog
+82,Dachshund,Dog
+83,Dalmatian,Dog
+84,Dandie Dinmont Terrier,Dog
+85,Doberman Pinscher,Dog
+86,Dogo Argentino,Dog
+87,Dogue de Bordeaux,Dog
+88,Dutch Shepherd,Dog
+89,English Bulldog,Dog
+90,English Cocker Spaniel,Dog
+91,English Coonhound,Dog
+92,English Foxhound,Dog
+93,English Pointer,Dog
+94,English Setter,Dog
+95,English Shepherd,Dog
+96,English Springer Spaniel,Dog
+97,English Toy Spaniel,Dog
+98,Entlebucher,Dog
+99,Eskimo Dog,Dog
+100,Feist,Dog
+101,Field Spaniel,Dog
+102,Fila Brasileiro,Dog
+103,Finnish Lapphund,Dog
+104,Finnish Spitz,Dog
+105,Flat-Coated Retriever,Dog
+106,Fox Terrier,Dog
+107,Foxhound,Dog
+108,French Bulldog,Dog
+109,Galgo Spanish Greyhound,Dog
+110,German Pinscher,Dog
+111,German Shepherd Dog,Dog
+112,German Shorthaired Pointer,Dog
+113,German Spitz,Dog
+114,German Wirehaired Pointer,Dog
+115,Giant Schnauzer,Dog
+116,Glen of Imaal Terrier,Dog
+117,Golden Retriever,Dog
+118,Goldendoodle,Dog
+119,Gordon Setter,Dog
+120,Great Dane,Dog
+121,Great Pyrenees,Dog
+122,Greater Swiss Mountain Dog,Dog
+123,Greyhound,Dog
+124,Hamiltonstovare,Dog
+125,Harrier,Dog
+126,Havanese,Dog
+127,Hound,Dog
+128,Hovawart,Dog
+129,Husky,Dog
+130,Ibizan Hound,Dog
+131,Icelandic Sheepdog,Dog
+132,Illyrian Sheepdog,Dog
+133,Irish Setter,Dog
+134,Irish Terrier,Dog
+135,Irish Water Spaniel,Dog
+136,Irish Wolfhound,Dog
+137,Italian Greyhound,Dog
+138,Jack Russell Terrier,Dog
+139,Japanese Chin,Dog
+140,Jindo,Dog
+141,Kai Dog,Dog
+142,Karelian Bear Dog,Dog
+143,Keeshond,Dog
+144,Kerry Blue Terrier,Dog
+145,Kishu,Dog
+146,Klee Kai,Dog
+147,Komondor,Dog
+148,Kuvasz,Dog
+149,Kyi Leo,Dog
+150,Labradoodle,Dog
+151,Labrador Retriever,Dog
+152,Lakeland Terrier,Dog
+153,Lancashire Heeler,Dog
+154,Leonberger,Dog
+155,Lhasa Apso,Dog
+156,Lowchen,Dog
+157,Lurcher,Dog
+158,Maltese,Dog
+159,Maltipoo,Dog
+160,Manchester Terrier,Dog
+161,Maremma Sheepdog,Dog
+162,Mastiff,Dog
+163,McNab,Dog
+164,Miniature Bull Terrier,Dog
+165,Miniature Dachshund,Dog
+166,Miniature Pinscher,Dog
+167,Miniature Poodle,Dog
+168,Miniature Schnauzer,Dog
+169,Mixed Breed,Dog
+170,Morkie,Dog
+171,Mountain Cur,Dog
+172,Mountain Dog,Dog
+173,Munsterlander,Dog
+174,Neapolitan Mastiff,Dog
+175,New Guinea Singing Dog,Dog
+176,Newfoundland Dog,Dog
+177,Norfolk Terrier,Dog
+178,Norwegian Buhund,Dog
+179,Norwegian Elkhound,Dog
+180,Norwegian Lundehund,Dog
+181,Norwich Terrier,Dog
+182,Nova Scotia Duck Tolling Retriever,Dog
+183,Old English Sheepdog,Dog
+184,Otterhound,Dog
+185,Papillon,Dog
+186,Parson Russell Terrier,Dog
+187,Patterdale Terrier / Fell Terrier,Dog
+188,Pekingese,Dog
+189,Pembroke Welsh Corgi,Dog
+190,Peruvian Inca Orchid,Dog
+191,Petit Basset Griffon Vendeen,Dog
+192,Pharaoh Hound,Dog
+193,Pit Bull Terrier,Dog
+194,Plott Hound,Dog
+195,Pointer,Dog
+196,Polish Lowland Sheepdog,Dog
+197,Pomeranian,Dog
+198,Pomsky,Dog
+199,Poodle,Dog
+200,Portuguese Podengo,Dog
+201,Portuguese Water Dog,Dog
+202,Presa Canario,Dog
+203,Pug,Dog
+204,Puggle,Dog
+205,Puli,Dog
+206,Pumi,Dog
+207,Pyrenean Shepherd,Dog
+208,Rat Terrier,Dog
+209,Redbone Coonhound,Dog
+210,Retriever,Dog
+211,Rhodesian Ridgeback,Dog
+212,Rottweiler,Dog
+213,Rough Collie,Dog
+214,Saint Bernard,Dog
+215,Saluki,Dog
+216,Samoyed,Dog
+217,Sarplaninac,Dog
+218,Schipperke,Dog
+219,Schnauzer,Dog
+220,Schnoodle,Dog
+221,Scottish Deerhound,Dog
+222,Scottish Terrier,Dog
+223,Sealyham Terrier,Dog
+224,Setter,Dog
+225,Shar-Pei,Dog
+226,Sheep Dog,Dog
+227,Sheepadoodle,Dog
+228,Shepherd,Dog
+229,Shetland Sheepdog / Sheltie,Dog
+230,Shiba Inu,Dog
+231,Shih poo,Dog
+232,Shih Tzu,Dog
+233,Shollie,Dog
+234,Siberian Husky,Dog
+235,Silky Terrier,Dog
+236,Skye Terrier,Dog
+237,Sloughi,Dog
+238,Smooth Collie,Dog
+239,Smooth Fox Terrier,Dog
+240,South Russian Ovtcharka,Dog
+241,Spaniel,Dog
+242,Spanish Water Dog,Dog
+243,Spinone Italiano,Dog
+244,Spitz,Dog
+245,Staffordshire Bull Terrier,Dog
+246,Standard Poodle,Dog
+247,Standard Schnauzer,Dog
+248,Sussex Spaniel,Dog
+249,Swedish Vallhund,Dog
+250,Tennessee Treeing Brindle,Dog
+251,Terrier,Dog
+252,Thai Ridgeback,Dog
+253,Tibetan Mastiff,Dog
+254,Tibetan Spaniel,Dog
+255,Tibetan Terrier,Dog
+256,Tosa Inu,Dog
+257,Toy Fox Terrier,Dog
+258,Toy Manchester Terrier,Dog
+259,Treeing Walker Coonhound,Dog
+260,Vizsla,Dog
+261,Weimaraner,Dog
+262,Welsh Springer Spaniel,Dog
+263,Welsh Terrier,Dog
+264,West Highland White Terrier / Westie,Dog
+265,Wheaten Terrier,Dog
+266,Whippet,Dog
+267,White German Shepherd,Dog
+268,Wire Fox Terrier,Dog
+269,Wirehaired Dachshund,Dog
+270,Wirehaired Pointing Griffon,Dog
+271,Wirehaired Terrier,Dog
+272,Xoloitzcuintli / Mexican Hairless,Dog
+273,Yellow Labrador Retriever,Dog
+274,Yorkshire Terrier,Dog
