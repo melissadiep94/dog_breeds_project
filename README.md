@@ -15,7 +15,6 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * [Schema](#schema)
 * [Setup](#setup)
 * [Sample Queries](#sample-queries)
-* [Status](#status)
 * [Team Members](#team-members)
 
 ## ETL Process ## 
