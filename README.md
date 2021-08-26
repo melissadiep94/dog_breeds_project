@@ -25,19 +25,23 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 
 **Pet Finder Data Extraction** - for Dog Breeds and Dog List Data
 *  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the Petfinder API (https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
-* Created api key and secret key per documentation, and read the api into Jupyter Notebook for cleaning and transformation.
+*  Created a Jupyter Notebook to interact with petpy.
+*  Created api key and secret key per documentation, and pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) 
+...
+df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', status = 'adoptable', sort = 'distance', after_date = '2021-01-01', results_per_page=50, pages=16, return_df=True)
+...
+*  Outputted pandas dataframe for cleaning and transformation into CSV file
 
 
 **Weight Data Extraction**
 
-*  Copied weight range for different dog breeds from 
+*  Copied weight range for different dog breeds from [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
 *  Pasted the data into CSV for cleaning and transformation
 
 **LifeSpan Data Extraction**
 
-* Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
-* Breed Name: Name of dog breed
-* Average Lifespan Years: Average amount of years that a particular breed is expected to live
+*  Copied average lifespan data for different dog breeds from [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
+*  Pasted the data into CSV for cleaning and transformation
 
 **Breeds Characteristics Extraction**
 
@@ -56,7 +60,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
 * We did this in preparation for creating a SQL database and joining the data.
  
- ![ERD v4](https://user-images.githubusercontent.com/53684246/130913756-a179c414-e881-4622-8353-b532bcd63412.PNG)
+ ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
  
  <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
@@ -64,7 +68,12 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 
 <img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
   * Brief Explanation
-  
+
+
+*  Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
+* Breed Name: Name of dog breed
+* Average Lifespan Years: Average amount of years that a particular breed is expected to live
+
  ### Step 3: Load ### 
  * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `pets_db` via Jupyter Notebook 
  
