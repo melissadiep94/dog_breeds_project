@@ -129,6 +129,9 @@ CREATE TABLE Breed_Characteristics (
  * pandas
  * numpy
  
+ For the bonus part, we created a Web API using Flask with at least 2 routes to illustrate how we would serve data from the database to users over the web.
+ <img width="733" alt="flask connection" src="https://user-images.githubusercontent.com/53684246/130972334-2ebcef4c-a5b6-438f-9ecf-cc509b1379ca.png">
+ 
  ## Setup ## 
  1. Clone the repository to your local drive by: 
      * Clicking on the green "Code" buttom at the top of the page
