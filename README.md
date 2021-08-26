@@ -18,6 +18,8 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * [Process Pain-Points](#process-pain-points)
 * [Team Members](#team-members)
 
+
+
 ## ETL Process ## 
 ### Step 1: Extract ### 
 
@@ -41,6 +43,12 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 
 *
 
+ ## ERD Diagram ##
+
+Next, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. We did this in preparation for creating a SQL database and joining the data.
+ 
+ ![ERD v4](https://user-images.githubusercontent.com/53684246/130913756-a179c414-e881-4622-8353-b532bcd63412.PNG)
+ 
 #### Data Sources #### 
 * [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
 * [PetFinder](https://www.petfinder.com/developers/)
@@ -119,8 +127,7 @@ CREATE TABLE Breed_Characteristics (
 );
 ```
  
- ## ERD Diagram ##
- ![ERD v4](https://user-images.githubusercontent.com/53684246/130913756-a179c414-e881-4622-8353-b532bcd63412.PNG)
+
  
  ## Dependencies needed to run the project
  * psycopg2
