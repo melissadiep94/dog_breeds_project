@@ -15,6 +15,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * [Schema](#schema)
 * [Setup](#setup)
 * [Sample Queries](#sample-queries)
+* [Process Pain-Points] (#process-pain-points)
 * [Team Members](#team-members)
 
 ## ETL Process ## 
@@ -34,7 +35,9 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 
 **LifeSpan Extraction**
 
-*
+* Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
+* Breed Name: Name of dog breed
+* Average Lifespan Years: Average amount of years that a particular breed is expected to live
 
 **Breeds Characteristics Extraction**
 
@@ -154,6 +157,31 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  Which returns
  
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
+
+#### Process Pain-Points ####
+API Process Terminal View
+* Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
+   * Create a Petfinder account
+   * Create a Petfinder API Key (or Client ID) and a Secret Key
+   * Using cURL tesitng, submit API and Secret Key using API call 
+      <img width="100" alt="Terminal View API Call" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.22.01%20PM.png">
+   * Once the token is recieved, submit the folling call to complete the request
+      <img width="100" alt="Token Request" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.23.42%20PM.png">
+   * The call will then return a JSON response in terminal
+      <img width="100" alt="JSON Respon" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.26.30%20PM.png">
+   * After the JSON response is returned, the response is then sent through Jupyter Notebook
+      <img width="100" alt="Jupyter Notebook" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.29.20%20PM.png">
+   * The response from this then saved as a JSON file in Jupyter Notebook
+      <img width="100" alt="JSONified Response" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.35.59%20PM.png">
+   * Then saved as a CSV file
+      <img width="100" alt="CSV file" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-22%20at%201.37.13%20PM.png">
+
+The API Terminal View process has many limitations:
+   * The API call could not be used and/or transferred into Python/Jupyter Notebook.  Instead the code needed to be added as a variable inorder to be “jsonified” in Jupyter Notebook
+   * The API call did not allow for us to set multiple parameters (ie: unable to filter by “dogs” and “state: NJ”).  The call would only recognize the first parameter that was set
+   * The API call pulls all pet data for all pet types (cats, dogs, birds, rabbits, etc.)
+   * The API call could only do one page at a time; therefore, multiple csv files needed to be created and only 20 pets were listed per page
+
 
 #### Team Members #### 
 * Melissa Diep
