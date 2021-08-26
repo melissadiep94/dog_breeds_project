@@ -21,19 +21,17 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ## ETL Process ## 
 ### Step 1: Extract ### 
 
-**Pet Finder Extraction**
-* Downloaded the pet_finder `.csv file` from the [Kaggle Database](https://www.kaggle.com/c/petfinder-adoption-prediction/data) 
-* Read the `.csv file` into Jupyter Notebook for cleaning and transformation 
+**Pet Finder Data Extraction** - for Dog Breeds and Dog List Data
+*  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the Petfinder API (https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
+* Created api key and secret key per documentation, and read the api into Jupyter Notebook for cleaning and transformation.
 
-**Breeds Extraction**
 
-* 
+**Weight Data Extraction**
 
-**Weight Extraction**
+*  Copied weight range for different dog breeds from 
+*  Pasted the data into CSV for cleaning and transformation
 
-*
-
-**LifeSpan Extraction**
+**LifeSpan Data Extraction**
 
 * Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
 * Breed Name: Name of dog breed
