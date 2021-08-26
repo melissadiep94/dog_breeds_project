@@ -119,6 +119,9 @@ CREATE TABLE Breed_Characteristics (
  ## ERD Diagram ##
  ![ERD v4](https://user-images.githubusercontent.com/53684246/130913756-a179c414-e881-4622-8353-b532bcd63412.PNG)
  
+ ## Data Visualization ##
+ <img width="515" alt="weight_plot" src="https://user-images.githubusercontent.com/53684246/130971205-e4759241-ba91-4e92-99f1-756b100f8516.png">
+ 
  ## Dependencies needed to run the project
  * psycopg2
  * sqlalchemy
