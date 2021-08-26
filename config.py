@@ -1,0 +1,4 @@
+# pgAdmin password
+password = "postgres"
+
+
