@@ -18,8 +18,8 @@ breed_ID,breed_name,weight_male,weight_female
 24,Bearded Collie,45-55 pounds,45-55 pounds
 25,Beauceron,70-110 pounds,70-110 pounds
 26,Bedlington Terrier,17-23 pounds,17-23 pounds
-29,Belgian Shepherd / Sheepdog,55-75 pounds,45-60 pounds
 28,Belgian Shepherd / Malinois,60-80 pounds,40-60 pounds
+29,Belgian Shepherd / Sheepdog,55-75 pounds,45-60 pounds
 30,Belgian Shepherd / Tervuren,55-75 pounds,45-60 pounds
 32,Bernese Mountain Dog,80-115 pounds,70-95 pounds
 33,Bichon Frise,12-18 pounds,12-18 pounds
@@ -43,6 +43,7 @@ breed_ID,breed_name,weight_male,weight_female
 55,Cairn Terrier,14 pounds,13 pounds
 56,Canaan Dog,45-55 pounds,35-45 pounds
 57,Cane Corso,Proportionate to height,Proportionate to height
+58,Cardigan Welsh Corgi,30-38 pounds,25-34 pounds
 64,Cavalier King Charles Spaniel,13-18 pounds,13-18 pounds
 66,Chesapeake Bay Retriever,65-80 pounds,55-70 pounds
 67,Chihuahua,not exceeding 6 pounds,not exceeding 6 pounds
@@ -53,7 +54,6 @@ breed_ID,breed_name,weight_male,weight_female
 75,Clumber Spaniel,70-85 pounds,55-70 pounds
 78,Collie,60-75 pounds,50-65 pounds
 79,Coonhound,45-65 pounds,45-65 pounds
-190,Pembroke Welsh Corgi,up to 30 pounds,up to 28 pounds
 81,Coton de Tulear,9-15 pounds,8-13 pounds
 82,Curly-Coated Retriever,60-95 pounds,60-95 pounds
 83,Dachshund,"16-32 pounds (standard), 11 pounds & under (miniature)","16-32 pounds (standard), 11 pounds & under (miniature)"
@@ -70,7 +70,7 @@ breed_ID,breed_name,weight_male,weight_female
 102,Field Spaniel,35-50 pounds,35-50 pounds
 104,Finnish Lapphund,33-53 pounds,33-53 pounds
 105,Finnish Spitz,25-33 pounds,20-28 pounds
-106,Flat-coated Retriever,60-70 pounds,60-70 pounds
+106,Flat-Coated Retriever,60-70 pounds,60-70 pounds
 107,Fox Terrier,18 pounds in show condition,two pounds less than male
 108,Foxhound,65-70 pounds,60-65 pounds
 109,French Bulldog,under 28 pounds,under 28 pounds
@@ -89,13 +89,12 @@ breed_ID,breed_name,weight_male,weight_female
 126,Harrier,45-60 pounds,45-60 pounds
 127,Havanese,7-13 pounds,7-13 pounds
 131,Ibizan Hound,50 pounds,45 pounds
+132,Icelandic Sheepdog,30 pounds,25 pounds
 134,Irish Setter,70 pounds,60 pounds
 135,Irish Terrier,27 pounds,25 pounds
 136,Irish Water Spaniel,55-68 pounds,45-58 pounds
 137,Irish Wolfhound,120 pounds,105 pounds
 138,Italian Greyhound,7-14 pounds,7-14 pounds
-244,Spinone Italiano,56 pounds,56 pounds
-139,Jack Russell Terrier,9-15 pounds,9-15 pounds
 139,Jack Russell Terrier,13-17 pounds,13-17 pounds
 140,Japanese Chin,7-11 pounds,7-11 pounds
 144,Keeshond,35-45 pounds,35-45 pounds
@@ -123,18 +122,20 @@ breed_ID,breed_name,weight_male,weight_female
 185,Otterhound,115 pounds,80 pounds
 186,Papillon,5-10 pounds,5-10 pounds
 189,Pekingese,up to 14 pounds,up to 14 pounds
+190,Pembroke Welsh Corgi,up to 30 pounds,up to 28 pounds
 192,Petit Basset Griffon Vendeen,25-40 pounds,25-40 pounds
 193,Pharaoh Hound,45-55 pounds,45-55 pounds
 195,Plott Hound,50-60 pounds,40-55 pounds
-201,Portuguese Podengo,9-13 pounds,9-13 pounds
 196,Pointer,55-75 pounds,45-65 pounds
 197,Polish Lowland Sheepdog,30-50 pounds,30-50 pounds
 198,Pomeranian,3-7 pounds,3-7 pounds
 200,Poodle,"4-6 pounds (toy), 10-15 pounds (miniature), 60-70 pounds (male standard)","4-6 pounds (toy), 10-15 pounds (miniature), 40-50 pounds (female standard)"
+201,Portuguese Podengo,9-13 pounds,9-13 pounds
 202,Portuguese Water Dog,42-60 pounds,35-50 pounds
 204,Pug,14-18 pounds,14-18 pounds
 206,Puli,25-35 pounds,25-35 pounds
 207,Pumi,27-29 pounds,22-24 pounds
+208,Pyrenean Shepherd,15-30 pounds,15-30 pounds
 209,Rat Terrier,10-25 pounds,10-25 pounds
 210,Redbone Coonhound,45-70 pounds,45-70 pounds
 212,Rhodesian Ridgeback,85 pounds,70 pounds
@@ -155,7 +156,9 @@ breed_ID,breed_name,weight_male,weight_female
 236,Silky Terrier,around 10 pounds,around 10 pounds
 237,Skye Terrier,35-45 pounds,slightly lighter
 238,Sloughi,35-50 pounds,35-50 pounds
+244,Spinone Italiano,56 pounds,56 pounds
 246,Staffordshire Bull Terrier,28-38 pounds,24 to 34 pounds
+248,Standard Schnauzer,35-50 pounds,30-45 pounds
 249,Sussex Spaniel,35-45 pounds,35-45 pounds
 250,Swedish Vallhund,20-35 pounds,20-35 pounds
 254,Tibetan Mastiff,90-150 pounds,70-120 pounds
@@ -165,7 +168,6 @@ breed_ID,breed_name,weight_male,weight_female
 260,Treeing Walker Coonhound,50-70 pounds,50-70 pounds
 261,Vizsla,55-60 pounds,44-55 pounds
 262,Weimaraner,70-90 pounds,55-75 pounds
-58,Cardigan Welsh Corgi,30-38 pounds,25-34 pounds
 263,Welsh Springer Spaniel,40-55 pounds,35-50 pounds
 264,Welsh Terrier,20 pounds,proportionally smaller
 265,West Highland White Terrier / Westie,15-20 pounds,15-20 pounds
@@ -174,6 +176,3 @@ breed_ID,breed_name,weight_male,weight_female
 271,Wirehaired Pointing Griffon,50-70 pounds,35 and 50 pounds
 273,Xoloitzcuintli / Mexican Hairless,"10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)","10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)"
 275,Yorkshire Terrier,7 pounds,7 pounds
-132,Icelandic Sheepdog,30 pounds,25 pounds
-208,Pyrenean Shepherd,15-30 pounds,15-30 pounds
-248,Standard Schnauzer,35-50 pounds,30-45 pounds
