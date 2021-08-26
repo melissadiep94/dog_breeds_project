@@ -15,7 +15,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * [Schema](#schema)
 * [Setup](#setup)
 * [Sample Queries](#sample-queries)
-* [Process Pain-Points] (#process-pain-points)
+* [Process Pain-Points](#process-pain-points)
 * [Team Members](#team-members)
 
 ## ETL Process ## 
@@ -61,6 +61,8 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
   
  ### Step 3: Load ### 
  * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `pets_db` via Jupyter Notebook 
+ 
+ <img width="600" alt="Jupyter Notebook SQL Load Example" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-25%20at%2011.46.31%20AM.png">
  
  ## Schema ##
  ```
