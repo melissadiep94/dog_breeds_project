@@ -60,12 +60,17 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
  
  ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
+ ##### Cleaning Dog Lists data
+ * Although we pre-filtered the data to make smaller (just dogs, near 07090, etc.), there were still a few steps to continue cleaning the data
  * Dropped columns that were not needed and renamed them to match ERD
+ * The final data frame looked like this
  <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
 
 
 <img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
   * Brief Explanation
+
+##### Cleaning Dog Lists data
 
 
 *  Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
@@ -173,7 +178,11 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
 #### Process Pain-Points ####
-API Process Terminal View
+
+#### 1. Manual process to make sure breed names matched the breed labels table
+* We had to manually revise weight csv and breed characteristics csv to make breed names equal, for future joining of the data with a primary key.
+
+#### 2. API Process Terminal View - we tried this before petpy
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
    * Create a Petfinder account
    * Create a Petfinder API Key (or Client ID) and a Secret Key
