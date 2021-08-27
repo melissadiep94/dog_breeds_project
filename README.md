@@ -27,10 +27,10 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 *  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the Petfinder API (https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
 *  Created a Jupyter Notebook to interact with petpy.
 *  Created api key and secret key per documentation, and pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) 
+
 ...
 
 df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', status = 'adoptable', sort = 'distance', after_date = '2021-01-01', results_per_page=50, pages=16, return_df=True)
-
 ...
 
 *  Outputted pandas dataframe for cleaning and transformation into CSV file
