@@ -9,6 +9,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ## Table of Contents ## 
 * [ETL Process](#etl-process)
   * [Step 1: Extract](#step-1-extract)
+    * [Data Sources](#data-sources)
   * [Step 2: Transform](#step-2-transform)
   * [Step 3: Load](#step-3-load)
 * [Schema](#schema)
@@ -44,51 +45,52 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 
 *  Copied average lifespan data for different dog breeds from [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
 *  Pasted the data into CSV for cleaning and transformation
-*  Fields were as follows:
-     *  Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
-     *  Breed Name: Name of dog breed
-     *  Average Lifespan Years: Average amount of years that a particular breed is expected to live
 
 **Breeds Characteristics Extraction**
 
 *
  
-
+#### Data Sources #### 
+* [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
+* [PetFinder](https://www.petfinder.com/developers/)
+* [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
+* [Kaggle Database](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
+* [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
  
  ### Step 2: Transform ###
- 
-  **ERD Diagram**
-  
- * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
- * We did this in preparation for creating a SQL database and joining the data.
+ **Pet Finder Cleaning**
+  ##### ERD Diagram ##
+* Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
+* We did this in preparation for creating a SQL database and joining the data.
  
  ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
- **Cleaning Breeds List data**
  
- **Cleaning Dogs List data**
- * Although we pre-filtered the data to make smaller (just dogs, near 07090, etc.), there were still a few steps to continue cleaning the data
- * Dropped columns that were not needed and renamed them to match ERD
- * The final data frame looked like this
- * We mapped the breed ID created within the Breed List data
-
+ <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
+ * Brief Explanation
 
 <img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
   * Brief Explanation
 
-**Cleaning Weights data**
 
-**Cleaning Lifespan data**
-
-
-
-**Cleaning Breeds Characteristics data**
-
+* Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
+* Breed Name: Name of dog breed
+* Average Lifespan Years: Average amount of years that a particular breed is expected to live
 
  ### Step 3: Load ### 
- * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `pets_db` via Jupyter Notebook 
+ * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `TheWoofTeam` via Jupyter Notebook, using the following dependencies and connection route to connect to the local database.
  
- <img width="600" alt="Jupyter Notebook SQL Load Example" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-25%20at%2011.46.31%20AM.png">
+ <img width="700" alt="Jupyter Notebook SQL Load Example" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.23.44%20PM.png">
+ 
+ Below are the steps to complete Jupyter Notebook Load:
+   * The CSV files were loaded into Jupyter Notebook using the `read_csv` method
+   * CSV files were then cleaned (using drop column and/or renaming method) and then placed into a dataframe format
+   * The newly created or trimmed dataframes were then loaded into the database using the `to_sql` method (as follows) 
+     <img width="250" alt="to sql method" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.38.35%20PM.png">
+   * After database upload, queries on all tables were performed to confirm that all dataframes were loaded correctly (as follows)
+     <img width="250" alt="dataframe extraction" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.42.44%20PM.png">
+ 
+ [Click to Review Code - TheWoofTeam.ipnb](https://github.com/melissadiep94/dog_breeds_project/blob/main/TheWoofTeam.ipynb)
  
  ## Schema ##
  ```
@@ -98,14 +100,12 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
   breed_name VARCHAR(100),
   PRIMARY KEY (breed_id)
 );
-
 CREATE TABLE Lifespan (
   breed_id INT,
   breed_name VARCHAR(100),
   avg_lifespan_years VARCHAR(100),
   FOREIGN KEY (breed_id) REFERENCES Breeds(breed_id)
 );
-
 CREATE TABLE Weight (
   breed_id INT,
   breed_name VARCHAR(100),
@@ -186,11 +186,7 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
 #### Process Pain-Points ####
-
-#### 1. Manual process to make sure breed names matched the breed labels table
-* We had to manually revise weight csv and breed characteristics csv to make breed names equal, for future joining of the data with a primary key.
-
-#### 2. API Process Terminal View - we tried this before petpy
+API Process Terminal View
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
    * Create a Petfinder account
    * Create a Petfinder API Key (or Client ID) and a Secret Key
