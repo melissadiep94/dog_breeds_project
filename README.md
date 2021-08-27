@@ -207,16 +207,16 @@ API Process Terminal View
    * The API call did not allow for us to set multiple parameters (ie: unable to filter by “dogs” and “state: NJ”).  The call would only recognize the first parameter that was set
    * The API call pulls all pet data for all pet types (cats, dogs, birds, rabbits, etc.)
    * The API call could only do one page at a time; therefore, multiple csv files needed to be created and only 20 pets were listed per page
-  *(Due to the above limitations, the group decided not to proceed with this method of extraction)  
+   * Due to the above limitations, the group decided not to proceed with this method of extraction  
  
 CSV File Updates and Revisions
-   * Group members had to manually revise and update breed_ID labels to match the original files `PRIMARY KEY` from the ERD file
+   * Group members had to manually revise and update breed_ID labels for certain CSV files to match the original files' `PRIMARY KEY` from the ERD file
    * Group members tried to sort/filter using other methods such as excel formatting and sorting but the data would get lost or deleted unintentionally
 
 SQL Uploads 
    * During the `pet_finder` database upload, some data cells had phrases with `commas`  
    * SQL does not allow for CSV files to be uploaded with cells that have commas since they are considered as a delimiter 
-   *(Group members had to research different codes on how to remove commas from a large CSV file so that the data could be loaded properly) 
+   * Group members had to research different codes on how to remove commas from a large CSV file so that the data could be loaded properly 
 
 
 #### Team Members #### 
