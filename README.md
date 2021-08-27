@@ -57,7 +57,8 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
  
  ### Step 2: Transform ###
  
-  ##### ERD Diagram ##
+  **ERD Diagram**
+  
  * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
  * We did this in preparation for creating a SQL database and joining the data.
  
