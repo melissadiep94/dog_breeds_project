@@ -45,6 +45,11 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 
 *  Copied average lifespan data for different dog breeds from [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
 *  Pasted the data into CSV for cleaning and transformation
+*  Manually matched breeds listed in PetCareRx to the `breed_ID` listed in the `breeds CSV`
+*  Deleted any duplicate breeds listed 
+*  Deleted any breeds that were not listed on the original `breeds CSV`
+*  Researched any breeds that did not have a listed `avg_life_span` in order to complete the data list (and avoid NULL values)
+*  Completed an `excel IFS` statement to determine if all breeds matched their corresponding breed_IDs
 
 **Breeds Characteristics Extraction**
 
