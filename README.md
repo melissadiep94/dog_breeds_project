@@ -85,9 +85,9 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
    * The CSV files were loaded into Jupyter Notebook using the `read_csv` method
    * CSV files were then cleaned (using drop column and/or renaming method) and then placed into a dataframe format
    * The newly created or trimmed dataframes were then loaded into the database using the `to_sql` method (as follows) 
-     <img width="500" alt="to sql method" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.38.35%20PM.png">
+     <img width="550" alt="to sql method" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.38.35%20PM.png">
    * After database upload, queries on all tables were performed to confirm that all dataframes were loaded correctly (as follows)
-     <img width="500" alt="dataframe extraction" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.42.44%20PM.png">
+     <img width="550" alt="dataframe extraction" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.42.44%20PM.png">
  
  [Click to Review Code - TheWoofTeam.ipnb](https://github.com/melissadiep94/dog_breeds_project/blob/main/TheWoofTeam.ipynb)
  
