@@ -52,17 +52,16 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 
  
  ### Step 2: Transform ###
- **Pet Finder Cleaning**
+ 
   ##### ERD Diagram ##
  * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
  * We did this in preparation for creating a SQL database and joining the data.
  
  ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
- ##### Cleaning Breeds List data 
+ **Cleaning Breeds List data**
  
- 
- ##### Cleaning Dogs List data
+ **Cleaning Dogs List data**
  * Although we pre-filtered the data to make smaller (just dogs, near 07090, etc.), there were still a few steps to continue cleaning the data
  * Dropped columns that were not needed and renamed them to match ERD
  * The final data frame looked like this
@@ -72,9 +71,10 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 <img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
   * Brief Explanation
 
-##### Cleaning Weights data
+**Cleaning Weights data**
 
-##### Cleaning Lifespan data
+**Cleaning Weights data**
+
 
 ##### Cleaning Breeds Characteristics data
 
