@@ -45,9 +45,9 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 *  Copied average lifespan data for different dog breeds from [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
 *  Pasted the data into CSV for cleaning and transformation
 *  Fields were as follows:
-**  Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
-** Breed Name: Name of dog breed
-** Average Lifespan Years: Average amount of years that a particular breed is expected to live
+  *  Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
+  * Breed Name: Name of dog breed
+  * Average Lifespan Years: Average amount of years that a particular breed is expected to live
 
 **Breeds Characteristics Extraction**
 
