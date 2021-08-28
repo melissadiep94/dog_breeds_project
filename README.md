@@ -45,7 +45,8 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 *  Copied weight range for different dog breeds from [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
 *  Pasted the data into pandas dataframe for cleaning and transformation. Below is a snapshot of the original dataframe.
  
- ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
+<img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
+  * Brief Explanation
 
 **LifeSpan Data Extraction**
 
@@ -68,7 +69,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
 * We did this in preparation for creating a SQL database and joining the data.
 
- 
+  ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
  **Petfinder Data Cleaning and Transformation** - for Dog Breeds and Dog List Data
  
@@ -88,8 +89,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  
 
 
-<img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
-  * Brief Explanation
+
 
 
 * Breed ID: Identifying indicator used to match each dog breed during the transformation and load processes
