@@ -73,11 +73,12 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  * Dog List Data
 	* Added new column called `breed_ID`, mapped based on `breed_name` 
 	* Deleted fields, renamed, re-ordered columns to align with ERD    
-	* Removed commas from all fields, as the commas was causing issues when loading into SQL 
+	* Removed commas from all fields, as the commas was causing issues when loading into SQL database 
 	``` 
 	df_dogs_v5 = df_dogs_v4.replace(',',' | ', regex=True)
 	``` 
 	* Converted clean pandas dataframe into `df_petfinder_dogslist_api_clean_v2.csv` (see Resources folder)
+[Click to Review Code for Petfinder Data Cleaning and Transformation](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/Cleaning_pet_finder_data.ipynb)
 
  **Weight Data Cleaning and Transformation**
  * Within the original csv file, first created new column called `Breed_clean` and revised this field to match `breed_name` in `df_breed_labels_api_clean.csv`
@@ -86,7 +87,8 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  	*   Dropped original `Breed` name field
  	*  Added new column called `breed_ID`, mapped based on `breed_name`  
  	*  Converted clean pandas dataframe into `df_breed_weight_clean.csv` (see Resources folder)
- 
+ [Click to Review Code for Weight Data Cleaning and Transformation](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/Cleaning_weight_data.ipynb)
+
  **Lifespan Data Cleaning and Transformation**
  *  Within the csv file, manually matched breeds listed in PetCareRx to the `breed_ID` listed in the `df_breed_labels_api_clean.csv`
 *  Deleted any duplicate breeds listed 
