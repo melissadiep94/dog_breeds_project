@@ -241,7 +241,7 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
    * Group members had to research different codes on how to remove commas from a large CSV file so that the data could be loaded properly 
 
 
-#### Team Members #### 
+## Team Members ## 
 * Melissa Diep
 * Rosali Gonzalez
 * Donett Rowe
