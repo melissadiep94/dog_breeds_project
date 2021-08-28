@@ -13,11 +13,11 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
   * [Step 3: Load](#step-3-load)
 * [Schema](#schema)
 * [Setup](#setup)
-* [Sample Queries](#sample-queries)
-* [Process Pain-Points](#process-pain-points)
+* [Sample Queries](#sample-queries) 
+* [Additional Queries](#additional-queries) 
 * [Web API using Flask](#web-api-using-flask)
+* [Process Pain-Points](#process-pain-points)
 * [Team Members](#team-members)
-
 
 
 ## ETL Process ## 
@@ -223,12 +223,24 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
+## Additional Queries
+Potential dog owners could run numerous diffferent queireis to find the perfect dog for them, such as the following: 
+* Dogs that live between 10 to 15 yrs with a weight of 10 lbs whose name begins with “blank” 
+* Dogs that live between 12 to 14 yrs 
+* Dog breeds that begin with the letter F
+* Dog breeds that have “blank” characteristics 
+* Dogs breeds that live between up to 14 yrs 
+* Dog breeds that are cat friendly
+* Dog breeds that are kid friendly 
+* Dog breeds where female dogs have a weight of 40-65 pounds 
+* Dog breeds where male dogs have a weight of 11-12 pounds
+
 ## Web API using Flask ## 
 
 We created a Web API using Flask with at least 2 routes to illustrate how we would serve data from the database to users over the web.
 
-<img width="733" alt="flask connection" src="https://user-images.githubusercontent.com/53684246/130972334-2ebcef4c-a5b6-438f-9ecf-cc509b1379ca.png">
- 
+<img width="733" alt="flask connection" src="https://user-images.githubusercontent.com/53684246/130972334-2ebcef4c-a5b6-438f-9ecf-cc509b1379ca.png"> 
+
 ## Process Pain-Points ##
 **API Process Terminal View** 
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
