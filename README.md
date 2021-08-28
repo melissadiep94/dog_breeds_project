@@ -101,14 +101,16 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 *  Completed an `excel IFS` statement to determine if all breeds matched their corresponding breed_IDs
 
  **Breed Characteristics Cleaning and Transformation**
- * Deleted initial breed ID because it was a duplicated column for dog breed names
+ * Deleted initial `breed ID` because it was a duplicated column for dog breed names
  * Changed column names to match ERD
  * Merged the characteristics dataframe with a dog breed ID number dataframe based on dog breed name. This gave the characteristics table breed ID numbers that match the rest of the teams files
  * Researched alternative dog breed names for dogs that did not match the characteristics file with dog breed id values.
  * Deleted any dog breeds that did not have a breed ID when merged on breed name
  * Changed breed_id column to integer to match sql schema for importing
- * Output dataframe as 'breed_characteristics.csv'
+ * Output dataframe as `Breed_Characteristicsv3.csv` (see Resources folder)
 
+ [Click to Review Code for Breed Characteristics Data Cleaning and Transformation](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/Breed_Characteristics.ipynb)
+ 
  ### Step 3: Load ### 
  ____________________________
  * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `TheWoofTeam` via Jupyter Notebook, using the following dependencies and connection route to connect to the local database.
