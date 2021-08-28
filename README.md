@@ -53,7 +53,8 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 
 **Breeds Characteristics Extraction**
 
-*
+*  Copied breed characteristics for different dog breeds from [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
+*  Pasted the data into CSV for cleaning and transformation
  
 #### Data Sources #### 
 * [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
