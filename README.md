@@ -222,6 +222,11 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
+## Web API using Flask ## 
+
+We created a Web API using Flask with at least 2 routes to illustrate how we would serve data from the database to users over the web. flask connection
+<img width="733" alt="flask connection" src="https://user-images.githubusercontent.com/53684246/130972334-2ebcef4c-a5b6-438f-9ecf-cc509b1379ca.png">
+ 
 ## Process Pain-Points ##
 **API Process Terminal View** 
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
