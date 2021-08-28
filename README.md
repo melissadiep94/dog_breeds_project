@@ -270,7 +270,7 @@ We created a Web API using Flask with at least 2 routes to illustrate how we wou
    * Due to the above limitations, the group decided not to proceed with this method of extraction  
  
 **CSV File Updates and Revisions**
-   * Group members had to manually revise and update breed_ID labels for certain CSV files to match the original files' `PRIMARY KEY` from the ERD file
+   * Group members had to manually revise and update `breed_ID` and `breed_name` labels for certain CSV files so that the `breed_ID` would function as the `PRIMARY KEY` per the ERD, for future joining of the data
    * Group members tried to sort/filter using other methods such as excel formatting and sorting but the data would get lost or deleted unintentionally
 
 **SQL Uploads**
