@@ -25,7 +25,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ____________________________
 **Pet Finder Data Extraction** - for Dog Breeds and Dogs List Data
 *  Downloaded pip install `petpy` per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the [Petfinder API](https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
-*  Created a Jupyter Notebook to interact with petpy.
+*  Created a Jupyter Notebook to interact with petpy
 *  Created `api key` and `secret key` per documentation
 *  For Dogs List Data, pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) and dog postings in 2021
 
@@ -44,7 +44,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 **Weight Data Extraction**
 
 *  Copied weight range for different dog breeds from [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
-*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation pandas dataframe for cleaning and transformation. 
+*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation
  
 **LifeSpan Data Extraction**
 
@@ -54,7 +54,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 **Breeds Characteristics Extraction**
 
 *  Copied breed characteristics for different dog breeds from [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
-*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation pandas dataframe for cleaning and transformation. 
+*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation
 
  
  ### Step 2: Transform ### 
