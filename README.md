@@ -44,17 +44,17 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 **Weight Data Extraction**
 
 *  Copied weight range for different dog breeds from [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
-*  Pasted the data into Excel, followed by Jupyter Notebook pandas, for cleaning and transformation pandas dataframe for cleaning and transformation. 
+*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation pandas dataframe for cleaning and transformation. 
  
 **LifeSpan Data Extraction**
 
 *  Copied average lifespan data for different dog breeds from [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
-*  Pasted the data into CSV for cleaning and transformation
+*  Pasted the data into Excel CSV for cleaning and transformation
 
 **Breeds Characteristics Extraction**
 
 *  Copied breed characteristics for different dog breeds from [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
-*  Pasted the data into CSV for cleaning and transformation
+*  Pasted the data into Excel CSV, followed by Jupyter Notebook pandas, for cleaning and transformation pandas dataframe for cleaning and transformation. 
 
  
  ### Step 2: Transform ### 
