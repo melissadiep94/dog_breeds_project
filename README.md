@@ -224,7 +224,8 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
 
 ## Web API using Flask ## 
 
-We created a Web API using Flask with at least 2 routes to illustrate how we would serve data from the database to users over the web. flask connection
+We created a Web API using Flask with at least 2 routes to illustrate how we would serve data from the database to users over the web.
+
 <img width="733" alt="flask connection" src="https://user-images.githubusercontent.com/53684246/130972334-2ebcef4c-a5b6-438f-9ecf-cc509b1379ca.png">
  
 ## Process Pain-Points ##
