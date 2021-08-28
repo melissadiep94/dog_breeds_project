@@ -102,56 +102,69 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  
  ## Schema ##
  ```
- CREATE TABLE Breeds (
-  breed_id INT,
-  breed_type VARCHAR(100),
-  breed_name VARCHAR(100),
-  PRIMARY KEY (breed_id)
+CREATE TABLE breeds(
+	ID INT,
+	breed_ID INT Primary Key NOT NULL,
+	breed_name VARCHAR NOT NULL,
+	animal_type VARCHAR NOT NUll
 );
-CREATE TABLE Lifespan (
-  breed_id INT,
-  breed_name VARCHAR(100),
-  avg_lifespan_years VARCHAR(100),
-  FOREIGN KEY (breed_id) REFERENCES Breeds(breed_id)
+
+CREATE TABLE lifespan (
+	breed_ID INT Primary Key NOT NULL,
+	breed_name VARCHAR NOT NULL,
+	avg_lifespan_years VARCHAR
 );
-CREATE TABLE Weight (
-  breed_id INT,
-  breed_name VARCHAR(100),
-  breed_female VARCHAR(100),
-  weight_male VARCHAR(100),
-  FOREIGN KEY (breed_id) REFERENCES Breeds(breed_id)
+
+CREATE TABLE weight (
+	breed_ID INT Primary Key NOT NULL,
+	breed_name VARCHAR,
+	weight_male VARCHAR,
+	weight_female VARCHAR
 );
-CREATE TABLE Pet_Finder (
-  dog_id INT,
-  dog_name VARCHAR(100),
-  breed_id INT,
-  breed_name VARCHAR(100),
-  age VARCHAR(100),
-  color VARCHAR(100),
-  coat_type VARCHAR(100),
-  adoption_status VARCHAR(100),
-  kid_freindly FLOAT,
-  dog_freindly FLOAT,
-  house_trained FLOAT,
-  special_needs FLOAT,
-  distance INT,
-  location VARCHAR(100),
-  FOREIGN KEY (breed_id) REFERENCES Breeds(breed_id)
+
+CREATE TABLE pet_finder(
+	dog_name VARCHAR,
+	url_petfinder VARCHAR,
+	dog_age VARCHAR,
+	dog_gender VARCHAR,
+	dog_size VARCHAR,
+	dog_coat VARCHAR,
+	dog_decsription VARCHAR,
+	published_at VARCHAR,
+	distance_miles_from_07090 FLOAT,
+	breed_ID INT,
+	breed_name VARCHAR,
+	colors_primary VARCHAR,
+	attributes_spayed_neutered VARCHAR,
+	attributes_house_trained VARCHAR,
+	attributes_special_needs VARCHAR,
+	attributes_shots_current VARCHAR,
+	environment_children VARCHAR,
+ environment_dogs VARCHAR,
+	environment_cats VARCHAR,
+	contact_email VARCHAR,
+	contact_phone VARCHAR,
+	contact_address_address1 VARCHAR,
+	contact_address_city VARCHAR,
+	contact_address_state VARCHAR,
+	contact_address_postcode VARCHAR
 );
+
 CREATE TABLE Breed_Characteristics (
   breed_id INT,
   breed_name VARCHAR(100),
-  Size INT,
-  kid_freindly FLOAT,
-  dog_freindly FLOAT,
-  low_shedding FLOAT,
-  easy_to_groom FLOAT,
-  good_health FLOAT,
-  low_barking FLOAT,
-  easy_to_train FLOAT,
-  tolerates_hot FLOAT,
-  totlerates_cold FLOAT,
-  FOREIGN KEY (breed_id) REFERENCES Breeds(breed_id)
+  breed_char_size FLOAT,
+  breed_char_kid_friendly FLOAT,
+  breed_char_dog_friendly FLOAT,
+  breed_char_low_shedding FLOAT,
+  breed_char_easy_to_groom FLOAT,
+  breed_char_high_energy FLOAT,
+  breed_char_good_health FLOAT,
+  breed_char_low_barking FLOAT,
+  breed_char_intelligence FLOAT,
+  breed_char_easy_to_train FLOAT,
+  breed_char_tolerates_hot FLOAT,
+  breed_char_tolerates_cold FLOAT
 );
 ```
  
