@@ -22,7 +22,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 
 ## ETL Process ## 
 ### Step 1: Extract ### 
-
+____________________________
 **Pet Finder Data Extraction** - for Dog Breeds and Dogs List Data
 *  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the [Petfinder API](https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
 *  Created a Jupyter Notebook to interact with petpy.
@@ -57,7 +57,8 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 *  Pasted the data into CSV for cleaning and transformation
 
  
- ### Step 2: Transform ###
+ ### Step 2: Transform ### 
+ ____________________________
  **ERD Diagram**
 * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
 * We did this in preparation for creating a SQL database and joining the data.
@@ -103,6 +104,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  
 
  ### Step 3: Load ### 
+ ____________________________
  * Once the data frames were all properly formatted, cleaned and tranformed, the `.csv files` were loaded into a PostgreSQL database named `TheWoofTeam` via Jupyter Notebook, using the following dependencies and connection route to connect to the local database.
  
  <img width="700" alt="Jupyter Notebook SQL Load Example" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.23.44%20PM.png">
