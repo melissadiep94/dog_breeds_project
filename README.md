@@ -4,7 +4,7 @@
 
 ## Project Description/Outline:
 
-Our goal is to find the number of dogs that are able to be adopted in New Jersey, and combine it with characterics of each breed, so that prospective dog owners can make an informed decision on which dog to adopt. We will load our data tables into PostgreSQ, in order to create a relational database that utilizes `breed_ID` as the field that joins all tables together for queries. 
+Our goal is to find the number of dogs that are able to be adopted in New Jersey, and combine it with characterics of each breed, so that prospective dog owners can make an informed decision on which dog to adopt. We will load our data tables into PostgreSQL (pgAdmin 4), in order to create a relational database that utilizes `breed_ID` as the field that joins all tables together for queries. 
 
 ## Table of Contents ## 
 * [ETL Process](#etl-process)
