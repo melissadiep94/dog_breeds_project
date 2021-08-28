@@ -9,7 +9,6 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ## Table of Contents ## 
 * [ETL Process](#etl-process)
   * [Step 1: Extract](#step-1-extract)
-    * [Data Sources](#data-sources)
   * [Step 2: Transform](#step-2-transform)
   * [Step 3: Load](#step-3-load)
 * [Schema](#schema)
@@ -23,23 +22,30 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ## ETL Process ## 
 ### Step 1: Extract ### 
 
-**Pet Finder Data Extraction** - for Dog Breeds and Dog List Data
-*  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the Petfinder API (https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
+**Pet Finder Data Extraction** - for Dog Breeds and Dogs List Data
+*  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the [Petfinder API](https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
 *  Created a Jupyter Notebook to interact with petpy.
-*  Created api key and secret key per documentation, and pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) 
+*  Created api key and secret key per documentation
+*  For Dogs List Data, pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) and dog postings in 2021
 
  ```
 
 df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', status = 'adoptable', sort = 'distance', after_date = '2021-01-01', results_per_page=50, pages=16, return_df=True)
  ```
+* For Dog Breeds Data, outputted data frame per documentation as follows
+```
+dog_breeds_df = pf.breeds('dog', return_df = True)
+```
+*  Outputted pandas dataframe for cleaning and transformation. Below see an example of the original Dogs List dataframe.
 
-*  Outputted pandas dataframe for cleaning and transformation into CSV file
-
-
+ <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
+ 
 **Weight Data Extraction**
 
 *  Copied weight range for different dog breeds from [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
-*  Pasted the data into CSV for cleaning and transformation
+*  Pasted the data into pandas dataframe for cleaning and transformation. Below is a snapshot of the original dataframe.
+ 
+ ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
 
 **LifeSpan Data Extraction**
 
@@ -55,24 +61,32 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 
 *  Copied breed characteristics for different dog breeds from [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
 *  Pasted the data into CSV for cleaning and transformation
- 
-#### Data Sources #### 
-* [PetCareRx](https://www.petcarerx.com/article/lifespan-of-a-dog-a-dog-years-chart-by-breed/1223?utm_source=linkshare&utm_medium=affiliate&utm_campaign=deeplink&utm_content=msYS1Nvjv4c&id=1944&subid=msYS1Nvjv4c&siteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg&ranMID=38368&ranEAID=msYS1Nvjv4c&ranSiteID=msYS1Nvjv4c-w4EN7Lh3WF08OHca3.4Hlg)
-* [PetFinder](https://www.petfinder.com/developers/)
-* [American Kennel Club](https://www.akc.org/expert-advice/nutrition/breed-weight-chart/#:~:text=Breed%20Weight%20Chart%20%20%20%)
-* [Kaggle Database](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
-* [Dog Breed Chart](http://www.dogbreedchart.com/#:~:text=Dog%20Breed%20Chart%20%20%20%20Name%20,%20%201%20%2033%20more%20rows%20)
+
  
  ### Step 2: Transform ###
- **Pet Finder Cleaning**
-  ##### ERD Diagram ##
+ **ERD Diagram**
 * Before we started to transform the data, we designed an ERD utilizing https://www.quickdatabasediagrams.com/ to outline the fields from each data source that we wanted to rename or keep, and identified the primary key (unique identifier) for each set of data. 
 * We did this in preparation for creating a SQL database and joining the data.
+
  
- ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
+ 
+ **Petfinder Data Cleaning and Transformation** - for Dog Breeds and Dog List Data
+ 
+ Dog Breeds Data
+ * 
  
  
- <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
+ Dog List Data
+ * 
+ 
+ 
+ **Weight Data Cleaning and Transformation**
+ 
+ **Lifespan Data Cleaning and Transformation**
+ 
+ **Breed Characteristics Cleaning and Transformation**
+ 
+
 
 <img width="661" alt="weight_clean" src="https://user-images.githubusercontent.com/53684246/130917673-fdb6820b-b5c1-4876-9a26-72dbb69d7d17.png">
   * Brief Explanation
@@ -154,7 +168,7 @@ CREATE TABLE Breed_Characteristics (
  
 
  
- ## Dependencies needed to run the project
+ ## Dependencies needed to run the SQL project in Jupyter Notebook
  * psycopg2
  * sqlalchemy
  * petpy
