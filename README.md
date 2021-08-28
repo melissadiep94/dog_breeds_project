@@ -24,9 +24,9 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 ### Step 1: Extract ### 
 ____________________________
 **Pet Finder Data Extraction** - for Dog Breeds and Dogs List Data
-*  Downloaded pip install petpy per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the [Petfinder API](https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
+*  Downloaded pip install `petpy` per the instructions on https://petpy.readthedocs.io/en/latest/ . Petpy is an unofficial Pythonwrapper of the [Petfinder API](https://www.petfinder.com/developers/v2/docs/) for interacting with Petfinder’s database of animals and animal welfare organizations.
 *  Created a Jupyter Notebook to interact with petpy.
-*  Created api key and secret key per documentation
+*  Created `api key` and `secret key` per documentation
 *  For Dogs List Data, pre-filtered to only return adoptable dogs 20 miles from Westfield, NJ (07090) and dog postings in 2021
 
  ```
