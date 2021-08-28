@@ -64,25 +64,19 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
   ![ERD v5](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/ERD%20v5.PNG?raw=true)
  
  **Petfinder Data Cleaning and Transformation** - for Dog Breeds and Dog List Data
- 
  * Dog Breeds Data
  	* Created `breed_ID` for each breed name utilizing for loop 
  	![Breed ID for loop](https://github.com/melissadiep94/dog_breeds_project/blob/main/Images/Breed_ID_mapping_for_loop.PNG?raw=true) 
- 	* Added new column called breed_ID, and renamed and re-ordered columns to align with ERD 
- 	 ``` 
-	dog_breeds_df["breed_ID"] = breed_IDs
-	#Rename columns
-	dog_breeds_df= dog_breeds_df.rename(columns = {'name' : 'breed_name', 'breed': 'animal_type'})
-	#Reorder columns
-	dog_breeds_df = dog_breeds_df.reindex(columns= [ 'breed_ID', 'breed_name', 'animal_type'])
-	``` 
- 	* Converted clean pandas dataframe into `df_breed_labels_api_clean.csv` (see Resources folder)
-	
+ 	* Added new column called `breed_ID`, and renamed and re-ordered columns to align with ERD 
+ 	* Converted clean pandas dataframe into `df_breed_labels_api_clean.csv` (see Resources folder)	
   
  * Dog List Data
- 	* 
- 
- 
+	* Added new column called `breed_ID`, mapped based on 'breed_name' 
+	* Deleted fields, renamed, re-ordered columns to align with ERD    
+	* Removed commas from all fields, as the commas was causing issues when loading into SQL 
+	``` 
+	df_dogs_v5 = df_dogs_v4.replace(',',' | ', regex=True)
+	```
  **Weight Data Cleaning and Transformation**
  
  **Lifespan Data Cleaning and Transformation**
