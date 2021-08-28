@@ -206,7 +206,7 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
-## ETL Process Pain-Points ##
+## Process Pain-Points ##
 **API Process Terminal View** 
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
    * Create a Petfinder account
