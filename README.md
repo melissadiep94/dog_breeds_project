@@ -78,6 +78,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 	df_dogs_v5 = df_dogs_v4.replace(',',' | ', regex=True)
 	``` 
 	* Converted clean pandas dataframe into `df_petfinder_dogslist_api_clean_v2.csv` (see Resources folder)
+
 [Click to Review Code for Petfinder Data Cleaning and Transformation](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/Cleaning_pet_finder_data.ipynb)
 
  **Weight Data Cleaning and Transformation**
@@ -87,6 +88,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  	*   Dropped original `Breed` name field
  	*  Added new column called `breed_ID`, mapped based on `breed_name`  
  	*  Converted clean pandas dataframe into `df_breed_weight_clean.csv` (see Resources folder)
+ 
  [Click to Review Code for Weight Data Cleaning and Transformation](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/Cleaning_weight_data.ipynb)
 
  **Lifespan Data Cleaning and Transformation**
