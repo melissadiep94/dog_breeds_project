@@ -86,9 +86,9 @@ dog_breeds_df = dog_breeds_df.reindex(columns= [ 'breed_ID', 'breed_name', 'anim
  **Weight Data Cleaning and Transformation**
  
  **Lifespan Data Cleaning and Transformation**
- *  Manually matched breeds listed in PetCareRx to the `breed_ID` listed in the `breeds CSV`
+ *  Within the csv file, manually matched breeds listed in PetCareRx to the `breed_ID` listed in the `df_breed_labels_api_clean.csv`
 *  Deleted any duplicate breeds listed 
-*  Deleted any breeds that were not listed on the original `breeds CSV`
+*  Deleted any breeds that were not listed on `df_breed_labels_api_clean.csv`
 *  Researched any breeds that did not have a listed `avg_life_span` in order to complete the data list (and avoid NULL values)
 *  Completed an `excel IFS` statement to determine if all breeds matched their corresponding breed_IDs
 
