@@ -140,7 +140,7 @@ CREATE TABLE pet_finder(
 	attributes_special_needs VARCHAR,
 	attributes_shots_current VARCHAR,
 	environment_children VARCHAR,
- environment_dogs VARCHAR,
+        environment_dogs VARCHAR,
 	environment_cats VARCHAR,
 	contact_email VARCHAR,
 	contact_phone VARCHAR,
