@@ -206,8 +206,8 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
-#### Process Pain-Points ####
-API Process Terminal View
+## ETL Process Pain-Points ##
+**API Process Terminal View** 
 * Petfinder has a secondary way of extracting data via Terminal View. The process is as follows: 
    * Create a Petfinder account
    * Create a Petfinder API Key (or Client ID) and a Secret Key
@@ -231,11 +231,11 @@ API Process Terminal View
    * The API call could only do one page at a time; therefore, multiple csv files needed to be created and only 20 pets were listed per page
    * Due to the above limitations, the group decided not to proceed with this method of extraction  
  
-CSV File Updates and Revisions
+**CSV File Updates and Revisions**
    * Group members had to manually revise and update breed_ID labels for certain CSV files to match the original files' `PRIMARY KEY` from the ERD file
    * Group members tried to sort/filter using other methods such as excel formatting and sorting but the data would get lost or deleted unintentionally
 
-SQL Uploads 
+**SQL Uploads**
    * During the `pet_finder` database upload, some data cells had phrases with `commas`  
    * SQL does not allow for CSV files to be uploaded with cells that have commas since they are considered as a delimiter 
    * Group members had to research different codes on how to remove commas from a large CSV file so that the data could be loaded properly 
