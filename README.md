@@ -36,7 +36,7 @@ df_dogs = pf.animals(location = '07090', distance = '20', animal_type= 'dog', st
 ```
 dog_breeds_df = pf.breeds('dog', return_df = True)
 ```
-*  Outputted pandas dataframe for cleaning and transformation. Below see an example of the original Dogs List dataframe.
+*  Outputted pandas dataframe for cleaning and transformation. Below see an example of the original Dogs List dataframe. Note that there were many other available fields not pictured.
 
  <img width="1403" alt="pet_finder_clean" src="https://user-images.githubusercontent.com/53684246/130917374-05212b4f-d604-4a5d-b391-b42a53bc2fed.png">
  
