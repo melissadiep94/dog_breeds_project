@@ -101,7 +101,13 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 *  Completed an `excel IFS` statement to determine if all breeds matched their corresponding breed_IDs
 
  **Breed Characteristics Cleaning and Transformation**
- 
+ * Deleted initial breed ID because it was a duplicated column for dog breed names
+ * Changed column names to match ERD
+ * Merged the characteristics dataframe with a dog breed ID number dataframe based on dog breed name. This gave the characteristics table breed ID numbers that match the rest of the teams files
+ * Researched alternative dog breed names for dogs that did not match the characteristics file with dog breed id values.
+ * Deleted any dog breeds that did not have a breed ID when merged on breed name
+ * Changed breed id column to integer to match sql schema for importing
+ * Output dataframe as 'breed_characteristics.csv'
 
  ### Step 3: Load ### 
  ____________________________
