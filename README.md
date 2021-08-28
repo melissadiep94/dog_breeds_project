@@ -65,22 +65,20 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
  
  **Petfinder Data Cleaning and Transformation** - for Dog Breeds and Dog List Data
  
- Dog Breeds Data
- * Created `breed_ID` for each breed name utilizing for loop
- ![Breed ID for loop]( ) 
- 
- * Added new column called breed_ID, and renamed and re-ordered columns to align with ERD
- ``` 
-dog_breeds_df["breed_ID"] = breed_IDs
-#Rename columns
-dog_breeds_df= dog_breeds_df.rename(columns = {'name' : 'breed_name', 'breed': 'animal_type'})
-#Reorder columns
-dog_breeds_df = dog_breeds_df.reindex(columns= [ 'breed_ID', 'breed_name', 'animal_type'])
-``` 
-* Converted clean pandas dataframe into `df_breed_labels_api_clean.csv` (see Resources folder)
+ * Dog Breeds Data
+ 	* Created `breed_ID` for each breed name utilizing for loop ![Breed ID for loop]( ) 
+ 	* Added new column called breed_ID, and renamed and re-ordered columns to align with ERD 
+ 	* Converted clean pandas dataframe into `df_breed_labels_api_clean.csv` (see Resources folder)
+	 ``` 
+	dog_breeds_df["breed_ID"] = breed_IDs
+	#Rename columns
+	dog_breeds_df= dog_breeds_df.rename(columns = {'name' : 'breed_name', 'breed': 'animal_type'})
+	#Reorder columns
+	dog_breeds_df = dog_breeds_df.reindex(columns= [ 'breed_ID', 'breed_name', 'animal_type'])
+	``` 
   
- Dog List Data
- * 
+ * Dog List Data
+ 	* 
  
  
  **Weight Data Cleaning and Transformation**
