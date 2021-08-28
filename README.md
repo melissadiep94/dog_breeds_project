@@ -224,7 +224,7 @@ WHERE avg_lifespan_years = '10 to 13 yrs'
  <img width="481" alt="lifespan_output_schema" src="https://user-images.githubusercontent.com/53684246/130920869-a6809175-1180-48a4-b602-3d4b906ecea7.png">
 
 ## Additional Queries
-Potential dog owners could run numerous diffferent queireis to find the perfect dog for them, such as the following: 
+Potential dog owners could run numerous diffferent queries to find the perfect dog for them, such as the following: 
 * Dogs that live between 10 to 15 yrs with a weight of 10 lbs whose name begins with “blank” 
 * Dogs that live between 12 to 14 yrs 
 * Dog breeds that begin with the letter F
