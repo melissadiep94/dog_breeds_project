@@ -85,7 +85,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 
  **Weight Data Cleaning and Transformation**
  * Within the original csv file, first created new column called `Breed_clean` and revised this field to match `breed_name` in `df_breed_labels_api_clean.csv`
- * Within Jupyter Notebook 
+ * Within Jupyter Notebook: 
  	*   Converted original csv file into pandas dataframe
  	*   Dropped original `Breed` name field
  	*  Added new column called `breed_ID`, mapped based on `breed_name`  
