@@ -85,7 +85,7 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
 
  **Weight Data Cleaning and Transformation**
  * Within the original csv file, first created new column called `Breed_clean` and revised this field to match `breed_name` in `df_breed_labels_api_clean.csv`
- * Within Jupyter Notebook: 
+ * Within Jupyter Notebook 
  	*   Converted original csv file into pandas dataframe
  	*   Dropped original `Breed` name field
  	*  Added new column called `breed_ID`, mapped based on `breed_name`  
@@ -115,9 +115,10 @@ dog_breeds_df = pf.breeds('dog', return_df = True)
    * The newly created or trimmed dataframes were then loaded into the database using the `to_sql` method (as follows) 
      <img width="550" alt="to sql method" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.38.35%20PM.png">
    * After database upload, queries on all tables were performed to confirm that all dataframes were loaded correctly (as follows)
-     <img width="550" alt="dataframe extraction" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.42.44%20PM.png">
  
- [Click to Review Code - TheWoofTeam.ipynb](https://github.com/melissadiep94/dog_breeds_project/blob/main/TheWoofTeam.ipynb)
+ <img width="550" alt="dataframe extraction" src="https://github.com/melissadiep94/dog_breeds_project/blob/Carlyse/Images/Screen%20Shot%202021-08-26%20at%208.42.44%20PM.png">
+ 
+ [Click to Review Code - TheWoofTeam.ipynb](https://github.com/melissadiep94/dog_breeds_project/blob/main/Jupyter%20Notebooks/TheWoofTeam.ipynb)
  
  ## Schema ##
  ```
