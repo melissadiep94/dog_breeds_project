@@ -15,6 +15,7 @@ Our goal is to find the number of dogs that are able to be adopted in New Jersey
 * [Setup](#setup)
 * [Sample Queries](#sample-queries)
 * [Process Pain-Points](#process-pain-points)
+* [Web API using Flask](#web-api-using-flask)
 * [Team Members](#team-members)
 
 
